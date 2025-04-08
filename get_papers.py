@@ -27,6 +27,11 @@ def get_working_mirror():
             continue
     raise Exception("No working Sci-Hub mirrors found.")
 
+def doi_to_filename(doi):
+    # Replace characters that are not allowed in filenames
+    # Replace '/' and ':' with '_' to make the DOI safe as a filename
+    return doi.replace("/", "_").replace(":", "_").strip()
+
 def download_pdf(doi, base_url, output_dir="downloads"):
     url = f"{base_url}/{doi}"
     headers = {"User-Agent": "Mozilla/5.0"}
@@ -39,18 +44,18 @@ def download_pdf(doi, base_url, output_dir="downloads"):
 
         soup = BeautifulSoup(r.content, "html.parser")
         pdf_url = None
-        
+
         # Strategy 1: Look for an <iframe>
         iframe = soup.find("iframe")
         if iframe and iframe.get("src"):
             pdf_url = iframe.get("src")
-        
+
         # Strategy 2: If no iframe, look for an <embed>
         if not pdf_url:
             embed = soup.find("embed")
             if embed and embed.get("src"):
                 pdf_url = embed.get("src")
-        
+
         # Strategy 3: Look for direct links in <a> tags that end with .pdf
         if not pdf_url:
             links = soup.find_all("a", href=True)
@@ -59,7 +64,7 @@ def download_pdf(doi, base_url, output_dir="downloads"):
                 if href.lower().endswith(".pdf"):
                     pdf_url = href
                     break
-        
+
         # Strategy 4: Fallback using regex on the entire HTML page
         if not pdf_url:
             matches = re.findall(r'src=["\'](https?://[^"\']+\.pdf)', r.text)
@@ -78,7 +83,7 @@ def download_pdf(doi, base_url, output_dir="downloads"):
 
         # Prepare output folder and filename
         os.makedirs(output_dir, exist_ok=True)
-        safe_filename = re.sub(r"[^\w\-_\. ]", "_", doi) + ".pdf"
+        safe_filename = doi_to_filename(doi) + ".pdf"
         filepath = os.path.join(output_dir, safe_filename)
 
         # Download the PDF
