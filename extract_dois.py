@@ -20,4 +20,4 @@ def extract_dois_from_bibtex(bibtex_path, output_path):
 
 # Example usage
 if __name__ == "__main__":
-    extract_dois_from_bibtex("neuroscience.bib", "neuroscience_dois.txt")
+    extract_dois_from_bibtex("neuroscience.bib", "extracted_dois.txt")

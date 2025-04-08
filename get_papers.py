@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 import os
 import re
+import time
+import random
 
 # List of possible Sci-Hub mirrors
 SCI_HUB_URLS = [
@@ -14,10 +16,24 @@ SCI_HUB_URLS = [
 ]
 
 def read_dois(file_path):
+    """Read DOIs from the input file (one per line)."""
     with open(file_path, 'r', encoding='utf-8') as f:
         return [line.strip() for line in f if line.strip()]
 
+def load_library(library_file="library.txt"):
+    """Load the set of DOIs that have already been downloaded."""
+    if os.path.exists(library_file):
+        with open(library_file, "r", encoding="utf-8") as f:
+            return set(line.strip() for line in f if line.strip())
+    return set()
+
+def add_to_library(doi, library_file="library.txt"):
+    """Append a DOI to the library file."""
+    with open(library_file, "a", encoding="utf-8") as f:
+        f.write(doi + "\n")
+
 def get_working_mirror():
+    """Return the first responding Sci-Hub mirror."""
     for url in SCI_HUB_URLS:
         try:
             r = requests.get(url, timeout=5)
@@ -28,11 +44,14 @@ def get_working_mirror():
     raise Exception("No working Sci-Hub mirrors found.")
 
 def doi_to_filename(doi):
-    # Replace characters that are not allowed in filenames
-    # Replace '/' and ':' with '_' to make the DOI safe as a filename
+    """Convert a DOI into a filename-safe string."""
     return doi.replace("/", "_").replace(":", "_").strip()
 
 def download_pdf(doi, base_url, output_dir="downloads"):
+    """
+    Download the PDF for a given DOI from the selected Sci-Hub mirror.
+    Returns True if downloaded successfully, False otherwise.
+    """
     url = f"{base_url}/{doi}"
     headers = {"User-Agent": "Mozilla/5.0"}
 
@@ -40,7 +59,7 @@ def download_pdf(doi, base_url, output_dir="downloads"):
         r = requests.get(url, headers=headers, timeout=10)
         if r.status_code != 200:
             print(f"[!] Could not fetch page for DOI: {doi} (Status Code: {r.status_code})")
-            return
+            return False
 
         soup = BeautifulSoup(r.content, "html.parser")
         pdf_url = None
@@ -73,7 +92,7 @@ def download_pdf(doi, base_url, output_dir="downloads"):
 
         if not pdf_url:
             print(f"[!] No PDF found for DOI: {doi}")
-            return
+            return False
 
         # Normalize URL if it is relative or protocol-less
         if pdf_url.startswith("//"):
@@ -86,11 +105,11 @@ def download_pdf(doi, base_url, output_dir="downloads"):
         safe_filename = doi_to_filename(doi) + ".pdf"
         filepath = os.path.join(output_dir, safe_filename)
 
-        # Download the PDF
+        # Download the PDF file
         pdf_response = requests.get(pdf_url, headers=headers, stream=True, timeout=10)
         if pdf_response.status_code != 200:
             print(f"[!] Failed to download PDF for DOI: {doi} (Status Code: {pdf_response.status_code})")
-            return
+            return False
 
         with open(filepath, 'wb') as f:
             for chunk in pdf_response.iter_content(chunk_size=8192):
@@ -98,11 +117,26 @@ def download_pdf(doi, base_url, output_dir="downloads"):
                     f.write(chunk)
 
         print(f"[+] Downloaded: {safe_filename}")
+        return True
+
     except Exception as e:
         print(f"[!] Exception for DOI {doi}: {e}")
+        return False
 
-def bulk_download(doi_file):
-    dois = read_dois(doi_file)
+def bulk_download(doi_file, library_file="library.txt"):
+    """
+    Process the DOI file, skipping any DOIs already present in the library,
+    and downloading new papers.
+    """
+    all_dois = read_dois(doi_file)
+    downloaded_library = load_library(library_file)
+    
+    # Filter out already-downloaded DOIs
+    new_dois = [doi for doi in all_dois if doi not in downloaded_library]
+    if not new_dois:
+        print("[i] No new DOIs to process. All papers have already been downloaded.")
+        return
+
     try:
         base_url = get_working_mirror()
     except Exception as e:
@@ -110,8 +144,15 @@ def bulk_download(doi_file):
         return
 
     print(f"Using Sci-Hub mirror: {base_url}")
-    for doi in tqdm(dois, desc="Processing DOIs"):
-        download_pdf(doi, base_url)
+    for doi in tqdm(new_dois, desc="Processing DOIs"):
+        success = download_pdf(doi, base_url)
+        if success:
+            add_to_library(doi, library_file)
+        # 🕒 Add a randomized delay between downloads to avoid server overload
+        delay = random.uniform(2, 5)
+        print(f"[i] Sleeping for {delay:.2f} seconds to respect server load...")
+        time.sleep(delay)
 
 if __name__ == "__main__":
-    bulk_download("neuroscience_dois.txt")
+    # Replace "neuroscience_dois.txt" with your DOI list file (e.g., "extracted_dois.txt")
+    bulk_download("extracted_dois.txt")
