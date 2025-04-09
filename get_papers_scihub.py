@@ -48,11 +48,21 @@ def load_library(library_file="library.txt"):
 def add_to_library(doi, library_file="library.txt"):
     with open(library_file, "a", encoding="utf-8") as f:
         f.write(doi + "\n")
+    logging.info(f"Added DOI to library: {doi}")
 
 
 def log_failed_doi(doi, file_path="failed_dois.txt"):
-    with open(file_path, "a", encoding="utf-8") as f:
-        f.write(doi + "\n")
+    # Check if failed_dois.txt exists and contains this DOI already
+    existing_failed = set()
+    if os.path.exists(file_path):
+        with open(file_path, "r", encoding="utf-8") as f:
+            existing_failed = set(line.strip() for line in f if line.strip())
+    if doi in existing_failed:
+        logging.info(f"DOI already in failed_dois.txt: {doi}")
+    else:
+        with open(file_path, "a", encoding="utf-8") as f:
+            f.write(doi + "\n")
+        logging.info(f"Added DOI to failed_dois.txt: {doi}")
 
 
 def get_working_mirror():
@@ -143,6 +153,13 @@ def download_pdf(doi, base_url, output_dir="downloads"):
 def bulk_download(doi_file, library_file="library.txt"):
     all_dois = read_dois(doi_file)
     downloaded_library = load_library(library_file)
+    
+    # Log DOIs that are already in library.txt
+    for doi in all_dois:
+        if doi in downloaded_library:
+            logging.info(f"DOI already in library.txt: {doi}")
+
+    # Filter only new DOIs for download
     new_dois = [doi for doi in all_dois if doi not in downloaded_library]
 
     if not new_dois:
