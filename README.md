@@ -1,4 +1,4 @@
-# GetPapers
+# Sci-hub Downloader
 
 Command-line tool to extract DOIs from BibTeX files and download academic papers via Sci-Hub. Built for researchers, students, and developers who want faster, automated access to scientific literature.
 
@@ -27,7 +27,7 @@ Command-line tool to extract DOIs from BibTeX files and download academic papers
 ## Project Structure
 
 ```
-get-papers/
+scihub-downloader/
 ├── config.py              # Centralized configuration settings
 ├── main.py                # Main entry point with CLI subcommands
 ├── requirements.txt       # List of required Python packages
@@ -50,8 +50,8 @@ get-papers/
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/matiasrodlo/get-papers.git
-cd get-papers
+git clone https://github.com/matiasrodlo/scihub-downloader.git
+cd scihub-downloader
 ```
 
 ### Optional: Create and Activate a Virtual Environment:
