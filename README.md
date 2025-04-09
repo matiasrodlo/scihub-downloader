@@ -1,5 +1,3 @@
-Here's everything in markdown format without the code block wrapper:
-
 # GetPapers
 
 GetPapers is a command‑line application for managing academic papers by extracting DOIs from a BibTeX file and downloading the corresponding PDFs from Sci‑Hub. The project is organized into modular components to ensure maintainability, ease of configuration, and efficient execution.
