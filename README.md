@@ -1,6 +1,6 @@
 # GetPapers
 
-GetPapers is a command‑line application for managing academic papers by extracting DOIs from a BibTeX file and downloading the corresponding PDFs from Sci‑Hub. The project is organized into modular components to ensure maintainability, ease of configuration, and efficient execution.
+Command-line tool to extract DOIs from BibTeX files and download academic papers via Sci-Hub. Built for researchers, students, and developers who want faster, automated access to scientific literature.
 
 ## Features
 
