@@ -27,7 +27,7 @@ GetPapers is a command‑line application for managing academic papers by extrac
 ## Project Structure
 
 ```
-getpapers/
+get-papers/
 ├── config.py              # Centralized configuration settings
 ├── main.py                # Main entry point with CLI subcommands
 ├── requirements.txt       # List of required Python packages
@@ -50,8 +50,8 @@ getpapers/
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/matiasrodlo/getpapers.git
-cd getpapers
+git clone https://github.com/matiasrodlo/get-papers.git
+cd get-papers
 ```
 
 ### Optional: Create and Activate a Virtual Environment:
