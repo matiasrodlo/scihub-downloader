@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python-specific cache
+*.log
+*.sqlite3
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Flask instance folder or secret configs
+instance/
+*.secret
+*.pem
+
+# Runtime-generated data
+data/extracted_dois.txt
+data/failed_dois.txt
+data/library.txt
+data/extraction_summary.json
+data/*.pdf
+data/*.bib
+
+# Download logs
+logs/
+*.log
+
+# Node/npm if ever added
+node_modules/
+
+# Coverage/test
+htmlcov/
+.coverage
+.pytest_cache/
+tests/__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
