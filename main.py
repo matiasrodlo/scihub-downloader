@@ -1,6 +1,5 @@
-# main.py
-
 import sys
+import argparse
 from colorama import init, Fore, Style
 from src import doi_extractor, downloader
 from config import BIBTEX_FILE, EXTRACTED_DOIS_FILE
@@ -18,7 +17,6 @@ def interactive_menu():
 
     if choice == "1":
         print("\n[Extraction Mode]")
-        # Prompt text updated to ask for confirmation with Enter
         bibtex_input = input(
             f"Confirm with Enter that your BibTeX file is at the default location [{BIBTEX_FILE}],\n"
             "or type a new path: "
@@ -52,8 +50,25 @@ def interactive_menu():
     else:
         print(Fore.YELLOW + "\n⚠️  Invalid choice. Please restart the application and select a valid option.\n" + Style.RESET_ALL)
 
-def main():
-    interactive_menu()
+def run_extract(bibtex, output):
+    try:
+        doi_extractor.extract_dois_from_bibtex(bibtex, output)
+        print(Fore.GREEN + f"\n✅ DOI extraction successful! Output saved to {output}" + Style.RESET_ALL)
+    except Exception as e:
+        print(Fore.RED + f"\n❌ Extraction failed: {e}" + Style.RESET_ALL)
 
-if __name__ == "__main__":
-    main()
+def run_download(doi_file):
+    try:
+        downloader.download_all_papers(doi_file)
+        print(Fore.GREEN + "\n✅ Download process finished!" + Style.RESET_ALL)
+    except Exception as e:
+        print(Fore.RED + f"\n❌ Download failed: {e}" + Style.RESET_ALL)
+
+def main():
+    parser = argparse.ArgumentParser(description="Sci-Hub Downloader CLI")
+    subparsers = parser.add_subparsers(dest="command", help="Subcommands: extract or download")
+
+    # Subparser for extract
+    parser_extract = subparsers.add_parser("extract", help="Extract DOIs from a BibTeX file")
+    parser_extract.add_argument("--bibtex", type=str, default=BIBTEX_FILE, help="Path to BibTeX file")
+    parser_extract.add_argument("--output", type=str, default=EXTRACTED_DOIS_FILE, help="Path to

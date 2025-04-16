@@ -1,0 +1,10 @@
+{% extends "base.html" %} {% block content %}
+<h1>Sci-Hub Downloader</h1>
+<p>Choose an option below:</p>
+<div class="button-container">
+  <a class="button" href="{{ url_for('extract') }}">Extract DOIs from BibTeX</a>
+  <a class="button" href="{{ url_for('download') }}"
+    >Download PDFs from Sci-Hub</a
+  >
+</div>
+{% endblock %}

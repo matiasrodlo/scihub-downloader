@@ -1,2 +1,1349 @@
 2025-04-15 22:06:42,792 - INFO - No valid DOIs found to process.
 2025-04-15 22:12:20,236 - INFO - No valid DOIs found to process.
+2025-04-15 23:15:19,832 - INFO - Using Sci-Hub mirror: https://sci-hub.se
+2025-04-15 23:15:21,690 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3390_brainsci11020267.pdf
+2025-04-15 23:15:21,690 - INFO - Added DOI to library: 10.3390/brainsci11020267
+2025-04-15 23:15:21,691 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1017_S0033291719002393.pdf
+2025-04-15 23:15:21,691 - INFO - Added DOI to library: 10.1017/S0033291719002393
+2025-04-15 23:15:21,798 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_13803390802484797.pdf
+2025-04-15 23:15:21,799 - INFO - Added DOI to library: 10.1080/13803390802484797
+2025-04-15 23:15:21,832 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s00221-011-2605-3.pdf
+2025-04-15 23:15:21,833 - INFO - Added DOI to library: 10.1007/s00221-011-2605-3
+2025-04-15 23:15:22,185 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s00213-017-4538-4.pdf
+2025-04-15 23:15:22,185 - INFO - Added DOI to library: 10.1007/s00213-017-4538-4
+2025-04-15 23:15:24,123 - WARNING - No PDF link found for DOI: 10.1037/xlm0000516
+2025-04-15 23:15:24,123 - INFO - Logged failed DOI: 10.1037/xlm0000516
+2025-04-15 23:15:25,667 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_13218719.2013.873974.pdf
+2025-04-15 23:15:25,667 - INFO - Added DOI to library: 10.1080/13218719.2013.873974
+2025-04-15 23:15:25,913 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s12671-019-01279-4.pdf
+2025-04-15 23:15:25,913 - INFO - Added DOI to library: 10.1007/s12671-019-01279-4
+2025-04-15 23:15:26,695 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.concog.2011.12.007.pdf
+2025-04-15 23:15:26,696 - INFO - Added DOI to library: 10.1016/j.concog.2011.12.007
+2025-04-15 23:15:27,108 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_02699931.2016.1263601.pdf
+2025-04-15 23:15:27,109 - INFO - Added DOI to library: 10.1080/02699931.2016.1263601
+2025-04-15 23:15:30,348 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_15622975.2017.1296973.pdf
+2025-04-15 23:15:30,349 - INFO - Added DOI to library: 10.1080/15622975.2017.1296973
+2025-04-15 23:15:31,276 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1111_ejn.14946.pdf
+2025-04-15 23:15:31,277 - INFO - Added DOI to library: 10.1111/ejn.14946
+2025-04-15 23:15:31,953 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2016.01197.pdf
+2025-04-15 23:15:31,953 - INFO - Added DOI to library: 10.3389/fpsyg.2016.01197
+2025-04-15 23:15:32,017 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1523_JNEUROSCI.2486-17.2018.pdf
+2025-04-15 23:15:32,018 - INFO - Added DOI to library: 10.1523/JNEUROSCI.2486-17.2018
+2025-04-15 23:15:33,584 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.psfr.2013.08.001.pdf
+2025-04-15 23:15:33,585 - INFO - Added DOI to library: 10.1016/j.psfr.2013.08.001
+2025-04-15 23:15:35,922 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.bbr.2020.113079.pdf
+2025-04-15 23:15:35,922 - INFO - Added DOI to library: 10.1016/j.bbr.2020.113079
+2025-04-15 23:15:36,118 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.jad.2013.06.052.pdf
+2025-04-15 23:15:36,118 - INFO - Added DOI to library: 10.1016/j.jad.2013.06.052
+2025-04-15 23:15:36,566 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.jecp.2020.104809.pdf
+2025-04-15 23:15:36,567 - INFO - Added DOI to library: 10.1016/j.jecp.2020.104809
+2025-04-15 23:15:37,809 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_bs.pbr.2016.03.009.pdf
+2025-04-15 23:15:37,809 - INFO - Added DOI to library: 10.1016/bs.pbr.2016.03.009
+2025-04-15 23:15:38,807 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.actpsy.2021.103358.pdf
+2025-04-15 23:15:38,808 - INFO - Added DOI to library: 10.1016/j.actpsy.2021.103358
+2025-04-15 23:15:40,461 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neurobiolaging.2017.08.025.pdf
+2025-04-15 23:15:40,462 - INFO - Added DOI to library: 10.1016/j.neurobiolaging.2017.08.025
+2025-04-15 23:15:41,014 - ERROR - Failed to download PDF for DOI 10.1016/j.physbeh.2021.113602: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-06/82/stone2021.pdf#navpanes=0&view=FitH
+2025-04-15 23:15:41,015 - INFO - Logged failed DOI: 10.1016/j.physbeh.2021.113602
+2025-04-15 23:15:41,471 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3758_PBR.16.4.660.pdf
+2025-04-15 23:15:41,472 - INFO - Added DOI to library: 10.3758/PBR.16.4.660
+2025-04-15 23:15:42,683 - WARNING - No PDF link found for DOI: 10.30773/pi.2020.0251
+2025-04-15 23:15:42,683 - INFO - Logged failed DOI: 10.30773/pi.2020.0251
+2025-04-15 23:15:44,408 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s00213-009-1650-0.pdf
+2025-04-15 23:15:44,409 - INFO - Added DOI to library: 10.1007/s00213-009-1650-0
+2025-04-15 23:15:44,568 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1177_1087054717730611.pdf
+2025-04-15 23:15:44,568 - INFO - Added DOI to library: 10.1177/1087054717730611
+2025-04-15 23:15:45,283 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_02699931.2010.491647.pdf
+2025-04-15 23:15:45,284 - INFO - Added DOI to library: 10.1080/02699931.2010.491647
+2025-04-15 23:15:46,056 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2020.00180.pdf
+2025-04-15 23:15:46,057 - INFO - Added DOI to library: 10.3389/fpsyg.2020.00180
+2025-04-15 23:15:46,544 - WARNING - No PDF link found for DOI: 10.1016/bs.irn.2021.07.004
+2025-04-15 23:15:46,545 - INFO - Logged failed DOI: 10.1016/bs.irn.2021.07.004
+2025-04-15 23:15:49,020 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_87565641.2011.632458.pdf
+2025-04-15 23:15:49,020 - INFO - Added DOI to library: 10.1080/87565641.2011.632458
+2025-04-15 23:15:50,655 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1055_s-2004-830233.pdf
+2025-04-15 23:15:50,656 - INFO - Added DOI to library: 10.1055/s-2004-830233
+2025-04-15 23:15:51,240 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyt.2020.00288.pdf
+2025-04-15 23:15:51,241 - INFO - Added DOI to library: 10.3389/fpsyt.2020.00288
+2025-04-15 23:15:51,836 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_02699931.2015.1034091.pdf
+2025-04-15 23:15:51,836 - INFO - Added DOI to library: 10.1080/02699931.2015.1034091
+2025-04-15 23:15:52,749 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1348_000711010X492366.pdf
+2025-04-15 23:15:52,749 - INFO - Added DOI to library: 10.1348/000711010X492366
+2025-04-15 23:15:53,687 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neubiorev.2017.11.020.pdf
+2025-04-15 23:15:53,687 - INFO - Added DOI to library: 10.1016/j.neubiorev.2017.11.020
+2025-04-15 23:15:55,569 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1017_S1366728912000569.pdf
+2025-04-15 23:15:55,570 - INFO - Added DOI to library: 10.1017/S1366728912000569
+2025-04-15 23:15:57,312 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3758_s13414-016-1140-5.pdf
+2025-04-15 23:15:57,312 - INFO - Added DOI to library: 10.3758/s13414-016-1140-5
+2025-04-15 23:15:57,460 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuroscience.2016.06.013.pdf
+2025-04-15 23:15:57,461 - INFO - Added DOI to library: 10.1016/j.neuroscience.2016.06.013
+2025-04-15 23:15:57,893 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_10253890.2016.1192603.pdf
+2025-04-15 23:15:57,894 - INFO - Added DOI to library: 10.1080/10253890.2016.1192603
+2025-04-15 23:15:58,367 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neucom.2004.10.095.pdf
+2025-04-15 23:15:58,367 - INFO - Added DOI to library: 10.1016/j.neucom.2004.10.095
+2025-04-15 23:16:00,358 - WARNING - No PDF link found for DOI: 10.1523/ENEURO.0136-17.2017
+2025-04-15 23:16:00,358 - INFO - Logged failed DOI: 10.1523/ENEURO.0136-17.2017
+2025-04-15 23:16:01,071 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s10578-017-0749-5.pdf
+2025-04-15 23:16:01,072 - INFO - Added DOI to library: 10.1007/s10578-017-0749-5
+2025-04-15 23:16:01,582 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1111_desc.12024.pdf
+2025-04-15 23:16:01,583 - INFO - Added DOI to library: 10.1111/desc.12024
+2025-04-15 23:16:02,930 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2015.00142.pdf
+2025-04-15 23:16:02,930 - INFO - Added DOI to library: 10.3389/fpsyg.2015.00142
+2025-04-15 23:16:03,263 - WARNING - No PDF link found for DOI: 10.5093/psed2021a20
+2025-04-15 23:16:03,263 - INFO - Logged failed DOI: 10.5093/psed2021a20
+2025-04-15 23:16:04,502 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuroscience.2016.06.005.pdf
+2025-04-15 23:16:04,503 - INFO - Added DOI to library: 10.1016/j.neuroscience.2016.06.005
+2025-04-15 23:16:05,655 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.bandc.2009.02.002.pdf
+2025-04-15 23:16:05,656 - INFO - Added DOI to library: 10.1016/j.bandc.2009.02.002
+2025-04-15 23:16:08,455 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2015.01110.pdf
+2025-04-15 23:16:08,455 - INFO - Added DOI to library: 10.3389/fpsyg.2015.01110
+2025-04-15 23:16:08,691 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neures.2021.05.004.pdf
+2025-04-15 23:16:08,692 - INFO - Added DOI to library: 10.1016/j.neures.2021.05.004
+2025-04-15 23:16:09,251 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1002_cne.24804.pdf
+2025-04-15 23:16:09,252 - INFO - Added DOI to library: 10.1002/cne.24804
+2025-04-15 23:16:09,574 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_0894-4105.19.3.267.pdf
+2025-04-15 23:16:09,574 - INFO - Added DOI to library: 10.1037/0894-4105.19.3.267
+2025-04-15 23:16:09,701 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s10899-010-9237-6.pdf
+2025-04-15 23:16:09,701 - INFO - Added DOI to library: 10.1007/s10899-010-9237-6
+2025-04-15 23:16:13,105 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_87565641.2018.1510500.pdf
+2025-04-15 23:16:13,107 - INFO - Added DOI to library: 10.1080/87565641.2018.1510500
+2025-04-15 23:16:13,718 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.jecp.2010.07.004.pdf
+2025-04-15 23:16:13,718 - INFO - Added DOI to library: 10.1016/j.jecp.2010.07.004
+2025-04-15 23:16:13,781 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neunet.2021.07.013.pdf
+2025-04-15 23:16:13,782 - INFO - Added DOI to library: 10.1016/j.neunet.2021.07.013
+2025-04-15 23:16:14,140 - WARNING - No PDF link found for DOI: 10.3390/brainsci11091115
+2025-04-15 23:16:14,141 - INFO - Logged failed DOI: 10.3390/brainsci11091115
+2025-04-15 23:16:14,163 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.jecp.2011.01.006.pdf
+2025-04-15 23:16:14,163 - INFO - Added DOI to library: 10.1016/j.jecp.2011.01.006
+2025-04-15 23:16:17,687 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neulet.2011.12.049.pdf
+2025-04-15 23:16:17,688 - INFO - Added DOI to library: 10.1016/j.neulet.2011.12.049
+2025-04-15 23:16:17,691 - ERROR - Failed to download PDF for DOI 10.1080/13854046.2021.1971767: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-07/a9/10.1080@13854046.2021.1971767.pdf#navpanes=0&view=FitH
+2025-04-15 23:16:17,692 - INFO - Logged failed DOI: 10.1080/13854046.2021.1971767
+2025-04-15 23:16:17,750 - WARNING - No PDF link found for DOI: 10.1037/neu0000666
+2025-04-15 23:16:17,750 - INFO - Logged failed DOI: 10.1037/neu0000666
+2025-04-15 23:16:18,100 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.jecp.2014.01.021.pdf
+2025-04-15 23:16:18,101 - INFO - Added DOI to library: 10.1016/j.jecp.2014.01.021
+2025-04-15 23:16:19,510 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.bbr.2017.08.009.pdf
+2025-04-15 23:16:19,512 - INFO - Added DOI to library: 10.1016/j.bbr.2017.08.009
+2025-04-15 23:16:22,129 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.biopsycho.2007.12.002.pdf
+2025-04-15 23:16:22,134 - INFO - Added DOI to library: 10.1016/j.biopsycho.2007.12.002
+2025-04-15 23:16:23,227 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.jecp.2018.02.002.pdf
+2025-04-15 23:16:23,228 - INFO - Added DOI to library: 10.1016/j.jecp.2018.02.002
+2025-04-15 23:16:23,409 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_00223980.2016.1252708.pdf
+2025-04-15 23:16:23,409 - INFO - Added DOI to library: 10.1080/00223980.2016.1252708
+2025-04-15 23:16:23,594 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.tics.2007.04.005.pdf
+2025-04-15 23:16:23,594 - INFO - Added DOI to library: 10.1016/j.tics.2007.04.005
+2025-04-15 23:16:23,968 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neubiorev.2012.11.014.pdf
+2025-04-15 23:16:23,968 - INFO - Added DOI to library: 10.1016/j.neubiorev.2012.11.014
+2025-04-15 23:16:26,722 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1017_S135561771500034X.pdf
+2025-04-15 23:16:26,723 - INFO - Added DOI to library: 10.1017/S135561771500034X
+2025-04-15 23:16:27,980 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1017_S1366728915000930.pdf
+2025-04-15 23:16:27,981 - INFO - Added DOI to library: 10.1017/S1366728915000930
+2025-04-15 23:16:27,983 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_0096-3445.136.2.241.pdf
+2025-04-15 23:16:27,984 - INFO - Added DOI to library: 10.1037/0096-3445.136.2.241
+2025-04-15 23:16:28,032 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_87565641.2020.1765169.pdf
+2025-04-15 23:16:28,032 - INFO - Added DOI to library: 10.1080/87565641.2020.1765169
+2025-04-15 23:16:29,104 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.jarmac.2016.04.008.pdf
+2025-04-15 23:16:29,105 - INFO - Added DOI to library: 10.1016/j.jarmac.2016.04.008
+2025-04-15 23:16:30,192 - WARNING - No PDF link found for DOI: 10.3389/fpsyg.2021.793000
+2025-04-15 23:16:30,192 - INFO - Logged failed DOI: 10.3389/fpsyg.2021.793000
+2025-04-15 23:16:32,550 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.nlm.2014.03.002.pdf
+2025-04-15 23:16:32,551 - INFO - Added DOI to library: 10.1016/j.nlm.2014.03.002
+2025-04-15 23:16:32,593 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2011.00190.pdf
+2025-04-15 23:16:32,593 - INFO - Added DOI to library: 10.3389/fpsyg.2011.00190
+2025-04-15 23:16:33,217 - WARNING - No PDF link found for DOI: 10.1134/S0044467719040117
+2025-04-15 23:16:33,217 - INFO - Logged failed DOI: 10.1134/S0044467719040117
+2025-04-15 23:16:34,023 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s40429-020-00341-9.pdf
+2025-04-15 23:16:34,024 - INFO - Added DOI to library: 10.1007/s40429-020-00341-9
+2025-04-15 23:16:34,465 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.nlm.2017.05.006.pdf
+2025-04-15 23:16:34,465 - INFO - Added DOI to library: 10.1016/j.nlm.2017.05.006
+2025-04-15 23:16:36,911 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2014.00188.pdf
+2025-04-15 23:16:36,911 - INFO - Added DOI to library: 10.3389/fpsyg.2014.00188
+2025-04-15 23:16:37,132 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuropsychologia.2018.04.013.pdf
+2025-04-15 23:16:37,133 - INFO - Added DOI to library: 10.1016/j.neuropsychologia.2018.04.013
+2025-04-15 23:16:38,502 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3390_brainsci11040503.pdf
+2025-04-15 23:16:38,503 - INFO - Added DOI to library: 10.3390/brainsci11040503
+2025-04-15 23:16:38,812 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.janxdis.2011.04.010.pdf
+2025-04-15 23:16:38,813 - INFO - Added DOI to library: 10.1016/j.janxdis.2011.04.010
+2025-04-15 23:16:38,975 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fnhum.2017.00138.pdf
+2025-04-15 23:16:38,976 - INFO - Added DOI to library: 10.3389/fnhum.2017.00138
+2025-04-15 23:16:41,953 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2014.00390.pdf
+2025-04-15 23:16:41,954 - INFO - Added DOI to library: 10.3389/fpsyg.2014.00390
+2025-04-15 23:16:42,469 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2014.00550.pdf
+2025-04-15 23:16:42,470 - INFO - Added DOI to library: 10.3389/fpsyg.2014.00550
+2025-04-15 23:16:43,008 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1097_FBP.0000000000000432.pdf
+2025-04-15 23:16:43,009 - INFO - Added DOI to library: 10.1097/FBP.0000000000000432
+2025-04-15 23:16:44,394 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1093_cercor_bhq153.pdf
+2025-04-15 23:16:44,395 - INFO - Added DOI to library: 10.1093/cercor/bhq153
+2025-04-15 23:16:44,523 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_neuro.09.020.2009.pdf
+2025-04-15 23:16:44,524 - INFO - Added DOI to library: 10.3389/neuro.09.020.2009
+2025-04-15 23:16:46,749 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1177_1745691615596790.pdf
+2025-04-15 23:16:46,750 - INFO - Added DOI to library: 10.1177/1745691615596790
+2025-04-15 23:16:47,975 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1002_pchj.310.pdf
+2025-04-15 23:16:47,976 - INFO - Added DOI to library: 10.1002/pchj.310
+2025-04-15 23:16:48,203 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s00426-013-0514-8.pdf
+2025-04-15 23:16:48,203 - INFO - Added DOI to library: 10.1007/s00426-013-0514-8
+2025-04-15 23:16:48,574 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fnhum.2016.00588.pdf
+2025-04-15 23:16:48,575 - INFO - Added DOI to library: 10.3389/fnhum.2016.00588
+2025-04-15 23:16:50,993 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s10339-017-0844-3.pdf
+2025-04-15 23:16:50,994 - INFO - Added DOI to library: 10.1007/s10339-017-0844-3
+2025-04-15 23:16:52,095 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.actpsy.2020.103007.pdf
+2025-04-15 23:16:52,095 - INFO - Added DOI to library: 10.1016/j.actpsy.2020.103007
+2025-04-15 23:16:52,457 - WARNING - No PDF link found for DOI: 10.12804/revistas.urosario.edu.co/apl/a.7743
+2025-04-15 23:16:52,457 - INFO - Logged failed DOI: 10.12804/revistas.urosario.edu.co/apl/a.7743
+2025-04-15 23:16:53,565 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neubiorev.2016.06.038.pdf
+2025-04-15 23:16:53,566 - INFO - Added DOI to library: 10.1016/j.neubiorev.2016.06.038
+2025-04-15 23:16:53,881 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s00406-018-0948-5.pdf
+2025-04-15 23:16:53,882 - INFO - Added DOI to library: 10.1007/s00406-018-0948-5
+2025-04-15 23:16:55,453 - WARNING - No PDF link found for DOI: 10.5334/pb-50-3-4-353
+2025-04-15 23:16:55,489 - INFO - Logged failed DOI: 10.5334/pb-50-3-4-353
+2025-04-15 23:16:56,707 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1162_jocn.2007.19.10.1678.pdf
+2025-04-15 23:16:56,707 - INFO - Added DOI to library: 10.1162/jocn.2007.19.10.1678
+2025-04-15 23:16:57,374 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.bica.2014.11.002.pdf
+2025-04-15 23:16:57,374 - INFO - Added DOI to library: 10.1016/j.bica.2014.11.002
+2025-04-15 23:16:58,963 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuroscience.2019.12.046.pdf
+2025-04-15 23:16:58,964 - INFO - Added DOI to library: 10.1016/j.neuroscience.2019.12.046
+2025-04-15 23:16:59,311 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1017_S0033291716003226.pdf
+2025-04-15 23:16:59,312 - INFO - Added DOI to library: 10.1017/S0033291716003226
+2025-04-15 23:17:00,015 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2014.01465.pdf
+2025-04-15 23:17:00,016 - INFO - Added DOI to library: 10.3389/fpsyg.2014.01465
+2025-04-15 23:17:02,220 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1123_jsep.33.5.649.pdf
+2025-04-15 23:17:02,221 - INFO - Added DOI to library: 10.1123/jsep.33.5.649
+2025-04-15 23:17:02,501 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1002_brb3.2148.pdf
+2025-04-15 23:17:02,501 - INFO - Added DOI to library: 10.1002/brb3.2148
+2025-04-15 23:17:02,806 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1017_S1355617712000410.pdf
+2025-04-15 23:17:02,806 - INFO - Added DOI to library: 10.1017/S1355617712000410
+2025-04-15 23:17:03,321 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_emo0000264.pdf
+2025-04-15 23:17:03,321 - INFO - Added DOI to library: 10.1037/emo0000264
+2025-04-15 23:17:05,220 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_neuro.09.023.2009.pdf
+2025-04-15 23:17:05,220 - INFO - Added DOI to library: 10.3389/neuro.09.023.2009
+2025-04-15 23:17:06,562 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_S0001-6918(02)00150-6.pdf
+2025-04-15 23:17:06,562 - INFO - Added DOI to library: 10.1016/S0001-6918(02)00150-6
+2025-04-15 23:17:07,486 - WARNING - No PDF link found for DOI: 10.3389/fpsyg.2021.687337
+2025-04-15 23:17:07,487 - INFO - Logged failed DOI: 10.3389/fpsyg.2021.687337
+2025-04-15 23:17:08,114 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.schres.2015.08.009.pdf
+2025-04-15 23:17:08,114 - INFO - Added DOI to library: 10.1016/j.schres.2015.08.009
+2025-04-15 23:17:08,916 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.cognition.2006.12.013.pdf
+2025-04-15 23:17:08,916 - INFO - Added DOI to library: 10.1016/j.cognition.2006.12.013
+2025-04-15 23:17:11,313 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.cognition.2018.02.004.pdf
+2025-04-15 23:17:11,331 - INFO - Added DOI to library: 10.1016/j.cognition.2018.02.004
+2025-04-15 23:17:12,034 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1002_brb3.90.pdf
+2025-04-15 23:17:12,035 - INFO - Added DOI to library: 10.1002/brb3.90
+2025-04-15 23:17:13,425 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuropharm.2017.01.018.pdf
+2025-04-15 23:17:13,425 - INFO - Added DOI to library: 10.1016/j.neuropharm.2017.01.018
+2025-04-15 23:17:13,608 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.schres.2005.01.019.pdf
+2025-04-15 23:17:13,608 - INFO - Added DOI to library: 10.1016/j.schres.2005.01.019
+2025-04-15 23:17:14,510 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.jecp.2015.04.003.pdf
+2025-04-15 23:17:14,510 - INFO - Added DOI to library: 10.1016/j.jecp.2015.04.003
+2025-04-15 23:17:15,796 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s12640-010-9194-y.pdf
+2025-04-15 23:17:15,797 - INFO - Added DOI to library: 10.1007/s12640-010-9194-y
+2025-04-15 23:17:17,327 - WARNING - No PDF link found for DOI: 10.3758/s13428-021-01668-5
+2025-04-15 23:17:17,327 - INFO - Logged failed DOI: 10.3758/s13428-021-01668-5
+2025-04-15 23:17:18,052 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2019.00359.pdf
+2025-04-15 23:17:18,052 - INFO - Added DOI to library: 10.3389/fpsyg.2019.00359
+2025-04-15 23:17:18,165 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3390_bs11030037.pdf
+2025-04-15 23:17:18,166 - INFO - Added DOI to library: 10.3390/bs11030037
+2025-04-15 23:17:18,953 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_1028415X.2016.1145376.pdf
+2025-04-15 23:17:18,954 - INFO - Added DOI to library: 10.1080/1028415X.2016.1145376
+2025-04-15 23:17:22,404 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s10899-018-9758-y.pdf
+2025-04-15 23:17:22,405 - INFO - Added DOI to library: 10.1007/s10899-018-9758-y
+2025-04-15 23:17:22,953 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.bandc.2018.11.004.pdf
+2025-04-15 23:17:22,954 - INFO - Added DOI to library: 10.1016/j.bandc.2018.11.004
+2025-04-15 23:17:23,388 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_a0032379.pdf
+2025-04-15 23:17:23,388 - INFO - Added DOI to library: 10.1037/a0032379
+2025-04-15 23:17:24,080 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.bandc.2007.05.006.pdf
+2025-04-15 23:17:24,081 - INFO - Added DOI to library: 10.1016/j.bandc.2007.05.006
+2025-04-15 23:17:24,156 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3758_s13414-010-0065-7.pdf
+2025-04-15 23:17:24,158 - INFO - Added DOI to library: 10.3758/s13414-010-0065-7
+2025-04-15 23:17:25,681 - ERROR - Error fetching page for DOI 10.1097/01.wnn.0000213919.95266.0d: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1097/01.wnn.0000213919.95266.0d
+2025-04-15 23:17:25,681 - INFO - Logged failed DOI: 10.1097/01.wnn.0000213919.95266.0d
+2025-04-15 23:17:26,283 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_0894-4105.19.3.332.pdf
+2025-04-15 23:17:26,283 - INFO - Added DOI to library: 10.1037/0894-4105.19.3.332
+2025-04-15 23:17:26,737 - ERROR - Error fetching page for DOI 10.1016/S0149-7634(02)00040-4: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/S0149-7634(02)00040-4
+2025-04-15 23:17:26,738 - INFO - Logged failed DOI: 10.1016/S0149-7634(02)00040-4
+2025-04-15 23:17:27,994 - ERROR - Error fetching page for DOI 10.3758/BF03193069: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3758/BF03193069
+2025-04-15 23:17:27,995 - INFO - Logged failed DOI: 10.3758/BF03193069
+2025-04-15 23:17:28,660 - ERROR - Error fetching page for DOI 10.1055/s-2004-830303: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1055/s-2004-830303
+2025-04-15 23:17:28,660 - INFO - Logged failed DOI: 10.1055/s-2004-830303
+2025-04-15 23:17:30,506 - ERROR - Error fetching page for DOI 10.1080/00223980.2012.710663: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/00223980.2012.710663
+2025-04-15 23:17:30,506 - INFO - Logged failed DOI: 10.1080/00223980.2012.710663
+2025-04-15 23:17:30,693 - ERROR - Error fetching page for DOI 10.1080/20008198.2018.1450595: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/20008198.2018.1450595
+2025-04-15 23:17:30,694 - INFO - Logged failed DOI: 10.1080/20008198.2018.1450595
+2025-04-15 23:17:30,911 - ERROR - Error fetching page for DOI 10.1002/hbm.23181: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1002/hbm.23181
+2025-04-15 23:17:30,911 - INFO - Logged failed DOI: 10.1002/hbm.23181
+2025-04-15 23:17:31,308 - ERROR - Error fetching page for DOI 10.1016/j.cognition.2018.03.015: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.cognition.2018.03.015
+2025-04-15 23:17:31,309 - INFO - Logged failed DOI: 10.1016/j.cognition.2018.03.015
+2025-04-15 23:17:32,640 - ERROR - Error fetching page for DOI 10.1037/emo0000096: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/emo0000096
+2025-04-15 23:17:32,641 - INFO - Logged failed DOI: 10.1037/emo0000096
+2025-04-15 23:17:35,552 - ERROR - Error fetching page for DOI 10.1016/j.comppsych.2021.152294: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.comppsych.2021.152294
+2025-04-15 23:17:35,553 - INFO - Logged failed DOI: 10.1016/j.comppsych.2021.152294
+2025-04-15 23:17:35,689 - ERROR - Error fetching page for DOI 10.1016/j.copsyc.2017.04.018: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.copsyc.2017.04.018
+2025-04-15 23:17:35,690 - INFO - Logged failed DOI: 10.1016/j.copsyc.2017.04.018
+2025-04-15 23:17:36,028 - ERROR - Error fetching page for DOI 10.3233/JPD-202449: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3233/JPD-202449
+2025-04-15 23:17:36,029 - INFO - Logged failed DOI: 10.3233/JPD-202449
+2025-04-15 23:17:36,224 - ERROR - Error fetching page for DOI 10.1026/0033-3042/a000004: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1026/0033-3042/a000004
+2025-04-15 23:17:36,225 - INFO - Logged failed DOI: 10.1026/0033-3042/a000004
+2025-04-15 23:17:36,531 - ERROR - Error fetching page for DOI 10.1016/j.tins.2021.09.001: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.tins.2021.09.001
+2025-04-15 23:17:36,532 - INFO - Logged failed DOI: 10.1016/j.tins.2021.09.001
+2025-04-15 23:17:39,092 - ERROR - Error fetching page for DOI 10.1002/da.22785: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1002/da.22785
+2025-04-15 23:17:39,093 - INFO - Logged failed DOI: 10.1002/da.22785
+2025-04-15 23:17:39,228 - ERROR - Error fetching page for DOI 10.1016/j.pbb.2020.172994: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.pbb.2020.172994
+2025-04-15 23:17:39,228 - INFO - Logged failed DOI: 10.1016/j.pbb.2020.172994
+2025-04-15 23:17:39,705 - ERROR - Error fetching page for DOI 10.3389/fpsyg.2017.01120: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fpsyg.2017.01120
+2025-04-15 23:17:39,706 - INFO - Logged failed DOI: 10.3389/fpsyg.2017.01120
+2025-04-15 23:17:40,421 - ERROR - Error fetching page for DOI 10.3389/fnhum.2019.00260: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fnhum.2019.00260
+2025-04-15 23:17:40,422 - INFO - Logged failed DOI: 10.3389/fnhum.2019.00260
+2025-04-15 23:17:40,728 - ERROR - Error fetching page for DOI 10.1016/j.neubiorev.2018.04.013: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neubiorev.2018.04.013
+2025-04-15 23:17:40,729 - INFO - Logged failed DOI: 10.1016/j.neubiorev.2018.04.013
+2025-04-15 23:17:42,368 - ERROR - Error fetching page for DOI 10.1007/s10899-017-9724-0: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s10899-017-9724-0
+2025-04-15 23:17:42,369 - INFO - Logged failed DOI: 10.1007/s10899-017-9724-0
+2025-04-15 23:17:43,330 - ERROR - Error fetching page for DOI 10.1016/j.cognition.2020.104313: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.cognition.2020.104313
+2025-04-15 23:17:43,331 - INFO - Logged failed DOI: 10.1016/j.cognition.2020.104313
+2025-04-15 23:17:43,600 - ERROR - Error fetching page for DOI 10.1177/0956797613497023: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1177/0956797613497023
+2025-04-15 23:17:43,602 - ERROR - Error fetching page for DOI 10.1177/0963721412454875: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1177/0963721412454875
+2025-04-15 23:17:43,603 - INFO - Logged failed DOI: 10.1177/0956797613497023
+2025-04-15 23:17:43,603 - INFO - Logged failed DOI: 10.1177/0963721412454875
+2025-04-15 23:17:44,722 - ERROR - Error fetching page for DOI 10.1080/02699931.2012.698251: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/02699931.2012.698251
+2025-04-15 23:17:44,722 - INFO - Logged failed DOI: 10.1080/02699931.2012.698251
+2025-04-15 23:17:46,074 - ERROR - Error fetching page for DOI 10.1123/jsep.34.3.322: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1123/jsep.34.3.322
+2025-04-15 23:17:46,075 - INFO - Logged failed DOI: 10.1123/jsep.34.3.322
+2025-04-15 23:17:46,361 - ERROR - Error fetching page for DOI 10.1016/B978-0-12-805308-9.00030-0: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/B978-0-12-805308-9.00030-0
+2025-04-15 23:17:46,361 - INFO - Logged failed DOI: 10.1016/B978-0-12-805308-9.00030-0
+2025-04-15 23:17:46,449 - ERROR - Error fetching page for DOI 10.1080/20445911.2013.855780: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/20445911.2013.855780
+2025-04-15 23:17:46,450 - INFO - Logged failed DOI: 10.1080/20445911.2013.855780
+2025-04-15 23:17:47,077 - ERROR - Error fetching page for DOI 10.1007/s10339-021-01021-w: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s10339-021-01021-w
+2025-04-15 23:17:47,078 - INFO - Logged failed DOI: 10.1007/s10339-021-01021-w
+2025-04-15 23:17:48,729 - ERROR - Error fetching page for DOI 10.5334/pb-50-3-4-147: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.5334/pb-50-3-4-147
+2025-04-15 23:17:48,729 - INFO - Logged failed DOI: 10.5334/pb-50-3-4-147
+2025-04-15 23:17:49,575 - ERROR - Error fetching page for DOI 10.1080/20445911.2011.586625: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/20445911.2011.586625
+2025-04-15 23:17:49,576 - INFO - Logged failed DOI: 10.1080/20445911.2011.586625
+2025-04-15 23:17:49,944 - ERROR - Error fetching page for DOI 10.1177/0301006616658307: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1177/0301006616658307
+2025-04-15 23:17:49,945 - INFO - Logged failed DOI: 10.1177/0301006616658307
+2025-04-15 23:17:50,151 - ERROR - Error fetching page for DOI 10.5709/acp-0255-8: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.5709/acp-0255-8
+2025-04-15 23:17:50,152 - INFO - Logged failed DOI: 10.5709/acp-0255-8
+2025-04-15 23:17:50,559 - ERROR - Error fetching page for DOI 10.1016/j.psychres.2011.07.030: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.psychres.2011.07.030
+2025-04-15 23:17:50,560 - INFO - Logged failed DOI: 10.1016/j.psychres.2011.07.030
+2025-04-15 23:17:52,877 - ERROR - Error fetching page for DOI 10.36131/cnfioritieditore20200404: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.36131/cnfioritieditore20200404
+2025-04-15 23:17:52,878 - INFO - Logged failed DOI: 10.36131/cnfioritieditore20200404
+2025-04-15 23:17:53,310 - ERROR - Error fetching page for DOI 10.1177/0305735620978690: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1177/0305735620978690
+2025-04-15 23:17:53,312 - ERROR - Error fetching page for DOI 10.1186/1744-9081-6-53: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1186/1744-9081-6-53
+2025-04-15 23:17:53,313 - INFO - Logged failed DOI: 10.1186/1744-9081-6-53
+2025-04-15 23:17:53,313 - INFO - Logged failed DOI: 10.1177/0305735620978690
+2025-04-15 23:17:53,895 - ERROR - Error fetching page for DOI 10.1016/j.biopsych.2005.08.013: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.biopsych.2005.08.013
+2025-04-15 23:17:53,895 - INFO - Logged failed DOI: 10.1016/j.biopsych.2005.08.013
+2025-04-15 23:17:55,545 - ERROR - Error fetching page for DOI 10.1016/j.jpsychires.2021.09.042: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.jpsychires.2021.09.042
+2025-04-15 23:17:55,546 - INFO - Logged failed DOI: 10.1016/j.jpsychires.2021.09.042
+2025-04-15 23:17:55,883 - ERROR - Error fetching page for DOI 10.3389/fpsyg.2019.02038: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fpsyg.2019.02038
+2025-04-15 23:17:55,883 - INFO - Logged failed DOI: 10.3389/fpsyg.2019.02038
+2025-04-15 23:17:56,701 - ERROR - Error fetching page for DOI 10.1016/j.jneumeth.2018.05.011: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.jneumeth.2018.05.011
+2025-04-15 23:17:56,702 - INFO - Logged failed DOI: 10.1016/j.jneumeth.2018.05.011
+2025-04-15 23:17:56,805 - ERROR - Error fetching page for DOI 10.3389/fpsyg.2014.00599: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fpsyg.2014.00599
+2025-04-15 23:17:56,805 - INFO - Logged failed DOI: 10.3389/fpsyg.2014.00599
+2025-04-15 23:17:57,419 - ERROR - Error fetching page for DOI 10.1016/j.drugalcdep.2013.09.027: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.drugalcdep.2013.09.027
+2025-04-15 23:17:57,420 - INFO - Logged failed DOI: 10.1016/j.drugalcdep.2013.09.027
+2025-04-15 23:17:57,931 - ERROR - Error fetching page for DOI 10.1016/j.cognition.2019.02.005: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.cognition.2019.02.005
+2025-04-15 23:17:57,932 - INFO - Logged failed DOI: 10.1016/j.cognition.2019.02.005
+2025-04-15 23:17:59,587 - ERROR - Error fetching page for DOI 10.1016/j.actpsy.2013.01.008: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.actpsy.2013.01.008
+2025-04-15 23:17:59,588 - INFO - Logged failed DOI: 10.1016/j.actpsy.2013.01.008
+2025-04-15 23:17:59,982 - ERROR - Error fetching page for DOI 10.1176/appi.neuropsych.12010016: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1176/appi.neuropsych.12010016
+2025-04-15 23:17:59,982 - INFO - Logged failed DOI: 10.1176/appi.neuropsych.12010016
+2025-04-15 23:18:00,391 - ERROR - Error fetching page for DOI 10.3389/fpsyg.2018.01802: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fpsyg.2018.01802
+2025-04-15 23:18:00,392 - INFO - Logged failed DOI: 10.3389/fpsyg.2018.01802
+2025-04-15 23:18:01,273 - ERROR - Error fetching page for DOI 10.1111/j.1460-9568.2005.04505.x: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/j.1460-9568.2005.04505.x
+2025-04-15 23:18:01,273 - INFO - Logged failed DOI: 10.1111/j.1460-9568.2005.04505.x
+2025-04-15 23:18:02,980 - ERROR - Error fetching page for DOI 10.1093/cercor/bhn189: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1093/cercor/bhn189
+2025-04-15 23:18:02,981 - INFO - Logged failed DOI: 10.1093/cercor/bhn189
+2025-04-15 23:18:03,243 - ERROR - Error fetching page for DOI 10.1111/ap.12141: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/ap.12141
+2025-04-15 23:18:03,243 - INFO - Logged failed DOI: 10.1111/ap.12141
+2025-04-15 23:18:03,961 - ERROR - Error fetching page for DOI 10.25115/psye.v10i1.2103: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.25115/psye.v10i1.2103
+2025-04-15 23:18:03,962 - INFO - Logged failed DOI: 10.25115/psye.v10i1.2103
+2025-04-15 23:18:04,261 - ERROR - Error fetching page for DOI 10.3389/fncir.2018.00015: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fncir.2018.00015
+2025-04-15 23:18:04,262 - INFO - Logged failed DOI: 10.3389/fncir.2018.00015
+2025-04-15 23:18:04,787 - ERROR - Error fetching page for DOI 10.1016/j.neuron.2016.10.031: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuron.2016.10.031
+2025-04-15 23:18:04,787 - INFO - Logged failed DOI: 10.1016/j.neuron.2016.10.031
+2025-04-15 23:18:06,589 - ERROR - Error fetching page for DOI 10.1016/j.jecp.2009.01.002: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.jecp.2009.01.002
+2025-04-15 23:18:06,589 - INFO - Logged failed DOI: 10.1016/j.jecp.2009.01.002
+2025-04-15 23:18:06,840 - ERROR - Error fetching page for DOI 10.1080/20445911.2013.809348: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/20445911.2013.809348
+2025-04-15 23:18:06,840 - INFO - Logged failed DOI: 10.1080/20445911.2013.809348
+2025-04-15 23:18:06,878 - ERROR - Error fetching page for DOI 10.1037/a0023333: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/a0023333
+2025-04-15 23:18:06,879 - INFO - Logged failed DOI: 10.1037/a0023333
+2025-04-15 23:18:07,863 - ERROR - Error fetching page for DOI 10.1016/j.neuropsychologia.2019.107134: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuropsychologia.2019.107134
+2025-04-15 23:18:07,864 - INFO - Logged failed DOI: 10.1016/j.neuropsychologia.2019.107134
+2025-04-15 23:18:08,581 - ERROR - Error fetching page for DOI 10.1016/j.cogdev.2012.07.003: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.cogdev.2012.07.003
+2025-04-15 23:18:08,582 - INFO - Logged failed DOI: 10.1016/j.cogdev.2012.07.003
+2025-04-15 23:18:10,706 - ERROR - Error fetching page for DOI 10.1017/S1366728914000856: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/S1366728914000856
+2025-04-15 23:18:10,707 - INFO - Logged failed DOI: 10.1017/S1366728914000856
+2025-04-15 23:18:10,846 - ERROR - Error fetching page for DOI 10.1080/21622965.2021.1937169: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/21622965.2021.1937169
+2025-04-15 23:18:10,848 - ERROR - Error fetching page for DOI 10.1159/000508682: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1159/000508682
+2025-04-15 23:18:10,849 - INFO - Logged failed DOI: 10.1080/21622965.2021.1937169
+2025-04-15 23:18:10,850 - INFO - Logged failed DOI: 10.1159/000508682
+2025-04-15 23:18:12,369 - ERROR - Error fetching page for DOI 10.1177/0963721411408772: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1177/0963721411408772
+2025-04-15 23:18:12,370 - INFO - Logged failed DOI: 10.1177/0963721411408772
+2025-04-15 23:18:13,495 - ERROR - Error fetching page for DOI 10.1038/s41593-018-0310-2: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1038/s41593-018-0310-2
+2025-04-15 23:18:13,496 - INFO - Logged failed DOI: 10.1038/s41593-018-0310-2
+2025-04-15 23:18:14,416 - ERROR - Error fetching page for DOI 10.1080/13854040500519752: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/13854040500519752
+2025-04-15 23:18:14,417 - INFO - Logged failed DOI: 10.1080/13854040500519752
+2025-04-15 23:18:15,339 - ERROR - Error fetching page for DOI 10.1016/j.drugalcdep.2018.09.013: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.drugalcdep.2018.09.013
+2025-04-15 23:18:15,340 - INFO - Logged failed DOI: 10.1016/j.drugalcdep.2018.09.013
+2025-04-15 23:18:15,646 - ERROR - Error fetching page for DOI 10.1016/j.psychsport.2009.05.006: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.psychsport.2009.05.006
+2025-04-15 23:18:15,647 - INFO - Logged failed DOI: 10.1016/j.psychsport.2009.05.006
+2025-04-15 23:18:15,849 - ERROR - Error fetching page for DOI 10.3389/fpsyg.2017.01192: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fpsyg.2017.01192
+2025-04-15 23:18:15,850 - INFO - Logged failed DOI: 10.3389/fpsyg.2017.01192
+2025-04-15 23:18:16,780 - ERROR - Error fetching page for DOI 10.1097/YIC.0000000000000129: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1097/YIC.0000000000000129
+2025-04-15 23:18:16,781 - INFO - Logged failed DOI: 10.1097/YIC.0000000000000129
+2025-04-15 23:18:19,127 - ERROR - Error fetching page for DOI 10.1016/j.actpsy.2014.02.007: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.actpsy.2014.02.007
+2025-04-15 23:18:19,128 - INFO - Logged failed DOI: 10.1016/j.actpsy.2014.02.007
+2025-04-15 23:18:19,946 - ERROR - Error fetching page for DOI 10.1016/j.conb.2010.03.002: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.conb.2010.03.002
+2025-04-15 23:18:19,947 - INFO - Logged failed DOI: 10.1016/j.conb.2010.03.002
+2025-04-15 23:18:20,868 - ERROR - Error fetching page for DOI 10.1027/1618-3169.53.3.191: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1027/1618-3169.53.3.191
+2025-04-15 23:18:20,870 - ERROR - Error fetching page for DOI 10.1177/1087054712465336: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1177/1087054712465336
+2025-04-15 23:18:20,871 - INFO - Logged failed DOI: 10.1177/1087054712465336
+2025-04-15 23:18:20,871 - INFO - Logged failed DOI: 10.1027/1618-3169.53.3.191
+2025-04-15 23:18:21,585 - ERROR - Error fetching page for DOI 10.1016/j.neuropsychologia.2008.04.021: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuropsychologia.2008.04.021
+2025-04-15 23:18:21,586 - INFO - Logged failed DOI: 10.1016/j.neuropsychologia.2008.04.021
+2025-04-15 23:18:23,428 - ERROR - Error fetching page for DOI 10.1027/1618-3169/a000133: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1027/1618-3169/a000133
+2025-04-15 23:18:23,428 - INFO - Logged failed DOI: 10.1027/1618-3169/a000133
+2025-04-15 23:18:24,250 - ERROR - Error fetching page for DOI 10.3758/s13423-011-0130-9: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3758/s13423-011-0130-9
+2025-04-15 23:18:24,251 - INFO - Logged failed DOI: 10.3758/s13423-011-0130-9
+2025-04-15 23:18:24,451 - ERROR - Error fetching page for DOI 10.1080/87565641.2014.916709: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/87565641.2014.916709
+2025-04-15 23:18:24,452 - INFO - Logged failed DOI: 10.1080/87565641.2014.916709
+2025-04-15 23:18:24,462 - ERROR - Error fetching page for DOI 10.1080/15248372.2017.1336438: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/15248372.2017.1336438
+2025-04-15 23:18:24,463 - INFO - Logged failed DOI: 10.1080/15248372.2017.1336438
+2025-04-15 23:18:26,704 - ERROR - Error fetching page for DOI 10.1016/j.psfr.2013.09.002: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.psfr.2013.09.002
+2025-04-15 23:18:26,705 - INFO - Logged failed DOI: 10.1016/j.psfr.2013.09.002
+2025-04-15 23:18:26,881 - ERROR - Error fetching page for DOI 10.1037/xhp0000552: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/xhp0000552
+2025-04-15 23:18:26,882 - INFO - Logged failed DOI: 10.1037/xhp0000552
+2025-04-15 23:18:27,670 - ERROR - Error fetching page for DOI 10.1017/S1355617718000255: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/S1355617718000255
+2025-04-15 23:18:27,671 - INFO - Logged failed DOI: 10.1017/S1355617718000255
+2025-04-15 23:18:28,650 - ERROR - Error fetching page for DOI 10.1080/02109395.2017.1295575: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/02109395.2017.1295575
+2025-04-15 23:18:28,650 - INFO - Logged failed DOI: 10.1080/02109395.2017.1295575
+2025-04-15 23:18:29,571 - ERROR - Error fetching page for DOI 10.1016/j.drugalcdep.2013.08.014: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.drugalcdep.2013.08.014
+2025-04-15 23:18:29,573 - ERROR - Error fetching page for DOI 10.3389/fneur.2021.629048: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fneur.2021.629048
+2025-04-15 23:18:29,574 - INFO - Logged failed DOI: 10.3389/fneur.2021.629048
+2025-04-15 23:18:29,574 - INFO - Logged failed DOI: 10.1016/j.drugalcdep.2013.08.014
+2025-04-15 23:18:31,622 - ERROR - Error fetching page for DOI 10.1016/j.neuron.2013.01.039: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuron.2013.01.039
+2025-04-15 23:18:31,623 - INFO - Logged failed DOI: 10.1016/j.neuron.2013.01.039
+2025-04-15 23:18:32,355 - ERROR - Error fetching page for DOI 10.1037/0278-7393.34.4.859: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/0278-7393.34.4.859
+2025-04-15 23:18:32,355 - INFO - Logged failed DOI: 10.1037/0278-7393.34.4.859
+2025-04-15 23:18:32,642 - ERROR - Error fetching page for DOI 10.3758/s13428-020-01452-x: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3758/s13428-020-01452-x
+2025-04-15 23:18:32,642 - INFO - Logged failed DOI: 10.3758/s13428-020-01452-x
+2025-04-15 23:18:33,360 - ERROR - Error fetching page for DOI 10.1016/j.neuron.2018.09.023: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuron.2018.09.023
+2025-04-15 23:18:33,361 - INFO - Logged failed DOI: 10.1016/j.neuron.2018.09.023
+2025-04-15 23:18:34,691 - ERROR - Error fetching page for DOI 10.1016/j.nlm.2021.107509: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.nlm.2021.107509
+2025-04-15 23:18:34,691 - INFO - Logged failed DOI: 10.1016/j.nlm.2021.107509
+2025-04-15 23:18:34,997 - ERROR - Error fetching page for DOI 10.1080/13607863.2020.1858755: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/13607863.2020.1858755
+2025-04-15 23:18:34,998 - INFO - Logged failed DOI: 10.1080/13607863.2020.1858755
+2025-04-15 23:18:36,432 - ERROR - Error fetching page for DOI 10.3389/fpsyg.2020.574789: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fpsyg.2020.574789
+2025-04-15 23:18:36,433 - INFO - Logged failed DOI: 10.3389/fpsyg.2020.574789
+2025-04-15 23:18:37,353 - ERROR - Error fetching page for DOI 10.1523/ENEURO.0250-19.2019: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1523/ENEURO.0250-19.2019
+2025-04-15 23:18:37,353 - INFO - Logged failed DOI: 10.1523/ENEURO.0250-19.2019
+2025-04-15 23:18:38,072 - ERROR - Error fetching page for DOI 10.1016/j.jecp.2014.06.007: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.jecp.2014.06.007
+2025-04-15 23:18:38,072 - INFO - Logged failed DOI: 10.1016/j.jecp.2014.06.007
+2025-04-15 23:18:38,574 - ERROR - Error fetching page for DOI 10.1177/0269881109349841: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1177/0269881109349841
+2025-04-15 23:18:38,575 - INFO - Logged failed DOI: 10.1177/0269881109349841
+2025-04-15 23:18:40,025 - ERROR - Error fetching page for DOI 10.1037/neu0000321: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/neu0000321
+2025-04-15 23:18:40,025 - INFO - Logged failed DOI: 10.1037/neu0000321
+2025-04-15 23:18:40,731 - ERROR - Error fetching page for DOI 10.3389/fpsyg.2020.560461: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fpsyg.2020.560461
+2025-04-15 23:18:40,743 - INFO - Logged failed DOI: 10.3389/fpsyg.2020.560461
+2025-04-15 23:18:41,055 - ERROR - Error fetching page for DOI 10.17759/pse.2020250106: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.17759/pse.2020250106
+2025-04-15 23:18:41,056 - INFO - Logged failed DOI: 10.17759/pse.2020250106
+2025-04-15 23:18:42,562 - ERROR - Error fetching page for DOI 10.1523/JNEUROSCI.1766-16.2016: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1523/JNEUROSCI.1766-16.2016
+2025-04-15 23:18:42,562 - INFO - Logged failed DOI: 10.1523/JNEUROSCI.1766-16.2016
+2025-04-15 23:18:42,985 - ERROR - Error fetching page for DOI 10.1037/a0020365: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/a0020365
+2025-04-15 23:18:42,986 - INFO - Logged failed DOI: 10.1037/a0020365
+2025-04-15 23:18:43,292 - ERROR - Error fetching page for DOI 10.1080/13803395.2019.1662374: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/13803395.2019.1662374
+2025-04-15 23:18:43,293 - INFO - Logged failed DOI: 10.1080/13803395.2019.1662374
+2025-04-15 23:18:43,643 - ERROR - Error fetching page for DOI 10.1038/nn.3509: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1038/nn.3509
+2025-04-15 23:18:43,644 - INFO - Logged failed DOI: 10.1038/nn.3509
+2025-04-15 23:18:45,443 - ERROR - Error fetching page for DOI 10.1007/s00426-017-0933-z: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s00426-017-0933-z
+2025-04-15 23:18:45,444 - INFO - Logged failed DOI: 10.1007/s00426-017-0933-z
+2025-04-15 23:18:45,804 - ERROR - Error fetching page for DOI 10.1017/S1366728920000012: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/S1366728920000012
+2025-04-15 23:18:45,805 - INFO - Logged failed DOI: 10.1017/S1366728920000012
+2025-04-15 23:18:46,364 - ERROR - Error fetching page for DOI 10.1521/bumc.2021.85.4.335: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1521/bumc.2021.85.4.335
+2025-04-15 23:18:46,365 - INFO - Logged failed DOI: 10.1521/bumc.2021.85.4.335
+2025-04-15 23:18:46,878 - ERROR - Error fetching page for DOI 10.1016/j.bandc.2010.12.003: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.bandc.2010.12.003
+2025-04-15 23:18:46,879 - INFO - Logged failed DOI: 10.1016/j.bandc.2010.12.003
+2025-04-15 23:18:48,207 - ERROR - Error fetching page for DOI 10.1016/j.neuron.2014.01.002: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuron.2014.01.002
+2025-04-15 23:18:48,207 - INFO - Logged failed DOI: 10.1016/j.neuron.2014.01.002
+2025-04-15 23:18:48,858 - ERROR - Error fetching page for DOI 10.5127/jep.0038713: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.5127/jep.0038713
+2025-04-15 23:18:48,859 - INFO - Logged failed DOI: 10.5127/jep.0038713
+2025-04-15 23:18:49,948 - ERROR - Error fetching page for DOI 10.1007/s10827-007-0034-x: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s10827-007-0034-x
+2025-04-15 23:18:49,949 - INFO - Logged failed DOI: 10.1007/s10827-007-0034-x
+2025-04-15 23:18:50,852 - ERROR - Error fetching page for DOI 10.1037/a0018159: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/a0018159
+2025-04-15 23:18:50,853 - INFO - Logged failed DOI: 10.1037/a0018159
+2025-04-15 23:18:51,382 - ERROR - Error fetching page for DOI 10.3389/fnins.2021.631195: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fnins.2021.631195
+2025-04-15 23:18:51,383 - INFO - Logged failed DOI: 10.3389/fnins.2021.631195
+2025-04-15 23:18:53,429 - ERROR - Error fetching page for DOI 10.1016/j.chbr.2021.100068: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.chbr.2021.100068
+2025-04-15 23:18:53,430 - INFO - Logged failed DOI: 10.1016/j.chbr.2021.100068
+2025-04-15 23:18:53,839 - ERROR - Error fetching page for DOI 10.1080/21622965.2019.1611431: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/21622965.2019.1611431
+2025-04-15 23:18:53,840 - INFO - Logged failed DOI: 10.1080/21622965.2019.1611431
+2025-04-15 23:18:54,146 - ERROR - Error fetching page for DOI 10.1016/j.bbr.2019.111978: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.bbr.2019.111978
+2025-04-15 23:18:54,156 - INFO - Logged failed DOI: 10.1016/j.bbr.2019.111978
+2025-04-15 23:18:54,159 - ERROR - Error fetching page for DOI 10.3758/s13415-015-0336-9: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3758/s13415-015-0336-9
+2025-04-15 23:18:54,160 - INFO - Logged failed DOI: 10.3758/s13415-015-0336-9
+2025-04-15 23:18:55,580 - ERROR - Error fetching page for DOI 10.1016/j.neuroimage.2014.09.018: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuroimage.2014.09.018
+2025-04-15 23:18:55,581 - INFO - Logged failed DOI: 10.1016/j.neuroimage.2014.09.018
+2025-04-15 23:18:56,603 - ERROR - Error fetching page for DOI 10.1111/j.1469-7610.2010.02257.x: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/j.1469-7610.2010.02257.x
+2025-04-15 23:18:56,604 - INFO - Logged failed DOI: 10.1111/j.1469-7610.2010.02257.x
+2025-04-15 23:18:57,865 - ERROR - Error fetching page for DOI 10.1017/S1366728917000475: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/S1366728917000475
+2025-04-15 23:18:57,866 - INFO - Logged failed DOI: 10.1017/S1366728917000475
+2025-04-15 23:18:58,139 - ERROR - Error fetching page for DOI 10.1016/j.psc.2005.05.005: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.psc.2005.05.005
+2025-04-15 23:18:58,140 - INFO - Logged failed DOI: 10.1016/j.psc.2005.05.005
+2025-04-15 23:18:58,241 - ERROR - Error fetching page for DOI 10.1037/a0035166: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/a0035166
+2025-04-15 23:18:58,241 - INFO - Logged failed DOI: 10.1037/a0035166
+2025-04-15 23:19:00,086 - ERROR - Error fetching page for DOI 10.1016/j.intell.2019.101404: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.intell.2019.101404
+2025-04-15 23:19:00,087 - INFO - Logged failed DOI: 10.1016/j.intell.2019.101404
+2025-04-15 23:19:01,087 - ERROR - Error fetching page for DOI 10.1037/a0022849: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/a0022849
+2025-04-15 23:19:01,088 - INFO - Logged failed DOI: 10.1037/a0022849
+2025-04-15 23:19:01,428 - ERROR - Error fetching page for DOI 10.1002/acp.1230: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1002/acp.1230
+2025-04-15 23:19:01,428 - INFO - Logged failed DOI: 10.1002/acp.1230
+2025-04-15 23:19:02,542 - ERROR - Error fetching page for DOI 10.3758/s13414-016-1106-7: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3758/s13414-016-1106-7
+2025-04-15 23:19:02,543 - INFO - Logged failed DOI: 10.3758/s13414-016-1106-7
+2025-04-15 23:19:02,903 - ERROR - Error fetching page for DOI 10.1016/j.jecp.2013.09.012: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.jecp.2013.09.012
+2025-04-15 23:19:02,904 - INFO - Logged failed DOI: 10.1016/j.jecp.2013.09.012
+2025-04-15 23:19:03,588 - ERROR - Error fetching page for DOI 10.1111/j.1460-9568.2006.04964.x: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/j.1460-9568.2006.04964.x
+2025-04-15 23:19:03,589 - INFO - Logged failed DOI: 10.1111/j.1460-9568.2006.04964.x
+2025-04-15 23:19:05,341 - ERROR - Error fetching page for DOI 10.1111/cogs.12436: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/cogs.12436
+2025-04-15 23:19:05,342 - INFO - Logged failed DOI: 10.1111/cogs.12436
+2025-04-15 23:19:06,154 - ERROR - Error fetching page for DOI 10.1016/j.bbr.2021.113382: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.bbr.2021.113382
+2025-04-15 23:19:06,155 - INFO - Logged failed DOI: 10.1016/j.bbr.2021.113382
+2025-04-15 23:19:06,638 - ERROR - Error fetching page for DOI 10.1037/a0028465: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/a0028465
+2025-04-15 23:19:06,639 - INFO - Logged failed DOI: 10.1037/a0028465
+2025-04-15 23:19:07,686 - ERROR - Error fetching page for DOI 10.1007/s00426-021-01579-2: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s00426-021-01579-2
+2025-04-15 23:19:07,687 - INFO - Logged failed DOI: 10.1007/s00426-021-01579-2
+2025-04-15 23:19:08,085 - ERROR - Error fetching page for DOI 10.1111/desc.12080: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/desc.12080
+2025-04-15 23:19:08,086 - INFO - Logged failed DOI: 10.1111/desc.12080
+2025-04-15 23:19:08,789 - ERROR - Error fetching page for DOI 10.3390/ijerph18073642: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3390/ijerph18073642
+2025-04-15 23:19:08,790 - INFO - Logged failed DOI: 10.3390/ijerph18073642
+2025-04-15 23:19:09,727 - ERROR - Error fetching page for DOI 10.1016/j.neuroscience.2017.10.025: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuroscience.2017.10.025
+2025-04-15 23:19:09,728 - INFO - Logged failed DOI: 10.1016/j.neuroscience.2017.10.025
+2025-04-15 23:19:11,367 - ERROR - Error fetching page for DOI 10.1080/23279095.2021.1979551: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/23279095.2021.1979551
+2025-04-15 23:19:11,368 - INFO - Logged failed DOI: 10.1080/23279095.2021.1979551
+2025-04-15 23:19:11,378 - ERROR - Error fetching page for DOI 10.1016/j.jecp.2016.08.010: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.jecp.2016.08.010
+2025-04-15 23:19:11,379 - INFO - Logged failed DOI: 10.1016/j.jecp.2016.08.010
+2025-04-15 23:19:12,224 - ERROR - Error fetching page for DOI 10.1123/jsep.2019-0111: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1123/jsep.2019-0111
+2025-04-15 23:19:12,225 - INFO - Logged failed DOI: 10.1123/jsep.2019-0111
+2025-04-15 23:19:12,680 - ERROR - Error fetching page for DOI 10.1016/j.jpsychires.2012.01.006: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.jpsychires.2012.01.006
+2025-04-15 23:19:12,680 - INFO - Logged failed DOI: 10.1016/j.jpsychires.2012.01.006
+2025-04-15 23:19:14,625 - ERROR - Error fetching page for DOI 10.1016/j.neuropsychologia.2020.107468: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuropsychologia.2020.107468
+2025-04-15 23:19:14,626 - INFO - Logged failed DOI: 10.1016/j.neuropsychologia.2020.107468
+2025-04-15 23:19:14,829 - ERROR - Error fetching page for DOI 10.1016/j.neuroscience.2016.05.058: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuroscience.2016.05.058
+2025-04-15 23:19:14,829 - INFO - Logged failed DOI: 10.1016/j.neuroscience.2016.05.058
+2025-04-15 23:19:15,342 - ERROR - Error fetching page for DOI 10.1097/NMD.0000000000000485: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1097/NMD.0000000000000485
+2025-04-15 23:19:15,343 - ERROR - Error fetching page for DOI 10.1002/da.22450: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1002/da.22450
+2025-04-15 23:19:15,344 - INFO - Logged failed DOI: 10.1097/NMD.0000000000000485
+2025-04-15 23:19:15,345 - INFO - Logged failed DOI: 10.1002/da.22450
+2025-04-15 23:19:16,264 - ERROR - Error fetching page for DOI 10.7334/psicothema2019.187: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.7334/psicothema2019.187
+2025-04-15 23:19:16,265 - INFO - Logged failed DOI: 10.7334/psicothema2019.187
+2025-04-15 23:19:17,901 - ERROR - Error fetching page for DOI 10.1080/13803390701523109: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/13803390701523109
+2025-04-15 23:19:17,902 - INFO - Logged failed DOI: 10.1080/13803390701523109
+2025-04-15 23:19:18,004 - ERROR - Error fetching page for DOI 10.1080/21622965.2019.1699095: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/21622965.2019.1699095
+2025-04-15 23:19:18,004 - INFO - Logged failed DOI: 10.1080/21622965.2019.1699095
+2025-04-15 23:19:19,540 - ERROR - Error fetching page for DOI 10.1007/s00213-010-1856-1: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s00213-010-1856-1
+2025-04-15 23:19:19,541 - INFO - Logged failed DOI: 10.1007/s00213-010-1856-1
+2025-04-15 23:19:19,642 - ERROR - Error fetching page for DOI 10.5334/pb-50-3-4-277: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.5334/pb-50-3-4-277
+2025-04-15 23:19:19,643 - INFO - Logged failed DOI: 10.5334/pb-50-3-4-277
+2025-04-15 23:19:20,154 - ERROR - Error fetching page for DOI 10.1016/j.tics.2010.03.006: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.tics.2010.03.006
+2025-04-15 23:19:20,155 - INFO - Logged failed DOI: 10.1016/j.tics.2010.03.006
+2025-04-15 23:19:22,100 - ERROR - Error fetching page for DOI 10.1016/j.neuroimage.2016.01.017: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuroimage.2016.01.017
+2025-04-15 23:19:22,101 - INFO - Logged failed DOI: 10.1016/j.neuroimage.2016.01.017
+2025-04-15 23:19:22,313 - ERROR - Error fetching page for DOI 10.1016/j.yebeh.2018.04.022: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.yebeh.2018.04.022
+2025-04-15 23:19:22,314 - INFO - Logged failed DOI: 10.1016/j.yebeh.2018.04.022
+2025-04-15 23:19:22,612 - ERROR - Error fetching page for DOI 10.6018/analesps.34.2.283771: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.6018/analesps.34.2.283771
+2025-04-15 23:19:22,612 - INFO - Logged failed DOI: 10.6018/analesps.34.2.283771
+2025-04-15 23:19:24,730 - ERROR - Error fetching page for DOI 10.1176/appi.neuropsych.18060131: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1176/appi.neuropsych.18060131
+2025-04-15 23:19:24,736 - INFO - Logged failed DOI: 10.1176/appi.neuropsych.18060131
+2025-04-15 23:19:24,894 - ERROR - Error fetching page for DOI 10.1007/s11571-006-9007-4: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s11571-006-9007-4
+2025-04-15 23:19:24,895 - INFO - Logged failed DOI: 10.1007/s11571-006-9007-4
+2025-04-15 23:19:26,072 - ERROR - Error fetching page for DOI 10.1037/a0031048: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/a0031048
+2025-04-15 23:19:26,073 - INFO - Logged failed DOI: 10.1037/a0031048
+2025-04-15 23:19:26,503 - ERROR - Error fetching page for DOI 10.1016/j.rasd.2014.06.011: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.rasd.2014.06.011
+2025-04-15 23:19:26,504 - INFO - Logged failed DOI: 10.1016/j.rasd.2014.06.011
+2025-04-15 23:19:27,219 - ERROR - Error fetching page for DOI 10.1016/j.bandc.2012.12.002: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.bandc.2012.12.002
+2025-04-15 23:19:27,220 - INFO - Logged failed DOI: 10.1016/j.bandc.2012.12.002
+2025-04-15 23:19:28,550 - ERROR - Error fetching page for DOI 10.1016/j.intell.2009.08.002: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.intell.2009.08.002
+2025-04-15 23:19:28,551 - INFO - Logged failed DOI: 10.1016/j.intell.2009.08.002
+2025-04-15 23:19:29,781 - ERROR - Error fetching page for DOI 10.1080/13825585.2017.1418283: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/13825585.2017.1418283
+2025-04-15 23:19:29,782 - INFO - Logged failed DOI: 10.1080/13825585.2017.1418283
+2025-04-15 23:19:31,008 - ERROR - Error fetching page for DOI 10.1002/ijop.12663: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1002/ijop.12663
+2025-04-15 23:19:31,010 - ERROR - Error fetching page for DOI 10.1093/sleep/zsx200: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1093/sleep/zsx200
+2025-04-15 23:19:31,011 - INFO - Logged failed DOI: 10.1093/sleep/zsx200
+2025-04-15 23:19:31,011 - INFO - Logged failed DOI: 10.1002/ijop.12663
+2025-04-15 23:19:32,134 - ERROR - Error fetching page for DOI 10.1016/j.cortex.2019.03.015: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.cortex.2019.03.015
+2025-04-15 23:19:32,135 - INFO - Logged failed DOI: 10.1016/j.cortex.2019.03.015
+2025-04-15 23:19:33,159 - ERROR - Error fetching page for DOI 10.1016/j.cogdev.2012.07.004: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.cogdev.2012.07.004
+2025-04-15 23:19:33,160 - INFO - Logged failed DOI: 10.1016/j.cogdev.2012.07.004
+2025-04-15 23:19:33,568 - ERROR - Error fetching page for DOI 10.1016/j.neubiorev.2017.11.022: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neubiorev.2017.11.022
+2025-04-15 23:19:33,569 - INFO - Logged failed DOI: 10.1016/j.neubiorev.2017.11.022
+2025-04-15 23:19:34,285 - ERROR - Error fetching page for DOI 10.1037/a0032621: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/a0032621
+2025-04-15 23:19:34,286 - INFO - Logged failed DOI: 10.1037/a0032621
+2025-04-15 23:19:35,206 - ERROR - Error fetching page for DOI 10.1080/20445911.2018.1525387: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/20445911.2018.1525387
+2025-04-15 23:19:35,207 - INFO - Logged failed DOI: 10.1080/20445911.2018.1525387
+2025-04-15 23:19:35,957 - ERROR - Error fetching page for DOI 10.1007/s13365-017-0607-z: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s13365-017-0607-z
+2025-04-15 23:19:35,958 - INFO - Logged failed DOI: 10.1007/s13365-017-0607-z
+2025-04-15 23:19:38,115 - ERROR - Error fetching page for DOI 10.1016/j.tins.2015.07.003: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.tins.2015.07.003
+2025-04-15 23:19:38,116 - INFO - Logged failed DOI: 10.1016/j.tins.2015.07.003
+2025-04-15 23:19:38,586 - ERROR - Error fetching page for DOI 10.1027/1618-3169/a000024: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1027/1618-3169/a000024
+2025-04-15 23:19:38,587 - INFO - Logged failed DOI: 10.1027/1618-3169/a000024
+2025-04-15 23:19:38,911 - ERROR - Error fetching page for DOI 10.21615/cesp.5447: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.21615/cesp.5447
+2025-04-15 23:19:38,912 - INFO - Logged failed DOI: 10.21615/cesp.5447
+2025-04-15 23:19:39,296 - ERROR - Error fetching page for DOI 10.1016/j.neuroimage.2013.12.017: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuroimage.2013.12.017
+2025-04-15 23:19:39,296 - INFO - Logged failed DOI: 10.1016/j.neuroimage.2013.12.017
+2025-04-15 23:19:39,782 - ERROR - Error fetching page for DOI 10.1016/B978-0-12-809825-7.00009-2: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/B978-0-12-809825-7.00009-2
+2025-04-15 23:19:39,783 - INFO - Logged failed DOI: 10.1016/B978-0-12-809825-7.00009-2
+2025-04-15 23:19:42,476 - ERROR - Error fetching page for DOI 10.1016/j.cognition.2011.08.010: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.cognition.2011.08.010
+2025-04-15 23:19:42,478 - INFO - Logged failed DOI: 10.1016/j.cognition.2011.08.010
+2025-04-15 23:19:42,567 - ERROR - Error fetching page for DOI 10.3389/fpsyg.2015.00065: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fpsyg.2015.00065
+2025-04-15 23:19:42,567 - INFO - Logged failed DOI: 10.3389/fpsyg.2015.00065
+2025-04-15 23:19:42,766 - ERROR - Error fetching page for DOI 10.1016/j.neubiorev.2019.12.010: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neubiorev.2019.12.010
+2025-04-15 23:19:42,766 - INFO - Logged failed DOI: 10.1016/j.neubiorev.2019.12.010
+2025-04-15 23:19:42,772 - ERROR - Error fetching page for DOI 10.1017/S136672891800041X: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/S136672891800041X
+2025-04-15 23:19:42,773 - INFO - Logged failed DOI: 10.1017/S136672891800041X
+2025-04-15 23:19:43,403 - ERROR - Error fetching page for DOI 10.1016/j.neuropsychologia.2019.107178: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuropsychologia.2019.107178
+2025-04-15 23:19:43,404 - INFO - Logged failed DOI: 10.1016/j.neuropsychologia.2019.107178
+2025-04-15 23:19:45,787 - ERROR - Error fetching page for DOI 10.1523/JNEUROSCI.2815-14.2014: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1523/JNEUROSCI.2815-14.2014
+2025-04-15 23:19:45,788 - INFO - Logged failed DOI: 10.1523/JNEUROSCI.2815-14.2014
+2025-04-15 23:19:46,469 - ERROR - Error fetching page for DOI 10.1016/j.tins.2014.03.006: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.tins.2014.03.006
+2025-04-15 23:19:46,470 - INFO - Logged failed DOI: 10.1016/j.tins.2014.03.006
+2025-04-15 23:19:47,084 - ERROR - Error fetching page for DOI 10.1006/brcg.2001.1507: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1006/brcg.2001.1507
+2025-04-15 23:19:47,085 - INFO - Logged failed DOI: 10.1006/brcg.2001.1507
+2025-04-15 23:19:47,897 - ERROR - Error fetching page for DOI 10.1016/j.pbb.2012.07.004: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.pbb.2012.07.004
+2025-04-15 23:19:47,898 - INFO - Logged failed DOI: 10.1016/j.pbb.2012.07.004
+2025-04-15 23:19:48,209 - ERROR - Error fetching page for DOI 10.1016/j.appet.2015.04.012: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.appet.2015.04.012
+2025-04-15 23:19:48,210 - INFO - Logged failed DOI: 10.1016/j.appet.2015.04.012
+2025-04-15 23:19:48,894 - ERROR - Error fetching page for DOI 10.1186/s41155-018-0107-y: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1186/s41155-018-0107-y
+2025-04-15 23:19:48,895 - INFO - Logged failed DOI: 10.1186/s41155-018-0107-y
+2025-04-15 23:19:51,022 - ERROR - Error fetching page for DOI 10.1016/j.bandc.2020.105633: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.bandc.2020.105633
+2025-04-15 23:19:51,035 - INFO - Logged failed DOI: 10.1016/j.bandc.2020.105633
+2025-04-15 23:19:51,329 - ERROR - Error fetching page for DOI 10.1177/0963721414534853: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1177/0963721414534853
+2025-04-15 23:19:51,330 - INFO - Logged failed DOI: 10.1177/0963721414534853
+2025-04-15 23:19:51,561 - ERROR - Error fetching page for DOI 10.1037/0000143-002: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/0000143-002
+2025-04-15 23:19:51,584 - INFO - Logged failed DOI: 10.1037/0000143-002
+2025-04-15 23:19:51,752 - ERROR - Error fetching page for DOI 10.1007/s00429-014-0797-6: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s00429-014-0797-6
+2025-04-15 23:19:51,769 - INFO - Logged failed DOI: 10.1007/s00429-014-0797-6
+2025-04-15 23:19:51,916 - ERROR - Error fetching page for DOI 10.3389/fpsyg.2021.675059: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fpsyg.2021.675059
+2025-04-15 23:19:51,922 - INFO - Logged failed DOI: 10.3389/fpsyg.2021.675059
+2025-04-15 23:19:54,477 - ERROR - Error fetching page for DOI 10.1186/s12888-020-02677-y: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1186/s12888-020-02677-y
+2025-04-15 23:19:54,478 - INFO - Logged failed DOI: 10.1186/s12888-020-02677-y
+2025-04-15 23:19:54,630 - ERROR - Error fetching page for DOI 10.1080/17470218.2017.1310268: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/17470218.2017.1310268
+2025-04-15 23:19:54,630 - INFO - Logged failed DOI: 10.1080/17470218.2017.1310268
+2025-04-15 23:19:55,388 - ERROR - Error fetching page for DOI 10.1016/j.ijpsycho.2016.06.014: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.ijpsycho.2016.06.014
+2025-04-15 23:19:55,389 - INFO - Logged failed DOI: 10.1016/j.ijpsycho.2016.06.014
+2025-04-15 23:19:55,892 - ERROR - Error fetching page for DOI 10.1186/1471-2202-14-109: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1186/1471-2202-14-109
+2025-04-15 23:19:55,893 - INFO - Logged failed DOI: 10.1186/1471-2202-14-109
+2025-04-15 23:19:56,402 - ERROR - Error fetching page for DOI 10.1016/j.jecp.2012.06.005: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.jecp.2012.06.005
+2025-04-15 23:19:56,403 - INFO - Logged failed DOI: 10.1016/j.jecp.2012.06.005
+2025-04-15 23:19:57,348 - ERROR - Error fetching page for DOI 10.1080/20445911.2016.1148041: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/20445911.2016.1148041
+2025-04-15 23:19:57,349 - INFO - Logged failed DOI: 10.1080/20445911.2016.1148041
+2025-04-15 23:19:57,528 - ERROR - Error fetching page for DOI 10.1080/00207450802543783: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/00207450802543783
+2025-04-15 23:19:57,531 - INFO - Logged failed DOI: 10.1080/00207450802543783
+2025-04-15 23:19:59,805 - ERROR - Error fetching page for DOI 10.1007/s00429-020-02191-7: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s00429-020-02191-7
+2025-04-15 23:19:59,819 - INFO - Logged failed DOI: 10.1007/s00429-020-02191-7
+2025-04-15 23:19:59,986 - ERROR - Error fetching page for DOI 10.3200/JRLP.141.5.525-538: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3200/JRLP.141.5.525-538
+2025-04-15 23:19:59,986 - INFO - Logged failed DOI: 10.3200/JRLP.141.5.525-538
+2025-04-15 23:20:00,862 - ERROR - Error fetching page for DOI 10.1186/1744-9081-1-8: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1186/1744-9081-1-8
+2025-04-15 23:20:00,863 - INFO - Logged failed DOI: 10.1186/1744-9081-1-8
+2025-04-15 23:20:01,112 - ERROR - Error fetching page for DOI 10.1111/j.1467-9280.2008.02122.x: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/j.1467-9280.2008.02122.x
+2025-04-15 23:20:01,113 - INFO - Logged failed DOI: 10.1111/j.1467-9280.2008.02122.x
+2025-04-15 23:20:02,237 - ERROR - Error fetching page for DOI 10.1037/0894-4105.18.1.152: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/0894-4105.18.1.152
+2025-04-15 23:20:02,238 - INFO - Logged failed DOI: 10.1037/0894-4105.18.1.152
+2025-04-15 23:20:04,267 - ERROR - Error fetching page for DOI 10.1016/j.bbr.2011.03.034: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.bbr.2011.03.034
+2025-04-15 23:20:04,268 - INFO - Logged failed DOI: 10.1016/j.bbr.2011.03.034
+2025-04-15 23:20:04,698 - ERROR - Error fetching page for DOI 10.1080/23279095.2019.1576690: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/23279095.2019.1576690
+2025-04-15 23:20:04,700 - ERROR - Error fetching page for DOI 10.1016/j.actpsy.2003.12.003: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.actpsy.2003.12.003
+2025-04-15 23:20:04,701 - INFO - Logged failed DOI: 10.1080/23279095.2019.1576690
+2025-04-15 23:20:04,701 - INFO - Logged failed DOI: 10.1016/j.actpsy.2003.12.003
+2025-04-15 23:20:05,589 - ERROR - Error fetching page for DOI 10.1017/sjp.2013.44: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/sjp.2013.44
+2025-04-15 23:20:05,590 - INFO - Logged failed DOI: 10.1017/sjp.2013.44
+2025-04-15 23:20:06,324 - ERROR - Error fetching page for DOI 10.3389/fnbeh.2021.686102: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fnbeh.2021.686102
+2025-04-15 23:20:06,326 - INFO - Logged failed DOI: 10.3389/fnbeh.2021.686102
+2025-04-15 23:20:07,146 - ERROR - Error fetching page for DOI 10.1016/j.neubiorev.2014.09.003: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neubiorev.2014.09.003
+2025-04-15 23:20:07,148 - INFO - Logged failed DOI: 10.1016/j.neubiorev.2014.09.003
+2025-04-15 23:20:07,721 - ERROR - Error fetching page for DOI 10.1037/xge0000593: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/xge0000593
+2025-04-15 23:20:07,722 - INFO - Logged failed DOI: 10.1037/xge0000593
+2025-04-15 23:20:08,261 - ERROR - Error fetching page for DOI 10.1016/j.bandc.2016.07.002: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.bandc.2016.07.002
+2025-04-15 23:20:08,262 - INFO - Logged failed DOI: 10.1016/j.bandc.2016.07.002
+2025-04-15 23:20:10,160 - ERROR - Error fetching page for DOI 10.1037/0000143-003: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/0000143-003
+2025-04-15 23:20:10,161 - INFO - Logged failed DOI: 10.1037/0000143-003
+2025-04-15 23:20:11,048 - ERROR - Error fetching page for DOI 10.1016/B978-0-12-804315-8.00013-6: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/B978-0-12-804315-8.00013-6
+2025-04-15 23:20:11,125 - INFO - Logged failed DOI: 10.1016/B978-0-12-804315-8.00013-6
+2025-04-15 23:20:11,351 - ERROR - Error fetching page for DOI 10.3389/fpsyg.2017.01784: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fpsyg.2017.01784
+2025-04-15 23:20:11,352 - INFO - Logged failed DOI: 10.3389/fpsyg.2017.01784
+2025-04-15 23:20:11,556 - ERROR - Error fetching page for DOI 10.1097/01.nmd.0000161685.54077.e4: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1097/01.nmd.0000161685.54077.e4
+2025-04-15 23:20:11,557 - INFO - Logged failed DOI: 10.1097/01.nmd.0000161685.54077.e4
+2025-04-15 23:20:12,785 - ERROR - Error fetching page for DOI 10.3758/CABN.2.4.341: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3758/CABN.2.4.341
+2025-04-15 23:20:12,786 - INFO - Logged failed DOI: 10.3758/CABN.2.4.341
+2025-04-15 23:20:13,604 - ERROR - Error fetching page for DOI 10.1017/S0142716415000326: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/S0142716415000326
+2025-04-15 23:20:13,605 - INFO - Logged failed DOI: 10.1017/S0142716415000326
+2025-04-15 23:20:14,218 - ERROR - Error fetching page for DOI 10.1037/0000143-008: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/0000143-008
+2025-04-15 23:20:14,218 - INFO - Logged failed DOI: 10.1037/0000143-008
+2025-04-15 23:20:14,225 - ERROR - Error fetching page for DOI 10.1016/j.ijlp.2018.04.007: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.ijlp.2018.04.007
+2025-04-15 23:20:14,225 - INFO - Logged failed DOI: 10.1016/j.ijlp.2018.04.007
+2025-04-15 23:20:14,833 - ERROR - Error fetching page for DOI 10.1037/emo0000028: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/emo0000028
+2025-04-15 23:20:14,834 - INFO - Logged failed DOI: 10.1037/emo0000028
+2025-04-15 23:20:15,854 - ERROR - Error fetching page for DOI 10.1002/brb3.2130: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1002/brb3.2130
+2025-04-15 23:20:15,855 - INFO - Logged failed DOI: 10.1002/brb3.2130
+2025-04-15 23:20:17,290 - ERROR - Error fetching page for DOI 10.1007/s11065-018-9384-6: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s11065-018-9384-6
+2025-04-15 23:20:17,291 - INFO - Logged failed DOI: 10.1007/s11065-018-9384-6
+2025-04-15 23:20:18,007 - ERROR - Error fetching page for DOI 10.1037/0096-3445.136.1.23: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/0096-3445.136.1.23
+2025-04-15 23:20:18,008 - INFO - Logged failed DOI: 10.1037/0096-3445.136.1.23
+2025-04-15 23:20:18,519 - ERROR - Error fetching page for DOI 10.1007/s10936-017-9518-7: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s10936-017-9518-7
+2025-04-15 23:20:18,519 - INFO - Logged failed DOI: 10.1007/s10936-017-9518-7
+2025-04-15 23:20:19,480 - ERROR - Error fetching page for DOI 10.1016/j.schres.2005.08.007: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.schres.2005.08.007
+2025-04-15 23:20:19,480 - INFO - Logged failed DOI: 10.1016/j.schres.2005.08.007
+2025-04-15 23:20:19,958 - ERROR - Error fetching page for DOI 10.3390/ijerph13010119: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3390/ijerph13010119
+2025-04-15 23:20:19,959 - INFO - Logged failed DOI: 10.3390/ijerph13010119
+2025-04-15 23:20:20,595 - ERROR - Error fetching page for DOI 10.1017/S1355617718000383: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/S1355617718000383
+2025-04-15 23:20:20,596 - INFO - Logged failed DOI: 10.1017/S1355617718000383
+2025-04-15 23:20:20,781 - ERROR - Error fetching page for DOI 10.21307/ane-2017-018: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.21307/ane-2017-018
+2025-04-15 23:20:20,782 - INFO - Logged failed DOI: 10.21307/ane-2017-018
+2025-04-15 23:20:20,976 - ERROR - Error fetching page for DOI 10.1093/scan/nst004: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1093/scan/nst004
+2025-04-15 23:20:20,976 - INFO - Logged failed DOI: 10.1093/scan/nst004
+2025-04-15 23:20:22,719 - ERROR - Error fetching page for DOI 10.1080/20445911.2014.982127: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/20445911.2014.982127
+2025-04-15 23:20:22,720 - INFO - Logged failed DOI: 10.1080/20445911.2014.982127
+2025-04-15 23:20:23,229 - ERROR - Error fetching page for DOI 10.1007/s11065-020-09472-2: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s11065-020-09472-2
+2025-04-15 23:20:23,230 - ERROR - Error fetching page for DOI 10.3758/s13415-013-0219-x: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3758/s13415-013-0219-x
+2025-04-15 23:20:23,230 - INFO - Logged failed DOI: 10.1007/s11065-020-09472-2
+2025-04-15 23:20:23,231 - INFO - Logged failed DOI: 10.3758/s13415-013-0219-x
+2025-04-15 23:20:24,410 - ERROR - Error fetching page for DOI 10.1146/annurev-vision-100419-104831: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1146/annurev-vision-100419-104831
+2025-04-15 23:20:24,412 - INFO - Logged failed DOI: 10.1146/annurev-vision-100419-104831
+2025-04-15 23:20:25,082 - ERROR - Error fetching page for DOI 10.1016/B978-0-12-815298-0.00016-2: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/B978-0-12-815298-0.00016-2
+2025-04-15 23:20:25,083 - INFO - Logged failed DOI: 10.1016/B978-0-12-815298-0.00016-2
+2025-04-15 23:20:26,837 - ERROR - Error fetching page for DOI 10.1037/a0020031: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/a0020031
+2025-04-15 23:20:26,839 - INFO - Logged failed DOI: 10.1037/a0020031
+2025-04-15 23:20:27,587 - ERROR - Error fetching page for DOI 10.3389/fpsyg.2017.01040: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fpsyg.2017.01040
+2025-04-15 23:20:27,588 - INFO - Logged failed DOI: 10.3389/fpsyg.2017.01040
+2025-04-15 23:20:28,394 - ERROR - Error fetching page for DOI 10.1016/j.jecp.2017.11.004: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.jecp.2017.11.004
+2025-04-15 23:20:28,395 - INFO - Logged failed DOI: 10.1016/j.jecp.2017.11.004
+2025-04-15 23:20:28,537 - ERROR - Error fetching page for DOI 10.1111/desc.12538: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/desc.12538
+2025-04-15 23:20:28,538 - INFO - Logged failed DOI: 10.1111/desc.12538
+2025-04-15 23:20:29,679 - ERROR - Error fetching page for DOI 10.1016/j.psychsport.2021.101925: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.psychsport.2021.101925
+2025-04-15 23:20:29,680 - INFO - Logged failed DOI: 10.1016/j.psychsport.2021.101925
+2025-04-15 23:20:30,878 - ERROR - Error fetching page for DOI 10.1016/B978-0-12-803676-1.00016-7: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/B978-0-12-803676-1.00016-7
+2025-04-15 23:20:30,880 - INFO - Logged failed DOI: 10.1016/B978-0-12-803676-1.00016-7
+2025-04-15 23:20:31,796 - ERROR - Error fetching page for DOI 10.1038/s41398-019-0634-z: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1038/s41398-019-0634-z
+2025-04-15 23:20:31,796 - INFO - Logged failed DOI: 10.1038/s41398-019-0634-z
+2025-04-15 23:20:32,035 - ERROR - Error fetching page for DOI 10.1177/0956797614548725: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1177/0956797614548725
+2025-04-15 23:20:32,036 - INFO - Logged failed DOI: 10.1177/0956797614548725
+2025-04-15 23:20:32,345 - ERROR - Error fetching page for DOI 10.1523/JNEUROSCI.4572-15.2016: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1523/JNEUROSCI.4572-15.2016
+2025-04-15 23:20:32,345 - INFO - Logged failed DOI: 10.1523/JNEUROSCI.4572-15.2016
+2025-04-15 23:20:34,084 - ERROR - Error fetching page for DOI 10.1038/s41593-017-0020-1: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1038/s41593-017-0020-1
+2025-04-15 23:20:34,085 - INFO - Logged failed DOI: 10.1038/s41593-017-0020-1
+2025-04-15 23:20:35,104 - ERROR - Error fetching page for DOI 10.1016/B978-0-12-815298-0.00018-6: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/B978-0-12-815298-0.00018-6
+2025-04-15 23:20:35,106 - INFO - Logged failed DOI: 10.1016/B978-0-12-815298-0.00018-6
+2025-04-15 23:20:35,622 - ERROR - Error fetching page for DOI 10.1007/s00426-013-0537-1: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s00426-013-0537-1
+2025-04-15 23:20:35,623 - INFO - Logged failed DOI: 10.1007/s00426-013-0537-1
+2025-04-15 23:20:36,134 - ERROR - Error fetching page for DOI 10.1016/j.neubiorev.2019.01.021: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neubiorev.2019.01.021
+2025-04-15 23:20:36,138 - INFO - Logged failed DOI: 10.1016/j.neubiorev.2019.01.021
+2025-04-15 23:20:36,644 - ERROR - Error fetching page for DOI 10.3389/fpsyg.2020.00657: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fpsyg.2020.00657
+2025-04-15 23:20:36,645 - INFO - Logged failed DOI: 10.3389/fpsyg.2020.00657
+2025-04-15 23:20:38,077 - ERROR - Error fetching page for DOI 10.3389/fnins.2017.00040: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fnins.2017.00040
+2025-04-15 23:20:38,079 - ERROR - Error fetching page for DOI 10.1016/j.neuroimage.2005.02.004: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuroimage.2005.02.004
+2025-04-15 23:20:38,081 - INFO - Logged failed DOI: 10.1016/j.neuroimage.2005.02.004
+2025-04-15 23:20:38,081 - INFO - Logged failed DOI: 10.3389/fnins.2017.00040
+2025-04-15 23:20:39,250 - ERROR - Error fetching page for DOI 10.1017/S135561770396005X: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/S135561770396005X
+2025-04-15 23:20:39,251 - INFO - Logged failed DOI: 10.1017/S135561770396005X
+2025-04-15 23:20:40,351 - ERROR - Error fetching page for DOI 10.1037/a0021324: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/a0021324
+2025-04-15 23:20:40,352 - INFO - Logged failed DOI: 10.1037/a0021324
+2025-04-15 23:20:40,355 - ERROR - Error fetching page for DOI 10.1177/1754073919892069: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1177/1754073919892069
+2025-04-15 23:20:40,356 - INFO - Logged failed DOI: 10.1177/1754073919892069
+2025-04-15 23:20:41,607 - ERROR - Error fetching page for DOI 10.1016/j.neuropsychologia.2015.01.022: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuropsychologia.2015.01.022
+2025-04-15 23:20:41,608 - INFO - Logged failed DOI: 10.1016/j.neuropsychologia.2015.01.022
+2025-04-15 23:20:41,634 - ERROR - Error fetching page for DOI 10.1093/cercor/bhl057: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1093/cercor/bhl057
+2025-04-15 23:20:41,635 - INFO - Logged failed DOI: 10.1093/cercor/bhl057
+2025-04-15 23:20:43,094 - ERROR - Error fetching page for DOI 10.1093/schbul/sbn123: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1093/schbul/sbn123
+2025-04-15 23:20:43,096 - INFO - Logged failed DOI: 10.1093/schbul/sbn123
+2025-04-15 23:20:44,425 - ERROR - Error fetching page for DOI 10.1016/j.intell.2013.01.002: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.intell.2013.01.002
+2025-04-15 23:20:44,426 - INFO - Logged failed DOI: 10.1016/j.intell.2013.01.002
+2025-04-15 23:20:45,244 - ERROR - Error fetching page for DOI 10.1037/a0014104: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/a0014104
+2025-04-15 23:20:45,245 - INFO - Logged failed DOI: 10.1037/a0014104
+2025-04-15 23:20:45,436 - ERROR - Error fetching page for DOI 10.1007/s00787-020-01688-0: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s00787-020-01688-0
+2025-04-15 23:20:45,437 - ERROR - Error fetching page for DOI 10.1016/j.actpsy.2020.103212: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.actpsy.2020.103212
+2025-04-15 23:20:45,438 - INFO - Logged failed DOI: 10.1007/s00787-020-01688-0
+2025-04-15 23:20:45,438 - INFO - Logged failed DOI: 10.1016/j.actpsy.2020.103212
+2025-04-15 23:20:46,576 - ERROR - Error fetching page for DOI 10.1055/s-2004-828484: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1055/s-2004-828484
+2025-04-15 23:20:46,577 - INFO - Logged failed DOI: 10.1055/s-2004-828484
+2025-04-15 23:20:47,701 - ERROR - Error fetching page for DOI 10.1080/09658211.2015.1117640: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/09658211.2015.1117640
+2025-04-15 23:20:47,702 - INFO - Logged failed DOI: 10.1080/09658211.2015.1117640
+2025-04-15 23:20:49,033 - ERROR - Error fetching page for DOI 10.1016/j.neunet.2007.04.015: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neunet.2007.04.015
+2025-04-15 23:20:49,034 - ERROR - Error fetching page for DOI 10.1016/j.ajp.2018.05.006: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.ajp.2018.05.006
+2025-04-15 23:20:49,036 - ERROR - Error fetching page for DOI 10.1097/JCP.0000000000000076: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1097/JCP.0000000000000076
+2025-04-15 23:20:49,038 - INFO - Logged failed DOI: 10.1016/j.ajp.2018.05.006
+2025-04-15 23:20:49,038 - INFO - Logged failed DOI: 10.1097/JCP.0000000000000076
+2025-04-15 23:20:49,038 - INFO - Logged failed DOI: 10.1016/j.neunet.2007.04.015
+2025-04-15 23:20:51,154 - ERROR - Error fetching page for DOI 10.1016/j.intell.2012.02.010: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.intell.2012.02.010
+2025-04-15 23:20:51,156 - INFO - Logged failed DOI: 10.1016/j.intell.2012.02.010
+2025-04-15 23:20:52,514 - ERROR - Error fetching page for DOI 10.1093/brain/awf049: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1093/brain/awf049
+2025-04-15 23:20:52,516 - INFO - Logged failed DOI: 10.1093/brain/awf049
+2025-04-15 23:20:52,702 - ERROR - Error fetching page for DOI 10.1037/neu0000754: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/neu0000754
+2025-04-15 23:20:52,703 - INFO - Logged failed DOI: 10.1037/neu0000754
+2025-04-15 23:20:53,584 - ERROR - Error fetching page for DOI 10.1146/annurev.clinpsy.1.102803.143959: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1146/annurev.clinpsy.1.102803.143959
+2025-04-15 23:20:53,585 - INFO - Logged failed DOI: 10.1146/annurev.clinpsy.1.102803.143959
+2025-04-15 23:20:54,334 - ERROR - Error fetching page for DOI 10.1080/13607863.2018.1548566: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/13607863.2018.1548566
+2025-04-15 23:20:54,335 - INFO - Logged failed DOI: 10.1080/13607863.2018.1548566
+2025-04-15 23:20:55,383 - ERROR - Error fetching page for DOI 10.1523/JNEUROSCI.2767-06.2006: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1523/JNEUROSCI.2767-06.2006
+2025-04-15 23:20:55,384 - INFO - Logged failed DOI: 10.1523/JNEUROSCI.2767-06.2006
+2025-04-15 23:20:55,836 - ERROR - Error fetching page for DOI 10.1016/j.cognition.2009.06.014: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.cognition.2009.06.014
+2025-04-15 23:20:55,837 - INFO - Logged failed DOI: 10.1016/j.cognition.2009.06.014
+2025-04-15 23:20:56,815 - ERROR - Error fetching page for DOI 10.1016/j.jecp.2015.03.013: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.jecp.2015.03.013
+2025-04-15 23:20:56,817 - INFO - Logged failed DOI: 10.1016/j.jecp.2015.03.013
+2025-04-15 23:20:57,767 - ERROR - Error fetching page for DOI 10.1007/s10339-013-0584-y: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s10339-013-0584-y
+2025-04-15 23:20:57,768 - INFO - Logged failed DOI: 10.1007/s10339-013-0584-y
+2025-04-15 23:20:57,839 - ERROR - Error fetching page for DOI 10.1016/j.ntt.2020.106888: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.ntt.2020.106888
+2025-04-15 23:20:57,840 - INFO - Logged failed DOI: 10.1016/j.ntt.2020.106888
+2025-04-15 23:20:58,146 - ERROR - Error fetching page for DOI 10.1515/revneuro-2016-0073: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1515/revneuro-2016-0073
+2025-04-15 23:20:58,147 - INFO - Logged failed DOI: 10.1515/revneuro-2016-0073
+2025-04-15 23:20:59,681 - ERROR - Error fetching page for DOI 10.3389/fpsyt.2017.00219: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fpsyt.2017.00219
+2025-04-15 23:20:59,682 - INFO - Logged failed DOI: 10.3389/fpsyt.2017.00219
+2025-04-15 23:21:00,478 - ERROR - Error fetching page for DOI 10.1007/s00213-006-0404-5: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s00213-006-0404-5
+2025-04-15 23:21:00,480 - ERROR - Error fetching page for DOI 10.1016/j.biopsych.2020.06.022: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.biopsych.2020.06.022
+2025-04-15 23:21:00,481 - INFO - Logged failed DOI: 10.1007/s00213-006-0404-5
+2025-04-15 23:21:00,481 - INFO - Logged failed DOI: 10.1016/j.biopsych.2020.06.022
+2025-04-15 23:21:02,192 - ERROR - Error fetching page for DOI 10.1016/j.neuroimage.2019.02.071: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuroimage.2019.02.071
+2025-04-15 23:21:02,193 - INFO - Logged failed DOI: 10.1016/j.neuroimage.2019.02.071
+2025-04-15 23:21:02,549 - ERROR - Error fetching page for DOI 10.1016/B978-0-12-373644-4.00005-0: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/B978-0-12-373644-4.00005-0
+2025-04-15 23:21:02,550 - INFO - Logged failed DOI: 10.1016/B978-0-12-373644-4.00005-0
+2025-04-15 23:21:03,879 - ERROR - Error fetching page for DOI 10.1016/j.jecp.2007.08.003: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.jecp.2007.08.003
+2025-04-15 23:21:03,880 - INFO - Logged failed DOI: 10.1016/j.jecp.2007.08.003
+2025-04-15 23:21:04,801 - ERROR - Error fetching page for DOI 10.1152/jn.00041.2021: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1152/jn.00041.2021
+2025-04-15 23:21:04,802 - INFO - Logged failed DOI: 10.1152/jn.00041.2021
+2025-04-15 23:21:04,905 - ERROR - Error fetching page for DOI 10.3389/fnbeh.2019.00024: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fnbeh.2019.00024
+2025-04-15 23:21:04,906 - INFO - Logged failed DOI: 10.3389/fnbeh.2019.00024
+2025-04-15 23:21:07,260 - ERROR - Error fetching page for DOI 10.1007/s00213-011-2286-4: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s00213-011-2286-4
+2025-04-15 23:21:07,261 - INFO - Logged failed DOI: 10.1007/s00213-011-2286-4
+2025-04-15 23:21:07,361 - ERROR - Error fetching page for DOI 10.1016/S0920-9964(01)00152-9: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/S0920-9964(01)00152-9
+2025-04-15 23:21:07,362 - INFO - Logged failed DOI: 10.1016/S0920-9964(01)00152-9
+2025-04-15 23:21:08,282 - ERROR - Error fetching page for DOI 10.5334/pb-45-2-101: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.5334/pb-45-2-101
+2025-04-15 23:21:08,283 - INFO - Logged failed DOI: 10.5334/pb-45-2-101
+2025-04-15 23:21:08,710 - ERROR - Error fetching page for DOI 10.3389/fnbeh.2019.00247: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fnbeh.2019.00247
+2025-04-15 23:21:08,712 - INFO - Logged failed DOI: 10.3389/fnbeh.2019.00247
+2025-04-15 23:21:09,818 - ERROR - Error fetching page for DOI 10.1016/B978-0-12-803676-1.00014-3: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/B978-0-12-803676-1.00014-3
+2025-04-15 23:21:09,819 - INFO - Logged failed DOI: 10.1016/B978-0-12-803676-1.00014-3
+2025-04-15 23:21:10,430 - ERROR - Error fetching page for DOI 10.1111/ejn.15107: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/ejn.15107
+2025-04-15 23:21:10,431 - INFO - Logged failed DOI: 10.1111/ejn.15107
+2025-04-15 23:21:10,957 - ERROR - Error fetching page for DOI 10.1007/s40519-016-0331-3: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s40519-016-0331-3
+2025-04-15 23:21:10,958 - INFO - Logged failed DOI: 10.1007/s40519-016-0331-3
+2025-04-15 23:21:12,789 - ERROR - Error fetching page for DOI 10.1177/0269881113480988: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1177/0269881113480988
+2025-04-15 23:21:12,790 - INFO - Logged failed DOI: 10.1177/0269881113480988
+2025-04-15 23:21:13,819 - ERROR - Error fetching page for DOI 10.3390/brainsci9010015: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3390/brainsci9010015
+2025-04-15 23:21:13,821 - INFO - Logged failed DOI: 10.3390/brainsci9010015
+2025-04-15 23:21:14,529 - ERROR - Error fetching page for DOI 10.1016/j.pneurobio.2021.102180: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.pneurobio.2021.102180
+2025-04-15 23:21:14,531 - ERROR - Error fetching page for DOI 10.1037/cns0000180: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/cns0000180
+2025-04-15 23:21:14,532 - INFO - Logged failed DOI: 10.1016/j.pneurobio.2021.102180
+2025-04-15 23:21:14,532 - INFO - Logged failed DOI: 10.1037/cns0000180
+2025-04-15 23:21:14,837 - ERROR - Error fetching page for DOI 10.3389/fnmol.2018.00475: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fnmol.2018.00475
+2025-04-15 23:21:14,865 - INFO - Logged failed DOI: 10.3389/fnmol.2018.00475
+2025-04-15 23:21:17,908 - ERROR - Error fetching page for DOI 10.1080/00221325.2014.1002749: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/00221325.2014.1002749
+2025-04-15 23:21:17,910 - INFO - Logged failed DOI: 10.1080/00221325.2014.1002749
+2025-04-15 23:21:18,215 - ERROR - Error fetching page for DOI 10.1037/bul0000180: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/bul0000180
+2025-04-15 23:21:18,216 - INFO - Logged failed DOI: 10.1037/bul0000180
+2025-04-15 23:21:19,137 - ERROR - Error fetching page for DOI 10.1111/pcn.12954: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/pcn.12954
+2025-04-15 23:21:19,138 - INFO - Logged failed DOI: 10.1111/pcn.12954
+2025-04-15 23:21:19,754 - ERROR - Error fetching page for DOI 10.1080/13607863.2020.1749832: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/13607863.2020.1749832
+2025-04-15 23:21:19,757 - ERROR - Error fetching page for DOI 10.1016/j.nlm.2019.02.006: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.nlm.2019.02.006
+2025-04-15 23:21:19,758 - INFO - Logged failed DOI: 10.1016/j.nlm.2019.02.006
+2025-04-15 23:21:19,758 - INFO - Logged failed DOI: 10.1080/13607863.2020.1749832
+2025-04-15 23:21:20,673 - ERROR - Error fetching page for DOI 10.1080/13803395.2016.1201050: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/13803395.2016.1201050
+2025-04-15 23:21:20,674 - INFO - Logged failed DOI: 10.1080/13803395.2016.1201050
+2025-04-15 23:21:22,003 - ERROR - Error fetching page for DOI 10.3390/su13116210: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3390/su13116210
+2025-04-15 23:21:22,004 - INFO - Logged failed DOI: 10.3390/su13116210
+2025-04-15 23:21:22,516 - ERROR - Error fetching page for DOI 10.1017/S1355617709090808: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/S1355617709090808
+2025-04-15 23:21:22,517 - INFO - Logged failed DOI: 10.1017/S1355617709090808
+2025-04-15 23:21:23,027 - ERROR - Error fetching page for DOI 10.1002/acp.3837: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1002/acp.3837
+2025-04-15 23:21:23,028 - INFO - Logged failed DOI: 10.1002/acp.3837
+2025-04-15 23:21:24,532 - ERROR - Error fetching page for DOI 10.1002/eat.22399: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1002/eat.22399
+2025-04-15 23:21:24,533 - INFO - Logged failed DOI: 10.1002/eat.22399
+2025-04-15 23:21:25,597 - ERROR - Error fetching page for DOI 10.1037/a0031252: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/a0031252
+2025-04-15 23:21:25,599 - INFO - Logged failed DOI: 10.1037/a0031252
+2025-04-15 23:21:26,314 - ERROR - Error fetching page for DOI 10.1016/j.neurobiolaging.2013.03.019: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neurobiolaging.2013.03.019
+2025-04-15 23:21:26,316 - INFO - Logged failed DOI: 10.1016/j.neurobiolaging.2013.03.019
+2025-04-15 23:21:27,089 - ERROR - Error fetching page for DOI 10.1016/j.neuropsychologia.2010.11.032: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuropsychologia.2010.11.032
+2025-04-15 23:21:27,091 - INFO - Logged failed DOI: 10.1016/j.neuropsychologia.2010.11.032
+2025-04-15 23:21:27,274 - ERROR - Error fetching page for DOI 10.1017/CBO9780511546396.006: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/CBO9780511546396.006
+2025-04-15 23:21:27,274 - INFO - Logged failed DOI: 10.1017/CBO9780511546396.006
+2025-04-15 23:21:29,785 - ERROR - Error fetching page for DOI 10.1016/B978-0-12-803676-1.00005-2: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/B978-0-12-803676-1.00005-2
+2025-04-15 23:21:29,793 - INFO - Logged failed DOI: 10.1016/B978-0-12-803676-1.00005-2
+2025-04-15 23:21:30,400 - ERROR - Error fetching page for DOI 10.1016/j.neuron.2015.12.029: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuron.2015.12.029
+2025-04-15 23:21:30,402 - INFO - Logged failed DOI: 10.1016/j.neuron.2015.12.029
+2025-04-15 23:21:31,219 - ERROR - Error fetching page for DOI 10.1007/s12559-017-9511-3: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s12559-017-9511-3
+2025-04-15 23:21:31,221 - ERROR - Error fetching page for DOI 10.3928/00485713-20100924-01: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3928/00485713-20100924-01
+2025-04-15 23:21:31,223 - INFO - Logged failed DOI: 10.1007/s12559-017-9511-3
+2025-04-15 23:21:31,223 - INFO - Logged failed DOI: 10.3928/00485713-20100924-01
+2025-04-15 23:21:31,731 - ERROR - Error fetching page for DOI 10.1007/s41465-020-00203-2: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s41465-020-00203-2
+2025-04-15 23:21:31,733 - INFO - Logged failed DOI: 10.1007/s41465-020-00203-2
+2025-04-15 23:21:33,063 - ERROR - Error fetching page for DOI 10.1111/ejn.14349: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/ejn.14349
+2025-04-15 23:21:33,064 - INFO - Logged failed DOI: 10.1111/ejn.14349
+2025-04-15 23:21:34,189 - ERROR - Error fetching page for DOI 10.1523/JNEUROSCI.4623-10.2010: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1523/JNEUROSCI.4623-10.2010
+2025-04-15 23:21:34,190 - INFO - Logged failed DOI: 10.1523/JNEUROSCI.4623-10.2010
+2025-04-15 23:21:35,315 - ERROR - Error fetching page for DOI 10.1111/j.1467-7687.2011.01093.x: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/j.1467-7687.2011.01093.x
+2025-04-15 23:21:35,316 - INFO - Logged failed DOI: 10.1111/j.1467-7687.2011.01093.x
+2025-04-15 23:21:36,542 - ERROR - Error fetching page for DOI 10.1007/s00221-013-3808-6: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s00221-013-3808-6
+2025-04-15 23:21:36,543 - INFO - Logged failed DOI: 10.1007/s00221-013-3808-6
+2025-04-15 23:21:36,862 - ERROR - Error fetching page for DOI 10.1017/CBO9780511551963.008: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/CBO9780511551963.008
+2025-04-15 23:21:36,863 - INFO - Logged failed DOI: 10.1017/CBO9780511551963.008
+2025-04-15 23:21:37,937 - ERROR - Error fetching page for DOI 10.1523/JNEUROSCI.1356-13.2013: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1523/JNEUROSCI.1356-13.2013
+2025-04-15 23:21:37,939 - INFO - Logged failed DOI: 10.1523/JNEUROSCI.1356-13.2013
+2025-04-15 23:21:38,103 - ERROR - Error fetching page for DOI 10.1038/npp.2015.13: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1038/npp.2015.13
+2025-04-15 23:21:38,104 - INFO - Logged failed DOI: 10.1038/npp.2015.13
+2025-04-15 23:21:39,513 - ERROR - Error fetching page for DOI 10.1017/S0033291713002730: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/S0033291713002730
+2025-04-15 23:21:39,515 - INFO - Logged failed DOI: 10.1017/S0033291713002730
+2025-04-15 23:21:40,501 - ERROR - Error fetching page for DOI 10.1097/WNN.0b013e31815e6244: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1097/WNN.0b013e31815e6244
+2025-04-15 23:21:40,503 - INFO - Logged failed DOI: 10.1097/WNN.0b013e31815e6244
+2025-04-15 23:21:40,639 - ERROR - Error fetching page for DOI 10.1016/j.appet.2017.05.018: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.appet.2017.05.018
+2025-04-15 23:21:40,640 - INFO - Logged failed DOI: 10.1016/j.appet.2017.05.018
+2025-04-15 23:21:40,715 - ERROR - Error fetching page for DOI 10.1002/hbm.20842: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1002/hbm.20842
+2025-04-15 23:21:40,719 - INFO - Logged failed DOI: 10.1002/hbm.20842
+2025-04-15 23:21:42,583 - ERROR - Error fetching page for DOI 10.3390/bs9050058: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3390/bs9050058
+2025-04-15 23:21:42,586 - INFO - Logged failed DOI: 10.3390/bs9050058
+2025-04-15 23:21:44,716 - ERROR - Error fetching page for DOI 10.1080/13854046.2012.740077: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/13854046.2012.740077
+2025-04-15 23:21:44,717 - ERROR - Error fetching page for DOI 10.1016/j.cognition.2013.02.012: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.cognition.2013.02.012
+2025-04-15 23:21:44,719 - INFO - Logged failed DOI: 10.1016/j.cognition.2013.02.012
+2025-04-15 23:21:44,719 - INFO - Logged failed DOI: 10.1080/13854046.2012.740077
+2025-04-15 23:21:44,789 - ERROR - Error fetching page for DOI 10.1016/j.ijpsycho.2015.11.010: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.ijpsycho.2015.11.010
+2025-04-15 23:21:44,789 - INFO - Logged failed DOI: 10.1016/j.ijpsycho.2015.11.010
+2025-04-15 23:21:45,145 - ERROR - Error fetching page for DOI 10.1080/09084280802644086: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/09084280802644086
+2025-04-15 23:21:45,146 - INFO - Logged failed DOI: 10.1080/09084280802644086
+2025-04-15 23:21:45,884 - ERROR - Error fetching page for DOI 10.1016/j.intell.2014.07.010: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.intell.2014.07.010
+2025-04-15 23:21:45,887 - INFO - Logged failed DOI: 10.1016/j.intell.2014.07.010
+2025-04-15 23:21:48,280 - ERROR - Error fetching page for DOI 10.1016/j.jecp.2019.104666: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.jecp.2019.104666
+2025-04-15 23:21:48,282 - INFO - Logged failed DOI: 10.1016/j.jecp.2019.104666
+2025-04-15 23:29:27,669 - INFO - Using Sci-Hub mirror: https://sci-hub.se
+2025-04-15 23:29:28,087 - WARNING - No PDF link found for DOI: 10.1037/xlm0000516
+2025-04-15 23:29:28,087 - INFO - DOI already logged as failed: 10.1037/xlm0000516
+2025-04-15 23:29:28,491 - WARNING - No PDF link found for DOI: 10.30773/pi.2020.0251
+2025-04-15 23:29:28,504 - WARNING - No PDF link found for DOI: 10.1523/ENEURO.0136-17.2017
+2025-04-15 23:29:28,506 - WARNING - No PDF link found for DOI: 10.1016/bs.irn.2021.07.004
+2025-04-15 23:29:28,506 - INFO - DOI already logged as failed: 10.1523/ENEURO.0136-17.2017
+2025-04-15 23:29:28,507 - INFO - DOI already logged as failed: 10.30773/pi.2020.0251
+2025-04-15 23:29:28,507 - INFO - DOI already logged as failed: 10.1016/bs.irn.2021.07.004
+2025-04-15 23:29:28,862 - ERROR - Failed to download PDF for DOI 10.1016/j.physbeh.2021.113602: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-06/82/stone2021.pdf#navpanes=0&view=FitH
+2025-04-15 23:29:28,863 - INFO - DOI already logged as failed: 10.1016/j.physbeh.2021.113602
+2025-04-15 23:29:31,458 - WARNING - No PDF link found for DOI: 10.5093/psed2021a20
+2025-04-15 23:29:31,459 - INFO - DOI already logged as failed: 10.5093/psed2021a20
+2025-04-15 23:29:31,557 - WARNING - No PDF link found for DOI: 10.3390/brainsci11091115
+2025-04-15 23:29:31,557 - INFO - DOI already logged as failed: 10.3390/brainsci11091115
+2025-04-15 23:29:32,169 - ERROR - Failed to download PDF for DOI 10.1080/13854046.2021.1971767: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-07/a9/10.1080@13854046.2021.1971767.pdf#navpanes=0&view=FitH
+2025-04-15 23:29:32,170 - INFO - DOI already logged as failed: 10.1080/13854046.2021.1971767
+2025-04-15 23:29:32,486 - WARNING - No PDF link found for DOI: 10.1037/neu0000666
+2025-04-15 23:29:32,487 - INFO - DOI already logged as failed: 10.1037/neu0000666
+2025-04-15 23:29:33,196 - WARNING - No PDF link found for DOI: 10.3389/fpsyg.2021.793000
+2025-04-15 23:29:33,196 - INFO - DOI already logged as failed: 10.3389/fpsyg.2021.793000
+2025-04-15 23:29:35,717 - WARNING - No PDF link found for DOI: 10.1134/S0044467719040117
+2025-04-15 23:29:35,717 - INFO - DOI already logged as failed: 10.1134/S0044467719040117
+2025-04-15 23:29:36,270 - WARNING - No PDF link found for DOI: 10.12804/revistas.urosario.edu.co/apl/a.7743
+2025-04-15 23:29:36,271 - INFO - DOI already logged as failed: 10.12804/revistas.urosario.edu.co/apl/a.7743
+2025-04-15 23:29:36,480 - WARNING - No PDF link found for DOI: 10.5334/pb-50-3-4-353
+2025-04-15 23:29:36,480 - INFO - DOI already logged as failed: 10.5334/pb-50-3-4-353
+2025-04-15 23:29:36,785 - WARNING - No PDF link found for DOI: 10.3389/fpsyg.2021.687337
+2025-04-15 23:29:36,786 - INFO - DOI already logged as failed: 10.3389/fpsyg.2021.687337
+2025-04-15 23:29:37,091 - WARNING - No PDF link found for DOI: 10.3758/s13428-021-01668-5
+2025-04-15 23:29:37,092 - INFO - DOI already logged as failed: 10.3758/s13428-021-01668-5
+2025-04-15 23:29:41,096 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_S0149-7634(02)00040-4.pdf
+2025-04-15 23:29:41,097 - INFO - Added DOI to library: 10.1016/S0149-7634(02)00040-4
+2025-04-15 23:29:41,200 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1097_01.wnn.0000213919.95266.0d.pdf
+2025-04-15 23:29:41,201 - INFO - Added DOI to library: 10.1097/01.wnn.0000213919.95266.0d
+2025-04-15 23:29:41,680 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3758_BF03193069.pdf
+2025-04-15 23:29:41,680 - INFO - Added DOI to library: 10.3758/BF03193069
+2025-04-15 23:29:42,195 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_00223980.2012.710663.pdf
+2025-04-15 23:29:42,195 - INFO - Added DOI to library: 10.1080/00223980.2012.710663
+2025-04-15 23:29:42,540 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1055_s-2004-830303.pdf
+2025-04-15 23:29:42,540 - INFO - Added DOI to library: 10.1055/s-2004-830303
+2025-04-15 23:29:45,593 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_20008198.2018.1450595.pdf
+2025-04-15 23:29:45,594 - INFO - Added DOI to library: 10.1080/20008198.2018.1450595
+2025-04-15 23:29:45,925 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1002_hbm.23181.pdf
+2025-04-15 23:29:45,925 - INFO - Added DOI to library: 10.1002/hbm.23181
+2025-04-15 23:29:47,272 - ERROR - Failed to download PDF for DOI 10.1016/j.comppsych.2021.152294: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-05/bb/coussement2022.pdf#navpanes=0&view=FitH
+2025-04-15 23:29:47,272 - INFO - DOI already logged as failed: 10.1016/j.comppsych.2021.152294
+2025-04-15 23:29:47,521 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_emo0000096.pdf
+2025-04-15 23:29:47,522 - INFO - Added DOI to library: 10.1037/emo0000096
+2025-04-15 23:29:47,960 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.cognition.2018.03.015.pdf
+2025-04-15 23:29:47,961 - INFO - Added DOI to library: 10.1016/j.cognition.2018.03.015
+2025-04-15 23:29:48,996 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.copsyc.2017.04.018.pdf
+2025-04-15 23:29:48,997 - INFO - Added DOI to library: 10.1016/j.copsyc.2017.04.018
+2025-04-15 23:29:50,658 - WARNING - No PDF link found for DOI: 10.1026/0033-3042/a000004
+2025-04-15 23:29:50,659 - INFO - DOI already logged as failed: 10.1026/0033-3042/a000004
+2025-04-15 23:29:51,006 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3233_JPD-202449.pdf
+2025-04-15 23:29:51,006 - INFO - Added DOI to library: 10.3233/JPD-202449
+2025-04-15 23:29:52,680 - ERROR - Failed to download PDF for DOI 10.1016/j.tins.2021.09.001: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-08/f060/wang2021.pdf#navpanes=0&view=FitH
+2025-04-15 23:29:52,680 - INFO - DOI already logged as failed: 10.1016/j.tins.2021.09.001
+2025-04-15 23:29:53,988 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1002_da.22785.pdf
+2025-04-15 23:29:53,988 - INFO - Added DOI to library: 10.1002/da.22785
+2025-04-15 23:29:54,704 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2017.01120.pdf
+2025-04-15 23:29:54,704 - INFO - Added DOI to library: 10.3389/fpsyg.2017.01120
+2025-04-15 23:29:55,192 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.pbb.2020.172994.pdf
+2025-04-15 23:29:55,193 - INFO - Added DOI to library: 10.1016/j.pbb.2020.172994
+2025-04-15 23:29:56,908 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fnhum.2019.00260.pdf
+2025-04-15 23:29:56,909 - INFO - Added DOI to library: 10.3389/fnhum.2019.00260
+2025-04-15 23:29:58,103 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neubiorev.2018.04.013.pdf
+2025-04-15 23:29:58,103 - INFO - Added DOI to library: 10.1016/j.neubiorev.2018.04.013
+2025-04-15 23:29:59,156 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s10899-017-9724-0.pdf
+2025-04-15 23:29:59,156 - INFO - Added DOI to library: 10.1007/s10899-017-9724-0
+2025-04-15 23:30:00,089 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.cognition.2020.104313.pdf
+2025-04-15 23:30:00,089 - INFO - Added DOI to library: 10.1016/j.cognition.2020.104313
+2025-04-15 23:30:00,471 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1177_0963721412454875.pdf
+2025-04-15 23:30:00,471 - INFO - Added DOI to library: 10.1177/0963721412454875
+2025-04-15 23:30:02,133 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1177_0956797613497023.pdf
+2025-04-15 23:30:02,144 - INFO - Added DOI to library: 10.1177/0956797613497023
+2025-04-15 23:30:03,140 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_02699931.2012.698251.pdf
+2025-04-15 23:30:03,141 - INFO - Added DOI to library: 10.1080/02699931.2012.698251
+2025-04-15 23:30:04,433 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_20445911.2013.855780.pdf
+2025-04-15 23:30:04,434 - INFO - Added DOI to library: 10.1080/20445911.2013.855780
+2025-04-15 23:30:04,546 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_B978-0-12-805308-9.00030-0.pdf
+2025-04-15 23:30:04,546 - INFO - Added DOI to library: 10.1016/B978-0-12-805308-9.00030-0
+2025-04-15 23:30:04,979 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1123_jsep.34.3.322.pdf
+2025-04-15 23:30:04,979 - INFO - Added DOI to library: 10.1123/jsep.34.3.322
+2025-04-15 23:30:07,706 - WARNING - No PDF link found for DOI: 10.5334/pb-50-3-4-147
+2025-04-15 23:30:07,707 - INFO - DOI already logged as failed: 10.5334/pb-50-3-4-147
+2025-04-15 23:30:08,114 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s10339-021-01021-w.pdf
+2025-04-15 23:30:08,115 - INFO - Added DOI to library: 10.1007/s10339-021-01021-w
+2025-04-15 23:30:08,879 - WARNING - No PDF link found for DOI: 10.5709/acp-0255-8
+2025-04-15 23:30:08,880 - INFO - DOI already logged as failed: 10.5709/acp-0255-8
+2025-04-15 23:30:09,894 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1177_0301006616658307.pdf
+2025-04-15 23:30:09,894 - INFO - Added DOI to library: 10.1177/0301006616658307
+2025-04-15 23:30:10,129 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_20445911.2011.586625.pdf
+2025-04-15 23:30:10,129 - INFO - Added DOI to library: 10.1080/20445911.2011.586625
+2025-04-15 23:30:11,538 - WARNING - No PDF link found for DOI: 10.36131/cnfioritieditore20200404
+2025-04-15 23:30:11,539 - INFO - DOI already logged as failed: 10.36131/cnfioritieditore20200404
+2025-04-15 23:30:12,599 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.psychres.2011.07.030.pdf
+2025-04-15 23:30:12,600 - INFO - Added DOI to library: 10.1016/j.psychres.2011.07.030
+2025-04-15 23:30:13,539 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1186_1744-9081-6-53.pdf
+2025-04-15 23:30:13,539 - INFO - Added DOI to library: 10.1186/1744-9081-6-53
+2025-04-15 23:30:15,181 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1177_0305735620978690.pdf
+2025-04-15 23:30:15,182 - INFO - Added DOI to library: 10.1177/0305735620978690
+2025-04-15 23:30:16,216 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.biopsych.2005.08.013.pdf
+2025-04-15 23:30:16,216 - INFO - Added DOI to library: 10.1016/j.biopsych.2005.08.013
+2025-04-15 23:30:16,307 - ERROR - Failed to download PDF for DOI 10.1016/j.jpsychires.2021.09.042: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-06/b5/miranda-olivos2021.pdf#navpanes=0&view=FitH
+2025-04-15 23:30:16,308 - INFO - DOI already logged as failed: 10.1016/j.jpsychires.2021.09.042
+2025-04-15 23:30:17,144 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2019.02038.pdf
+2025-04-15 23:30:17,145 - INFO - Added DOI to library: 10.3389/fpsyg.2019.02038
+2025-04-15 23:30:17,714 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.jneumeth.2018.05.011.pdf
+2025-04-15 23:30:17,714 - INFO - Added DOI to library: 10.1016/j.jneumeth.2018.05.011
+2025-04-15 23:30:20,427 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2014.00599.pdf
+2025-04-15 23:30:20,427 - INFO - Added DOI to library: 10.3389/fpsyg.2014.00599
+2025-04-15 23:30:21,413 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.drugalcdep.2013.09.027.pdf
+2025-04-15 23:30:21,413 - INFO - Added DOI to library: 10.1016/j.drugalcdep.2013.09.027
+2025-04-15 23:30:21,598 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.actpsy.2013.01.008.pdf
+2025-04-15 23:30:21,599 - INFO - Added DOI to library: 10.1016/j.actpsy.2013.01.008
+2025-04-15 23:30:21,878 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.cognition.2019.02.005.pdf
+2025-04-15 23:30:21,879 - INFO - Added DOI to library: 10.1016/j.cognition.2019.02.005
+2025-04-15 23:30:23,217 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1176_appi.neuropsych.12010016.pdf
+2025-04-15 23:30:23,217 - INFO - Added DOI to library: 10.1176/appi.neuropsych.12010016
+2025-04-15 23:30:25,763 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2018.01802.pdf
+2025-04-15 23:30:25,764 - INFO - Added DOI to library: 10.3389/fpsyg.2018.01802
+2025-04-15 23:30:26,044 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1111_j.1460-9568.2005.04505.x.pdf
+2025-04-15 23:30:26,045 - INFO - Added DOI to library: 10.1111/j.1460-9568.2005.04505.x
+2025-04-15 23:30:26,676 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1093_cercor_bhn189.pdf
+2025-04-15 23:30:26,676 - INFO - Added DOI to library: 10.1093/cercor/bhn189
+2025-04-15 23:30:26,704 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1111_ap.12141.pdf
+2025-04-15 23:30:26,704 - INFO - Added DOI to library: 10.1111/ap.12141
+2025-04-15 23:30:26,988 - WARNING - No PDF link found for DOI: 10.25115/psye.v10i1.2103
+2025-04-15 23:30:26,989 - INFO - DOI already logged as failed: 10.25115/psye.v10i1.2103
+2025-04-15 23:30:30,402 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuron.2016.10.031.pdf
+2025-04-15 23:30:30,403 - INFO - Added DOI to library: 10.1016/j.neuron.2016.10.031
+2025-04-15 23:30:30,958 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_20445911.2013.809348.pdf
+2025-04-15 23:30:30,958 - INFO - Added DOI to library: 10.1080/20445911.2013.809348
+2025-04-15 23:30:31,196 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fncir.2018.00015.pdf
+2025-04-15 23:30:31,196 - INFO - Added DOI to library: 10.3389/fncir.2018.00015
+2025-04-15 23:30:31,271 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.jecp.2009.01.002.pdf
+2025-04-15 23:30:31,272 - INFO - Added DOI to library: 10.1016/j.jecp.2009.01.002
+2025-04-15 23:30:32,031 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_a0023333.pdf
+2025-04-15 23:30:32,031 - INFO - Added DOI to library: 10.1037/a0023333
+2025-04-15 23:30:35,303 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuropsychologia.2019.107134.pdf
+2025-04-15 23:30:35,303 - INFO - Added DOI to library: 10.1016/j.neuropsychologia.2019.107134
+2025-04-15 23:30:36,273 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1017_S1366728914000856.pdf
+2025-04-15 23:30:36,274 - INFO - Added DOI to library: 10.1017/S1366728914000856
+2025-04-15 23:30:36,676 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.cogdev.2012.07.003.pdf
+2025-04-15 23:30:36,676 - INFO - Added DOI to library: 10.1016/j.cogdev.2012.07.003
+2025-04-15 23:30:36,974 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_21622965.2021.1937169.pdf
+2025-04-15 23:30:36,975 - INFO - Added DOI to library: 10.1080/21622965.2021.1937169
+2025-04-15 23:30:38,340 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1159_000508682.pdf
+2025-04-15 23:30:38,340 - INFO - Added DOI to library: 10.1159/000508682
+2025-04-15 23:30:40,540 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1177_0963721411408772.pdf
+2025-04-15 23:30:40,541 - INFO - Added DOI to library: 10.1177/0963721411408772
+2025-04-15 23:30:41,608 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_13854040500519752.pdf
+2025-04-15 23:30:41,611 - INFO - Added DOI to library: 10.1080/13854040500519752
+2025-04-15 23:30:41,814 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1038_s41593-018-0310-2.pdf
+2025-04-15 23:30:41,814 - INFO - Added DOI to library: 10.1038/s41593-018-0310-2
+2025-04-15 23:30:42,673 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.drugalcdep.2018.09.013.pdf
+2025-04-15 23:30:42,673 - INFO - Added DOI to library: 10.1016/j.drugalcdep.2018.09.013
+2025-04-15 23:30:42,958 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.psychsport.2009.05.006.pdf
+2025-04-15 23:30:42,958 - INFO - Added DOI to library: 10.1016/j.psychsport.2009.05.006
+2025-04-15 23:30:45,837 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1097_YIC.0000000000000129.pdf
+2025-04-15 23:30:45,840 - INFO - Added DOI to library: 10.1097/YIC.0000000000000129
+2025-04-15 23:30:46,163 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2017.01192.pdf
+2025-04-15 23:30:46,164 - INFO - Added DOI to library: 10.3389/fpsyg.2017.01192
+2025-04-15 23:30:46,924 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.actpsy.2014.02.007.pdf
+2025-04-15 23:30:46,925 - INFO - Added DOI to library: 10.1016/j.actpsy.2014.02.007
+2025-04-15 23:30:47,259 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.conb.2010.03.002.pdf
+2025-04-15 23:30:47,259 - INFO - Added DOI to library: 10.1016/j.conb.2010.03.002
+2025-04-15 23:30:47,330 - WARNING - No PDF link found for DOI: 10.1027/1618-3169.53.3.191
+2025-04-15 23:30:47,331 - INFO - DOI already logged as failed: 10.1027/1618-3169.53.3.191
+2025-04-15 23:30:50,401 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1177_1087054712465336.pdf
+2025-04-15 23:30:50,402 - INFO - Added DOI to library: 10.1177/1087054712465336
+2025-04-15 23:30:50,836 - WARNING - No PDF link found for DOI: 10.1027/1618-3169/a000133
+2025-04-15 23:30:50,837 - INFO - DOI already logged as failed: 10.1027/1618-3169/a000133
+2025-04-15 23:30:52,014 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuropsychologia.2008.04.021.pdf
+2025-04-15 23:30:52,015 - INFO - Added DOI to library: 10.1016/j.neuropsychologia.2008.04.021
+2025-04-15 23:30:52,223 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3758_s13423-011-0130-9.pdf
+2025-04-15 23:30:52,226 - INFO - Added DOI to library: 10.3758/s13423-011-0130-9
+2025-04-15 23:30:52,943 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_87565641.2014.916709.pdf
+2025-04-15 23:30:52,944 - INFO - Added DOI to library: 10.1080/87565641.2014.916709
+2025-04-15 23:30:55,083 - WARNING - No PDF link found for DOI: 10.1037/xhp0000552
+2025-04-15 23:30:55,083 - INFO - DOI already logged as failed: 10.1037/xhp0000552
+2025-04-15 23:30:55,187 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_15248372.2017.1336438.pdf
+2025-04-15 23:30:55,188 - INFO - Added DOI to library: 10.1080/15248372.2017.1336438
+2025-04-15 23:30:55,538 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.psfr.2013.09.002.pdf
+2025-04-15 23:30:55,538 - INFO - Added DOI to library: 10.1016/j.psfr.2013.09.002
+2025-04-15 23:30:58,565 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_02109395.2017.1295575.pdf
+2025-04-15 23:30:58,565 - INFO - Added DOI to library: 10.1080/02109395.2017.1295575
+2025-04-15 23:30:58,906 - WARNING - No PDF link found for DOI: 10.3389/fneur.2021.629048
+2025-04-15 23:30:58,907 - INFO - DOI already logged as failed: 10.3389/fneur.2021.629048
+2025-04-15 23:30:59,363 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.drugalcdep.2013.08.014.pdf
+2025-04-15 23:30:59,364 - INFO - Added DOI to library: 10.1016/j.drugalcdep.2013.08.014
+2025-04-15 23:30:59,739 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1017_S1355617718000255.pdf
+2025-04-15 23:30:59,739 - INFO - Added DOI to library: 10.1017/S1355617718000255
+2025-04-15 23:31:00,595 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuron.2013.01.039.pdf
+2025-04-15 23:31:00,601 - INFO - Added DOI to library: 10.1016/j.neuron.2013.01.039
+2025-04-15 23:31:02,686 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_0278-7393.34.4.859.pdf
+2025-04-15 23:31:02,687 - INFO - Added DOI to library: 10.1037/0278-7393.34.4.859
+2025-04-15 23:31:05,022 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3758_s13428-020-01452-x.pdf
+2025-04-15 23:31:05,022 - INFO - Added DOI to library: 10.3758/s13428-020-01452-x
+2025-04-15 23:31:05,095 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuron.2018.09.023.pdf
+2025-04-15 23:31:05,096 - INFO - Added DOI to library: 10.1016/j.neuron.2018.09.023
+2025-04-15 23:31:06,227 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_13607863.2020.1858755.pdf
+2025-04-15 23:31:06,227 - INFO - Added DOI to library: 10.1080/13607863.2020.1858755
+2025-04-15 23:31:06,266 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.nlm.2021.107509.pdf
+2025-04-15 23:31:06,266 - INFO - Added DOI to library: 10.1016/j.nlm.2021.107509
+2025-04-15 23:31:07,519 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2020.574789.pdf
+2025-04-15 23:31:07,520 - INFO - Added DOI to library: 10.3389/fpsyg.2020.574789
+2025-04-15 23:31:07,681 - WARNING - No PDF link found for DOI: 10.1523/ENEURO.0250-19.2019
+2025-04-15 23:31:07,682 - INFO - DOI already logged as failed: 10.1523/ENEURO.0250-19.2019
+2025-04-15 23:31:09,235 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.jecp.2014.06.007.pdf
+2025-04-15 23:31:09,236 - INFO - Added DOI to library: 10.1016/j.jecp.2014.06.007
+2025-04-15 23:31:10,294 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1177_0269881109349841.pdf
+2025-04-15 23:31:10,294 - INFO - Added DOI to library: 10.1177/0269881109349841
+2025-04-15 23:31:10,645 - WARNING - No PDF link found for DOI: 10.1037/neu0000321
+2025-04-15 23:31:10,646 - INFO - DOI already logged as failed: 10.1037/neu0000321
+2025-04-15 23:31:12,565 - WARNING - No PDF link found for DOI: 10.17759/pse.2020250106
+2025-04-15 23:31:12,565 - INFO - DOI already logged as failed: 10.17759/pse.2020250106
+2025-04-15 23:31:12,735 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2020.560461.pdf
+2025-04-15 23:31:12,736 - INFO - Added DOI to library: 10.3389/fpsyg.2020.560461
+2025-04-15 23:31:14,730 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1523_JNEUROSCI.1766-16.2016.pdf
+2025-04-15 23:31:14,731 - INFO - Added DOI to library: 10.1523/JNEUROSCI.1766-16.2016
+2025-04-15 23:31:15,493 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_13803395.2019.1662374.pdf
+2025-04-15 23:31:15,494 - INFO - Added DOI to library: 10.1080/13803395.2019.1662374
+2025-04-15 23:31:16,424 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_a0020365.pdf
+2025-04-15 23:31:16,426 - INFO - Added DOI to library: 10.1037/a0020365
+2025-04-15 23:31:18,253 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1038_nn.3509.pdf
+2025-04-15 23:31:18,253 - INFO - Added DOI to library: 10.1038/nn.3509
+2025-04-15 23:31:18,588 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1017_S1366728920000012.pdf
+2025-04-15 23:31:18,588 - INFO - Added DOI to library: 10.1017/S1366728920000012
+2025-04-15 23:31:18,953 - WARNING - No PDF link found for DOI: 10.1521/bumc.2021.85.4.335
+2025-04-15 23:31:18,954 - INFO - DOI already logged as failed: 10.1521/bumc.2021.85.4.335
+2025-04-15 23:31:18,956 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s00426-017-0933-z.pdf
+2025-04-15 23:31:18,957 - INFO - Added DOI to library: 10.1007/s00426-017-0933-z
+2025-04-15 23:31:21,409 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.bandc.2010.12.003.pdf
+2025-04-15 23:31:21,410 - INFO - Added DOI to library: 10.1016/j.bandc.2010.12.003
+2025-04-15 23:31:22,368 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuron.2014.01.002.pdf
+2025-04-15 23:31:22,368 - INFO - Added DOI to library: 10.1016/j.neuron.2014.01.002
+2025-04-15 23:31:22,640 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.5127_jep.0038713.pdf
+2025-04-15 23:31:22,640 - INFO - Added DOI to library: 10.5127/jep.0038713
+2025-04-15 23:31:23,350 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s10827-007-0034-x.pdf
+2025-04-15 23:31:23,351 - INFO - Added DOI to library: 10.1007/s10827-007-0034-x
+2025-04-15 23:31:23,781 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_a0018159.pdf
+2025-04-15 23:31:23,782 - INFO - Added DOI to library: 10.1037/a0018159
+2025-04-15 23:31:25,232 - WARNING - No PDF link found for DOI: 10.3389/fnins.2021.631195
+2025-04-15 23:31:25,232 - INFO - DOI already logged as failed: 10.3389/fnins.2021.631195
+2025-04-15 23:31:27,275 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.chbr.2021.100068.pdf
+2025-04-15 23:31:27,276 - INFO - Added DOI to library: 10.1016/j.chbr.2021.100068
+2025-04-15 23:31:27,886 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_21622965.2019.1611431.pdf
+2025-04-15 23:31:27,886 - INFO - Added DOI to library: 10.1080/21622965.2019.1611431
+2025-04-15 23:31:28,882 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3758_s13415-015-0336-9.pdf
+2025-04-15 23:31:28,883 - INFO - Added DOI to library: 10.3758/s13415-015-0336-9
+2025-04-15 23:31:28,974 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.bbr.2019.111978.pdf
+2025-04-15 23:31:28,974 - INFO - Added DOI to library: 10.1016/j.bbr.2019.111978
+2025-04-15 23:31:30,709 - ERROR - Error fetching page for DOI 10.1111/j.1469-7610.2010.02257.x: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/j.1469-7610.2010.02257.x
+2025-04-15 23:31:30,709 - INFO - DOI already logged as failed: 10.1111/j.1469-7610.2010.02257.x
+2025-04-15 23:31:30,867 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuroimage.2014.09.018.pdf
+2025-04-15 23:31:30,867 - INFO - Added DOI to library: 10.1016/j.neuroimage.2014.09.018
+2025-04-15 23:31:32,005 - ERROR - Error fetching page for DOI 10.1017/S1366728917000475: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/S1366728917000475
+2025-04-15 23:31:32,005 - INFO - DOI already logged as failed: 10.1017/S1366728917000475
+2025-04-15 23:31:32,013 - ERROR - Error fetching page for DOI 10.1016/j.psc.2005.05.005: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.psc.2005.05.005
+2025-04-15 23:31:32,014 - INFO - DOI already logged as failed: 10.1016/j.psc.2005.05.005
+2025-04-15 23:31:32,935 - ERROR - Error fetching page for DOI 10.1037/a0035166: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/a0035166
+2025-04-15 23:31:32,935 - INFO - DOI already logged as failed: 10.1037/a0035166
+2025-04-15 23:31:33,988 - ERROR - Error fetching page for DOI 10.1016/j.intell.2019.101404: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.intell.2019.101404
+2025-04-15 23:31:33,989 - INFO - DOI already logged as failed: 10.1016/j.intell.2019.101404
+2025-04-15 23:31:35,557 - ERROR - Error fetching page for DOI 10.1037/a0022849: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/a0022849
+2025-04-15 23:31:35,558 - INFO - DOI already logged as failed: 10.1037/a0022849
+2025-04-16 00:11:38,807 - INFO - Using Sci-Hub mirror: https://sci-hub.se
+2025-04-16 00:11:39,226 - WARNING - No PDF link found for DOI: 10.1037/xlm0000516
+2025-04-16 00:11:39,228 - INFO - DOI already logged as failed: 10.1037/xlm0000516
+2025-04-16 00:11:39,531 - WARNING - No PDF link found for DOI: 10.30773/pi.2020.0251
+2025-04-16 00:11:39,538 - WARNING - No PDF link found for DOI: 10.1016/bs.irn.2021.07.004
+2025-04-16 00:11:39,538 - INFO - DOI already logged as failed: 10.30773/pi.2020.0251
+2025-04-16 00:11:39,545 - WARNING - No PDF link found for DOI: 10.1523/ENEURO.0136-17.2017
+2025-04-16 00:11:39,550 - INFO - DOI already logged as failed: 10.1523/ENEURO.0136-17.2017
+2025-04-16 00:11:39,551 - INFO - DOI already logged as failed: 10.1016/bs.irn.2021.07.004
+2025-04-16 00:11:39,833 - ERROR - Failed to download PDF for DOI 10.1016/j.physbeh.2021.113602: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-06/82/stone2021.pdf#navpanes=0&view=FitH
+2025-04-16 00:11:39,834 - INFO - DOI already logged as failed: 10.1016/j.physbeh.2021.113602
+2025-04-16 00:11:42,127 - WARNING - No PDF link found for DOI: 10.5093/psed2021a20
+2025-04-16 00:11:42,128 - INFO - DOI already logged as failed: 10.5093/psed2021a20
+2025-04-16 00:11:42,195 - WARNING - No PDF link found for DOI: 10.3390/brainsci11091115
+2025-04-16 00:11:42,195 - INFO - DOI already logged as failed: 10.3390/brainsci11091115
+2025-04-16 00:11:42,468 - WARNING - No PDF link found for DOI: 10.1037/neu0000666
+2025-04-16 00:11:42,469 - INFO - DOI already logged as failed: 10.1037/neu0000666
+2025-04-16 00:11:42,580 - ERROR - Failed to download PDF for DOI 10.1080/13854046.2021.1971767: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-07/a9/10.1080@13854046.2021.1971767.pdf#navpanes=0&view=FitH
+2025-04-16 00:11:42,581 - INFO - DOI already logged as failed: 10.1080/13854046.2021.1971767
+2025-04-16 00:11:44,338 - WARNING - No PDF link found for DOI: 10.3389/fpsyg.2021.793000
+2025-04-16 00:11:44,339 - INFO - DOI already logged as failed: 10.3389/fpsyg.2021.793000
+2025-04-16 00:11:45,176 - WARNING - No PDF link found for DOI: 10.1134/S0044467719040117
+2025-04-16 00:11:45,176 - INFO - DOI already logged as failed: 10.1134/S0044467719040117
+2025-04-16 00:11:45,366 - WARNING - No PDF link found for DOI: 10.12804/revistas.urosario.edu.co/apl/a.7743
+2025-04-16 00:11:45,367 - INFO - DOI already logged as failed: 10.12804/revistas.urosario.edu.co/apl/a.7743
+2025-04-16 00:11:46,062 - WARNING - No PDF link found for DOI: 10.5334/pb-50-3-4-353
+2025-04-16 00:11:46,062 - INFO - DOI already logged as failed: 10.5334/pb-50-3-4-353
+2025-04-16 00:11:46,364 - WARNING - No PDF link found for DOI: 10.3389/fpsyg.2021.687337
+2025-04-16 00:11:46,364 - INFO - DOI already logged as failed: 10.3389/fpsyg.2021.687337
+2025-04-16 00:11:46,696 - WARNING - No PDF link found for DOI: 10.3758/s13428-021-01668-5
+2025-04-16 00:11:46,697 - INFO - DOI already logged as failed: 10.3758/s13428-021-01668-5
+2025-04-16 00:11:48,086 - ERROR - Failed to download PDF for DOI 10.1016/j.comppsych.2021.152294: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-05/bb/coussement2022.pdf#navpanes=0&view=FitH
+2025-04-16 00:11:48,087 - INFO - DOI already logged as failed: 10.1016/j.comppsych.2021.152294
+2025-04-16 00:11:49,051 - WARNING - No PDF link found for DOI: 10.1026/0033-3042/a000004
+2025-04-16 00:11:49,051 - INFO - DOI already logged as failed: 10.1026/0033-3042/a000004
+2025-04-16 00:11:49,355 - WARNING - No PDF link found for DOI: 10.5334/pb-50-3-4-147
+2025-04-16 00:11:49,355 - INFO - DOI already logged as failed: 10.5334/pb-50-3-4-147
+2025-04-16 00:11:49,542 - ERROR - Failed to download PDF for DOI 10.1016/j.tins.2021.09.001: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-08/f060/wang2021.pdf#navpanes=0&view=FitH
+2025-04-16 00:11:49,543 - INFO - DOI already logged as failed: 10.1016/j.tins.2021.09.001
+2025-04-16 00:11:49,841 - WARNING - No PDF link found for DOI: 10.5709/acp-0255-8
+2025-04-16 00:11:49,841 - INFO - DOI already logged as failed: 10.5709/acp-0255-8
+2025-04-16 00:11:50,884 - WARNING - No PDF link found for DOI: 10.36131/cnfioritieditore20200404
+2025-04-16 00:11:50,884 - INFO - DOI already logged as failed: 10.36131/cnfioritieditore20200404
+2025-04-16 00:11:52,221 - ERROR - Failed to download PDF for DOI 10.1016/j.jpsychires.2021.09.042: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-06/b5/miranda-olivos2021.pdf#navpanes=0&view=FitH
+2025-04-16 00:11:52,222 - INFO - DOI already logged as failed: 10.1016/j.jpsychires.2021.09.042
+2025-04-16 00:11:53,249 - WARNING - No PDF link found for DOI: 10.25115/psye.v10i1.2103
+2025-04-16 00:11:53,250 - INFO - DOI already logged as failed: 10.25115/psye.v10i1.2103
+2025-04-16 00:11:53,908 - WARNING - No PDF link found for DOI: 10.1027/1618-3169.53.3.191
+2025-04-16 00:11:53,909 - INFO - DOI already logged as failed: 10.1027/1618-3169.53.3.191
+2025-04-16 00:11:54,275 - WARNING - No PDF link found for DOI: 10.1027/1618-3169/a000133
+2025-04-16 00:11:54,276 - INFO - DOI already logged as failed: 10.1027/1618-3169/a000133
+2025-04-16 00:11:54,853 - WARNING - No PDF link found for DOI: 10.1037/xhp0000552
+2025-04-16 00:11:54,854 - INFO - DOI already logged as failed: 10.1037/xhp0000552
+2025-04-16 00:11:56,416 - WARNING - No PDF link found for DOI: 10.3389/fneur.2021.629048
+2025-04-16 00:11:56,417 - INFO - DOI already logged as failed: 10.3389/fneur.2021.629048
+2025-04-16 00:11:56,732 - WARNING - No PDF link found for DOI: 10.1523/ENEURO.0250-19.2019
+2025-04-16 00:11:56,733 - INFO - DOI already logged as failed: 10.1523/ENEURO.0250-19.2019
+2025-04-16 00:11:57,036 - WARNING - No PDF link found for DOI: 10.1037/neu0000321
+2025-04-16 00:11:57,037 - INFO - DOI already logged as failed: 10.1037/neu0000321
+2025-04-16 00:11:58,064 - WARNING - No PDF link found for DOI: 10.17759/pse.2020250106
+2025-04-16 00:11:58,064 - INFO - DOI already logged as failed: 10.17759/pse.2020250106
+2025-04-16 00:11:59,682 - WARNING - No PDF link found for DOI: 10.1521/bumc.2021.85.4.335
+2025-04-16 00:11:59,683 - INFO - DOI already logged as failed: 10.1521/bumc.2021.85.4.335
+2025-04-16 00:12:00,065 - WARNING - No PDF link found for DOI: 10.3389/fnins.2021.631195
+2025-04-16 00:12:00,066 - INFO - DOI already logged as failed: 10.3389/fnins.2021.631195
+2025-04-16 00:12:02,027 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1017_S1366728917000475.pdf
+2025-04-16 00:12:02,028 - INFO - Added DOI to library: 10.1017/S1366728917000475
+2025-04-16 00:12:02,317 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1111_j.1469-7610.2010.02257.x.pdf
+2025-04-16 00:12:02,318 - INFO - Added DOI to library: 10.1111/j.1469-7610.2010.02257.x
+2025-04-16 00:12:03,562 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.psc.2005.05.005.pdf
+2025-04-16 00:12:03,563 - INFO - Added DOI to library: 10.1016/j.psc.2005.05.005
+2025-04-16 00:12:03,939 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.intell.2019.101404.pdf
+2025-04-16 00:12:03,940 - INFO - Added DOI to library: 10.1016/j.intell.2019.101404
+2025-04-16 00:12:04,475 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_a0035166.pdf
+2025-04-16 00:12:04,480 - INFO - Added DOI to library: 10.1037/a0035166
+2025-04-16 00:12:05,990 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_a0022849.pdf
+2025-04-16 00:12:05,991 - INFO - Added DOI to library: 10.1037/a0022849
+2025-04-16 00:12:07,948 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1002_acp.1230.pdf
+2025-04-16 00:12:07,948 - INFO - Added DOI to library: 10.1002/acp.1230
+2025-04-16 00:12:08,642 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3758_s13414-016-1106-7.pdf
+2025-04-16 00:12:08,643 - INFO - Added DOI to library: 10.3758/s13414-016-1106-7
+2025-04-16 00:12:08,893 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.jecp.2013.09.012.pdf
+2025-04-16 00:12:08,893 - INFO - Added DOI to library: 10.1016/j.jecp.2013.09.012
+2025-04-16 00:12:09,605 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1111_j.1460-9568.2006.04964.x.pdf
+2025-04-16 00:12:09,616 - INFO - Added DOI to library: 10.1111/j.1460-9568.2006.04964.x
+2025-04-16 00:12:11,002 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1111_cogs.12436.pdf
+2025-04-16 00:12:11,003 - INFO - Added DOI to library: 10.1111/cogs.12436
+2025-04-16 00:12:12,220 - ERROR - Failed to download PDF for DOI 10.1007/s00426-021-01579-2: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-07/95/banks2021.pdf#navpanes=0&view=FitH
+2025-04-16 00:12:12,221 - INFO - DOI already logged as failed: 10.1007/s00426-021-01579-2
+2025-04-16 00:12:12,717 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_a0028465.pdf
+2025-04-16 00:12:12,718 - INFO - Added DOI to library: 10.1037/a0028465
+2025-04-16 00:12:13,196 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.bbr.2021.113382.pdf
+2025-04-16 00:12:13,212 - INFO - Added DOI to library: 10.1016/j.bbr.2021.113382
+2025-04-16 00:12:14,387 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1111_desc.12080.pdf
+2025-04-16 00:12:14,388 - INFO - Added DOI to library: 10.1111/desc.12080
+2025-04-16 00:12:16,798 - ERROR - Failed to download PDF for DOI 10.1080/23279095.2021.1979551: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-06/6a/ponsoni2021.pdf#navpanes=0&view=FitH
+2025-04-16 00:12:16,798 - INFO - DOI already logged as failed: 10.1080/23279095.2021.1979551
+2025-04-16 00:12:16,841 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3390_ijerph18073642.pdf
+2025-04-16 00:12:16,842 - INFO - Added DOI to library: 10.3390/ijerph18073642
+2025-04-16 00:12:18,323 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuroscience.2017.10.025.pdf
+2025-04-16 00:12:18,324 - INFO - Added DOI to library: 10.1016/j.neuroscience.2017.10.025
+2025-04-16 00:12:18,676 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.jecp.2016.08.010.pdf
+2025-04-16 00:12:18,677 - INFO - Added DOI to library: 10.1016/j.jecp.2016.08.010
+2025-04-16 00:12:18,827 - WARNING - No PDF link found for DOI: 10.1123/jsep.2019-0111
+2025-04-16 00:12:18,828 - INFO - DOI already logged as failed: 10.1123/jsep.2019-0111
+2025-04-16 00:12:20,910 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.jpsychires.2012.01.006.pdf
+2025-04-16 00:12:20,911 - INFO - Added DOI to library: 10.1016/j.jpsychires.2012.01.006
+2025-04-16 00:12:23,067 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuropsychologia.2020.107468.pdf
+2025-04-16 00:12:23,068 - INFO - Added DOI to library: 10.1016/j.neuropsychologia.2020.107468
+2025-04-16 00:12:23,302 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuroscience.2016.05.058.pdf
+2025-04-16 00:12:23,303 - INFO - Added DOI to library: 10.1016/j.neuroscience.2016.05.058
+2025-04-16 00:12:23,337 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1002_da.22450.pdf
+2025-04-16 00:12:23,337 - INFO - Added DOI to library: 10.1002/da.22450
+2025-04-16 00:12:23,543 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1097_NMD.0000000000000485.pdf
+2025-04-16 00:12:23,544 - INFO - Added DOI to library: 10.1097/NMD.0000000000000485
+2025-04-16 00:12:24,969 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.7334_psicothema2019.187.pdf
+2025-04-16 00:12:24,970 - INFO - Added DOI to library: 10.7334/psicothema2019.187
+2025-04-16 00:12:27,810 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_13803390701523109.pdf
+2025-04-16 00:12:27,811 - INFO - Added DOI to library: 10.1080/13803390701523109
+2025-04-16 00:12:27,826 - WARNING - No PDF link found for DOI: 10.5334/pb-50-3-4-277
+2025-04-16 00:12:27,827 - INFO - DOI already logged as failed: 10.5334/pb-50-3-4-277
+2025-04-16 00:12:28,572 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_21622965.2019.1699095.pdf
+2025-04-16 00:12:28,572 - INFO - Added DOI to library: 10.1080/21622965.2019.1699095
+2025-04-16 00:12:29,067 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s00213-010-1856-1.pdf
+2025-04-16 00:12:29,067 - INFO - Added DOI to library: 10.1007/s00213-010-1856-1
+2025-04-16 00:12:31,539 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.tics.2010.03.006.pdf
+2025-04-16 00:12:31,540 - INFO - Added DOI to library: 10.1016/j.tics.2010.03.006
+2025-04-16 00:12:32,896 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.yebeh.2018.04.022.pdf
+2025-04-16 00:12:32,896 - INFO - Added DOI to library: 10.1016/j.yebeh.2018.04.022
+2025-04-16 00:12:33,140 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuroimage.2016.01.017.pdf
+2025-04-16 00:12:33,141 - INFO - Added DOI to library: 10.1016/j.neuroimage.2016.01.017
+2025-04-16 00:12:34,258 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.6018_analesps.34.2.283771.pdf
+2025-04-16 00:12:34,259 - INFO - Added DOI to library: 10.6018/analesps.34.2.283771
+2025-04-16 00:12:35,194 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s11571-006-9007-4.pdf
+2025-04-16 00:12:35,195 - INFO - Added DOI to library: 10.1007/s11571-006-9007-4
+2025-04-16 00:12:35,364 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1176_appi.neuropsych.18060131.pdf
+2025-04-16 00:12:35,364 - INFO - Added DOI to library: 10.1176/appi.neuropsych.18060131
+2025-04-16 00:12:38,955 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.rasd.2014.06.011.pdf
+2025-04-16 00:12:38,955 - INFO - Added DOI to library: 10.1016/j.rasd.2014.06.011
+2025-04-16 00:12:39,337 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.bandc.2012.12.002.pdf
+2025-04-16 00:12:39,342 - INFO - Added DOI to library: 10.1016/j.bandc.2012.12.002
+2025-04-16 00:12:39,894 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_a0031048.pdf
+2025-04-16 00:12:39,896 - INFO - Added DOI to library: 10.1037/a0031048
+2025-04-16 00:12:40,211 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.intell.2009.08.002.pdf
+2025-04-16 00:12:40,212 - INFO - Added DOI to library: 10.1016/j.intell.2009.08.002
+2025-04-16 00:12:41,811 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_13825585.2017.1418283.pdf
+2025-04-16 00:12:41,812 - INFO - Added DOI to library: 10.1080/13825585.2017.1418283
+2025-04-16 00:12:43,529 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1002_ijop.12663.pdf
+2025-04-16 00:12:43,530 - INFO - Added DOI to library: 10.1002/ijop.12663
+2025-04-16 00:12:44,066 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1093_sleep_zsx200.pdf
+2025-04-16 00:12:44,072 - INFO - Added DOI to library: 10.1093/sleep/zsx200
+2025-04-16 00:12:44,272 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.cortex.2019.03.015.pdf
+2025-04-16 00:12:44,273 - INFO - Added DOI to library: 10.1016/j.cortex.2019.03.015
+2025-04-16 00:12:45,722 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.cogdev.2012.07.004.pdf
+2025-04-16 00:12:45,743 - INFO - Added DOI to library: 10.1016/j.cogdev.2012.07.004
+2025-04-16 00:12:46,912 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neubiorev.2017.11.022.pdf
+2025-04-16 00:12:46,912 - INFO - Added DOI to library: 10.1016/j.neubiorev.2017.11.022
+2025-04-16 00:12:47,492 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_a0032621.pdf
+2025-04-16 00:12:47,493 - INFO - Added DOI to library: 10.1037/a0032621
+2025-04-16 00:12:48,531 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_20445911.2018.1525387.pdf
+2025-04-16 00:12:48,532 - INFO - Added DOI to library: 10.1080/20445911.2018.1525387
+2025-04-16 00:12:49,795 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s13365-017-0607-z.pdf
+2025-04-16 00:12:49,796 - INFO - Added DOI to library: 10.1007/s13365-017-0607-z
+2025-04-16 00:12:50,249 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.tins.2015.07.003.pdf
+2025-04-16 00:12:50,250 - INFO - Added DOI to library: 10.1016/j.tins.2015.07.003
+2025-04-16 00:12:51,114 - WARNING - No PDF link found for DOI: 10.1027/1618-3169/a000024
+2025-04-16 00:12:51,115 - INFO - DOI already logged as failed: 10.1027/1618-3169/a000024
+2025-04-16 00:12:51,548 - WARNING - No PDF link found for DOI: 10.21615/cesp.5447
+2025-04-16 00:12:51,549 - INFO - DOI already logged as failed: 10.21615/cesp.5447
+2025-04-16 00:12:53,766 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuroimage.2013.12.017.pdf
+2025-04-16 00:12:53,766 - INFO - Added DOI to library: 10.1016/j.neuroimage.2013.12.017
