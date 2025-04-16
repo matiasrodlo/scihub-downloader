@@ -1,6 +1,12 @@
+# --- Core dependencies ---
 requests>=2.25.0
 beautifulsoup4>=4.9.3
 tqdm>=4.60.0
 Flask>=2.2.0
 
-## pip install -r requirements.txt
+# --- Optional / Recommended additions ---
+colorama>=0.4.4        # For CLI colored output
+gunicorn>=20.1.0       # Production-ready WSGI server
+python-dotenv>=1.0.0   # Optional .env support for secrets and config
+
+# pip install -r requirements.txt

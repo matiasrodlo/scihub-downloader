@@ -7,14 +7,21 @@
   <label for="output">Output File:</label>
   <input type="text" id="output" name="output" value="{{ default_output }}" />
 
-  <button type="submit">Start Extraction</button>
+  <button type="submit" id="startExtractBtn">Start Extraction</button>
 </form>
 
-<!-- Progress Bar -->
-<div class="progress-container">
-  <div class="progress-bar" id="progressBar"></div>
+<!-- Progress message -->
+<p id="extractingMessage" style="display: none; color: #555; margin-top: 10px">
+  ⏳ Extraction in progress...
+</p>
+
+<!-- Summary Box -->
+<div id="summary" class="summary-box" style="display: none">
+  <h3>Extraction Summary</h3>
+  <p id="total_extracted"></p>
+  <p id="total_errors"></p>
+  <ul id="failed_entries"></ul>
 </div>
-<p id="progressCount">0/100</p>
 
 <!-- Back Button -->
 <div class="button-container" style="justify-content: center; margin-top: 20px">
@@ -22,39 +29,54 @@
 </div>
 
 <script>
-  var currentLogFile = ""; // Store the unique log file name for this extraction
+  let extractionStarted = false;
 
-  function fetchProgress() {
-    if (!currentLogFile) return;
-    fetch("{{ url_for('progress') }}?log=" + currentLogFile)
+  function fetchSummary() {
+    fetch("{{ url_for('extraction_summary') }}")
       .then((response) => response.json())
       .then((data) => {
-        document.getElementById("progressBar").style.width =
-          data.progress + "%";
-        document.getElementById("progressCount").textContent =
-          data.count + "/" + data.total;
+        // Only show results if extraction was actually started
+        if (!extractionStarted) return;
+
+        if (data.total_extracted !== undefined) {
+          document.getElementById("extractingMessage").style.display = "none";
+          document.getElementById("summary").style.display = "block";
+          document.getElementById("total_extracted").textContent =
+            "Total DOIs Extracted: " + data.total_extracted;
+          document.getElementById("total_errors").textContent =
+            "Total Errors: " + data.total_errors;
+
+          const ul = document.getElementById("failed_entries");
+          ul.innerHTML = "";
+          if (data.failed_entries && data.failed_entries.length > 0) {
+            data.failed_entries.forEach((err) => {
+              const li = document.createElement("li");
+              li.textContent = err;
+              ul.appendChild(li);
+            });
+          }
+        }
       });
   }
 
-  // Poll progress every 2 seconds
-  setInterval(fetchProgress, 2000);
+  // Poll for summary updates every 5 seconds
+  setInterval(fetchSummary, 5000);
 
-  // Handle form submission using AJAX without pop-up
   document
     .getElementById("extractForm")
     .addEventListener("submit", function (e) {
       e.preventDefault();
-      let formData = new FormData(e.target);
+      const formData = new FormData(e.target);
+
+      // UI feedback
+      document.getElementById("startExtractBtn").style.display = "none";
+      document.getElementById("extractingMessage").style.display = "block";
+      extractionStarted = true;
+
       fetch("{{ url_for('start_extraction') }}", {
         method: "POST",
         body: formData,
-      })
-        .then((response) => response.json())
-        .then((data) => {
-          console.log(data.status);
-          // Store the unique log file name for progress polling
-          currentLogFile = data.log_file;
-        });
+      });
     });
 </script>
 {% endblock %}

@@ -1347,3 +1347,1141 @@
 2025-04-16 00:12:51,549 - INFO - DOI already logged as failed: 10.21615/cesp.5447
 2025-04-16 00:12:53,766 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuroimage.2013.12.017.pdf
 2025-04-16 00:12:53,766 - INFO - Added DOI to library: 10.1016/j.neuroimage.2013.12.017
+2025-04-16 09:21:30,186 - INFO - Using Sci-Hub mirror: https://sci-hub.se
+2025-04-16 09:21:30,501 - WARNING - No PDF link found for DOI: 10.1037/xlm0000516
+2025-04-16 09:21:30,503 - INFO - DOI already logged as failed: 10.1037/xlm0000516
+2025-04-16 09:21:30,906 - WARNING - No PDF link found for DOI: 10.1523/ENEURO.0136-17.2017
+2025-04-16 09:21:30,919 - WARNING - No PDF link found for DOI: 10.1016/bs.irn.2021.07.004
+2025-04-16 09:21:30,922 - INFO - DOI already logged as failed: 10.1523/ENEURO.0136-17.2017
+2025-04-16 09:21:30,923 - INFO - DOI already logged as failed: 10.1016/bs.irn.2021.07.004
+2025-04-16 09:21:31,310 - ERROR - Failed to download PDF for DOI 10.1016/j.physbeh.2021.113602: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-06/82/stone2021.pdf#navpanes=0&view=FitH
+2025-04-16 09:21:31,311 - INFO - DOI already logged as failed: 10.1016/j.physbeh.2021.113602
+2025-04-16 09:21:31,521 - WARNING - No PDF link found for DOI: 10.30773/pi.2020.0251
+2025-04-16 09:21:31,522 - INFO - DOI already logged as failed: 10.30773/pi.2020.0251
+2025-04-16 09:21:33,958 - WARNING - No PDF link found for DOI: 10.5093/psed2021a20
+2025-04-16 09:21:33,959 - INFO - DOI already logged as failed: 10.5093/psed2021a20
+2025-04-16 09:21:34,284 - WARNING - No PDF link found for DOI: 10.3390/brainsci11091115
+2025-04-16 09:21:34,285 - INFO - DOI already logged as failed: 10.3390/brainsci11091115
+2025-04-16 09:21:35,098 - ERROR - Failed to download PDF for DOI 10.1080/13854046.2021.1971767: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-07/a9/10.1080@13854046.2021.1971767.pdf#navpanes=0&view=FitH
+2025-04-16 09:21:35,099 - INFO - DOI already logged as failed: 10.1080/13854046.2021.1971767
+2025-04-16 09:21:35,309 - WARNING - No PDF link found for DOI: 10.1037/neu0000666
+2025-04-16 09:21:35,310 - INFO - DOI already logged as failed: 10.1037/neu0000666
+2025-04-16 09:21:36,545 - WARNING - No PDF link found for DOI: 10.3389/fpsyg.2021.793000
+2025-04-16 09:21:36,546 - INFO - DOI already logged as failed: 10.3389/fpsyg.2021.793000
+2025-04-16 09:21:37,353 - WARNING - No PDF link found for DOI: 10.1134/S0044467719040117
+2025-04-16 09:21:37,354 - INFO - DOI already logged as failed: 10.1134/S0044467719040117
+2025-04-16 09:21:38,487 - WARNING - No PDF link found for DOI: 10.12804/revistas.urosario.edu.co/apl/a.7743
+2025-04-16 09:21:38,488 - INFO - DOI already logged as failed: 10.12804/revistas.urosario.edu.co/apl/a.7743
+2025-04-16 09:21:39,023 - WARNING - No PDF link found for DOI: 10.5334/pb-50-3-4-353
+2025-04-16 09:21:39,024 - INFO - DOI already logged as failed: 10.5334/pb-50-3-4-353
+2025-04-16 09:21:39,507 - WARNING - No PDF link found for DOI: 10.3389/fpsyg.2021.687337
+2025-04-16 09:21:39,507 - INFO - DOI already logged as failed: 10.3389/fpsyg.2021.687337
+2025-04-16 09:21:41,146 - WARNING - No PDF link found for DOI: 10.3758/s13428-021-01668-5
+2025-04-16 09:21:41,154 - INFO - DOI already logged as failed: 10.3758/s13428-021-01668-5
+2025-04-16 09:21:41,448 - ERROR - Failed to download PDF for DOI 10.1016/j.comppsych.2021.152294: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-05/bb/coussement2022.pdf#navpanes=0&view=FitH
+2025-04-16 09:21:41,449 - INFO - DOI already logged as failed: 10.1016/j.comppsych.2021.152294
+2025-04-16 09:21:41,817 - WARNING - No PDF link found for DOI: 10.1026/0033-3042/a000004
+2025-04-16 09:21:41,818 - INFO - DOI already logged as failed: 10.1026/0033-3042/a000004
+2025-04-16 09:21:43,702 - ERROR - Failed to download PDF for DOI 10.1016/j.tins.2021.09.001: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-08/f060/wang2021.pdf#navpanes=0&view=FitH
+2025-04-16 09:21:43,708 - WARNING - No PDF link found for DOI: 10.5334/pb-50-3-4-147
+2025-04-16 09:21:43,708 - INFO - DOI already logged as failed: 10.1016/j.tins.2021.09.001
+2025-04-16 09:21:43,709 - INFO - DOI already logged as failed: 10.5334/pb-50-3-4-147
+2025-04-16 09:21:44,115 - WARNING - No PDF link found for DOI: 10.5709/acp-0255-8
+2025-04-16 09:21:44,116 - INFO - DOI already logged as failed: 10.5709/acp-0255-8
+2025-04-16 09:21:44,522 - WARNING - No PDF link found for DOI: 10.36131/cnfioritieditore20200404
+2025-04-16 09:21:44,523 - INFO - DOI already logged as failed: 10.36131/cnfioritieditore20200404
+2025-04-16 09:21:46,182 - ERROR - Failed to download PDF for DOI 10.1016/j.jpsychires.2021.09.042: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-06/b5/miranda-olivos2021.pdf#navpanes=0&view=FitH
+2025-04-16 09:21:46,183 - INFO - DOI already logged as failed: 10.1016/j.jpsychires.2021.09.042
+2025-04-16 09:21:46,571 - WARNING - No PDF link found for DOI: 10.25115/psye.v10i1.2103
+2025-04-16 09:21:46,572 - INFO - DOI already logged as failed: 10.25115/psye.v10i1.2103
+2025-04-16 09:21:47,084 - WARNING - No PDF link found for DOI: 10.1027/1618-3169.53.3.191
+2025-04-16 09:21:47,085 - INFO - DOI already logged as failed: 10.1027/1618-3169.53.3.191
+2025-04-16 09:21:48,418 - WARNING - No PDF link found for DOI: 10.1027/1618-3169/a000133
+2025-04-16 09:21:48,419 - INFO - DOI already logged as failed: 10.1027/1618-3169/a000133
+2025-04-16 09:21:48,620 - WARNING - No PDF link found for DOI: 10.1037/xhp0000552
+2025-04-16 09:21:48,621 - INFO - DOI already logged as failed: 10.1037/xhp0000552
+2025-04-16 09:21:48,628 - WARNING - No PDF link found for DOI: 10.3389/fneur.2021.629048
+2025-04-16 09:21:48,628 - INFO - DOI already logged as failed: 10.3389/fneur.2021.629048
+2025-04-16 09:21:50,567 - WARNING - No PDF link found for DOI: 10.1523/ENEURO.0250-19.2019
+2025-04-16 09:21:50,568 - INFO - DOI already logged as failed: 10.1523/ENEURO.0250-19.2019
+2025-04-16 09:21:50,890 - WARNING - No PDF link found for DOI: 10.1037/neu0000321
+2025-04-16 09:21:50,891 - INFO - DOI already logged as failed: 10.1037/neu0000321
+2025-04-16 09:21:51,076 - WARNING - No PDF link found for DOI: 10.17759/pse.2020250106
+2025-04-16 09:21:51,076 - INFO - DOI already logged as failed: 10.17759/pse.2020250106
+2025-04-16 09:21:51,487 - WARNING - No PDF link found for DOI: 10.1521/bumc.2021.85.4.335
+2025-04-16 09:21:51,488 - INFO - DOI already logged as failed: 10.1521/bumc.2021.85.4.335
+2025-04-16 09:21:51,864 - WARNING - No PDF link found for DOI: 10.3389/fnins.2021.631195
+2025-04-16 09:21:51,864 - INFO - DOI already logged as failed: 10.3389/fnins.2021.631195
+2025-04-16 09:21:53,837 - ERROR - Failed to download PDF for DOI 10.1007/s00426-021-01579-2: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-07/95/banks2021.pdf#navpanes=0&view=FitH
+2025-04-16 09:21:53,838 - INFO - DOI already logged as failed: 10.1007/s00426-021-01579-2
+2025-04-16 09:21:54,656 - ERROR - Failed to download PDF for DOI 10.1080/23279095.2021.1979551: 404 Client Error: Not Found for url: https://sci-hub.se/downloads/2022-11-06/6a/ponsoni2021.pdf#navpanes=0&view=FitH
+2025-04-16 09:21:54,657 - INFO - DOI already logged as failed: 10.1080/23279095.2021.1979551
+2025-04-16 09:21:54,664 - WARNING - No PDF link found for DOI: 10.1123/jsep.2019-0111
+2025-04-16 09:21:54,664 - INFO - DOI already logged as failed: 10.1123/jsep.2019-0111
+2025-04-16 09:21:55,584 - WARNING - No PDF link found for DOI: 10.5334/pb-50-3-4-277
+2025-04-16 09:21:55,585 - INFO - DOI already logged as failed: 10.5334/pb-50-3-4-277
+2025-04-16 09:21:56,368 - WARNING - No PDF link found for DOI: 10.1027/1618-3169/a000024
+2025-04-16 09:21:56,369 - INFO - DOI already logged as failed: 10.1027/1618-3169/a000024
+2025-04-16 09:21:58,141 - WARNING - No PDF link found for DOI: 10.21615/cesp.5447
+2025-04-16 09:21:58,141 - INFO - DOI already logged as failed: 10.21615/cesp.5447
+2025-04-16 09:22:02,108 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_B978-0-12-809825-7.00009-2.pdf
+2025-04-16 09:22:02,109 - INFO - Added DOI to library: 10.1016/B978-0-12-809825-7.00009-2
+2025-04-16 09:22:02,398 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.cognition.2011.08.010.pdf
+2025-04-16 09:22:02,399 - INFO - Added DOI to library: 10.1016/j.cognition.2011.08.010
+2025-04-16 09:22:02,700 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1017_S136672891800041X.pdf
+2025-04-16 09:22:02,700 - INFO - Added DOI to library: 10.1017/S136672891800041X
+2025-04-16 09:22:03,541 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2015.00065.pdf
+2025-04-16 09:22:03,542 - INFO - Added DOI to library: 10.3389/fpsyg.2015.00065
+2025-04-16 09:22:06,539 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuropsychologia.2019.107178.pdf
+2025-04-16 09:22:06,539 - INFO - Added DOI to library: 10.1016/j.neuropsychologia.2019.107178
+2025-04-16 09:22:06,744 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1523_JNEUROSCI.2815-14.2014.pdf
+2025-04-16 09:22:06,744 - INFO - Added DOI to library: 10.1523/JNEUROSCI.2815-14.2014
+2025-04-16 09:22:06,763 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.tins.2014.03.006.pdf
+2025-04-16 09:22:06,764 - INFO - Added DOI to library: 10.1016/j.tins.2014.03.006
+2025-04-16 09:22:07,880 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neubiorev.2019.12.010.pdf
+2025-04-16 09:22:07,883 - INFO - Added DOI to library: 10.1016/j.neubiorev.2019.12.010
+2025-04-16 09:22:09,262 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1006_brcg.2001.1507.pdf
+2025-04-16 09:22:09,262 - INFO - Added DOI to library: 10.1006/brcg.2001.1507
+2025-04-16 09:22:10,845 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.pbb.2012.07.004.pdf
+2025-04-16 09:22:10,846 - INFO - Added DOI to library: 10.1016/j.pbb.2012.07.004
+2025-04-16 09:22:12,895 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1186_s41155-018-0107-y.pdf
+2025-04-16 09:22:12,896 - INFO - Added DOI to library: 10.1186/s41155-018-0107-y
+2025-04-16 09:22:13,294 - WARNING - No PDF link found for DOI: 10.1037/0000143-002
+2025-04-16 09:22:13,294 - INFO - DOI already logged as failed: 10.1037/0000143-002
+2025-04-16 09:22:13,570 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.bandc.2020.105633.pdf
+2025-04-16 09:22:13,571 - INFO - Added DOI to library: 10.1016/j.bandc.2020.105633
+2025-04-16 09:22:14,093 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.appet.2015.04.012.pdf
+2025-04-16 09:22:14,093 - INFO - Added DOI to library: 10.1016/j.appet.2015.04.012
+2025-04-16 09:22:14,704 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1177_0963721414534853.pdf
+2025-04-16 09:22:14,705 - INFO - Added DOI to library: 10.1177/0963721414534853
+2025-04-16 09:22:16,648 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s00429-014-0797-6.pdf
+2025-04-16 09:22:16,649 - INFO - Added DOI to library: 10.1007/s00429-014-0797-6
+2025-04-16 09:22:16,713 - WARNING - No PDF link found for DOI: 10.3389/fpsyg.2021.675059
+2025-04-16 09:22:16,713 - INFO - DOI already logged as failed: 10.3389/fpsyg.2021.675059
+2025-04-16 09:22:19,786 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1186_s12888-020-02677-y.pdf
+2025-04-16 09:22:19,787 - INFO - Added DOI to library: 10.1186/s12888-020-02677-y
+2025-04-16 09:22:19,993 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1186_1471-2202-14-109.pdf
+2025-04-16 09:22:19,993 - INFO - Added DOI to library: 10.1186/1471-2202-14-109
+2025-04-16 09:22:20,543 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_17470218.2017.1310268.pdf
+2025-04-16 09:22:20,553 - INFO - Added DOI to library: 10.1080/17470218.2017.1310268
+2025-04-16 09:22:22,339 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.jecp.2012.06.005.pdf
+2025-04-16 09:22:22,340 - INFO - Added DOI to library: 10.1016/j.jecp.2012.06.005
+2025-04-16 09:22:23,672 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.ijpsycho.2016.06.014.pdf
+2025-04-16 09:22:23,673 - INFO - Added DOI to library: 10.1016/j.ijpsycho.2016.06.014
+2025-04-16 09:22:23,964 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_20445911.2016.1148041.pdf
+2025-04-16 09:22:23,964 - INFO - Added DOI to library: 10.1080/20445911.2016.1148041
+2025-04-16 09:22:25,645 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_00207450802543783.pdf
+2025-04-16 09:22:25,646 - INFO - Added DOI to library: 10.1080/00207450802543783
+2025-04-16 09:22:26,491 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3200_JRLP.141.5.525-538.pdf
+2025-04-16 09:22:26,491 - INFO - Added DOI to library: 10.3200/JRLP.141.5.525-538
+2025-04-16 09:22:26,594 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s00429-020-02191-7.pdf
+2025-04-16 09:22:26,594 - INFO - Added DOI to library: 10.1007/s00429-020-02191-7
+2025-04-16 09:22:27,541 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1186_1744-9081-1-8.pdf
+2025-04-16 09:22:27,542 - INFO - Added DOI to library: 10.1186/1744-9081-1-8
+2025-04-16 09:22:29,704 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1111_j.1467-9280.2008.02122.x.pdf
+2025-04-16 09:22:29,704 - INFO - Added DOI to library: 10.1111/j.1467-9280.2008.02122.x
+2025-04-16 09:22:30,280 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_0894-4105.18.1.152.pdf
+2025-04-16 09:22:30,280 - INFO - Added DOI to library: 10.1037/0894-4105.18.1.152
+2025-04-16 09:22:31,741 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.bbr.2011.03.034.pdf
+2025-04-16 09:22:31,741 - INFO - Added DOI to library: 10.1016/j.bbr.2011.03.034
+2025-04-16 09:22:32,364 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_23279095.2019.1576690.pdf
+2025-04-16 09:22:32,364 - INFO - Added DOI to library: 10.1080/23279095.2019.1576690
+2025-04-16 09:22:33,374 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.actpsy.2003.12.003.pdf
+2025-04-16 09:22:33,375 - INFO - Added DOI to library: 10.1016/j.actpsy.2003.12.003
+2025-04-16 09:22:33,654 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1017_sjp.2013.44.pdf
+2025-04-16 09:22:33,654 - INFO - Added DOI to library: 10.1017/sjp.2013.44
+2025-04-16 09:22:34,210 - WARNING - No PDF link found for DOI: 10.3389/fnbeh.2021.686102
+2025-04-16 09:22:34,211 - INFO - DOI already logged as failed: 10.3389/fnbeh.2021.686102
+2025-04-16 09:22:36,237 - WARNING - No PDF link found for DOI: 10.1037/xge0000593
+2025-04-16 09:22:36,238 - INFO - DOI already logged as failed: 10.1037/xge0000593
+2025-04-16 09:22:37,885 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neubiorev.2014.09.003.pdf
+2025-04-16 09:22:37,886 - INFO - Added DOI to library: 10.1016/j.neubiorev.2014.09.003
+2025-04-16 09:22:38,149 - WARNING - No PDF link found for DOI: 10.1037/0000143-003
+2025-04-16 09:22:38,150 - INFO - DOI already logged as failed: 10.1037/0000143-003
+2025-04-16 09:22:38,598 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.bandc.2016.07.002.pdf
+2025-04-16 09:22:38,599 - INFO - Added DOI to library: 10.1016/j.bandc.2016.07.002
+2025-04-16 09:22:39,309 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_B978-0-12-804315-8.00013-6.pdf
+2025-04-16 09:22:39,310 - INFO - Added DOI to library: 10.1016/B978-0-12-804315-8.00013-6
+2025-04-16 09:22:41,872 - WARNING - No PDF link found for DOI: 10.1037/0000143-008
+2025-04-16 09:22:41,873 - INFO - DOI already logged as failed: 10.1037/0000143-008
+2025-04-16 09:22:42,179 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2017.01784.pdf
+2025-04-16 09:22:42,179 - INFO - Added DOI to library: 10.3389/fpsyg.2017.01784
+2025-04-16 09:22:42,208 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1097_01.nmd.0000161685.54077.e4.pdf
+2025-04-16 09:22:42,208 - INFO - Added DOI to library: 10.1097/01.nmd.0000161685.54077.e4
+2025-04-16 09:22:42,395 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3758_CABN.2.4.341.pdf
+2025-04-16 09:22:42,396 - INFO - Added DOI to library: 10.3758/CABN.2.4.341
+2025-04-16 09:22:43,241 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1017_S0142716415000326.pdf
+2025-04-16 09:22:43,242 - INFO - Added DOI to library: 10.1017/S0142716415000326
+2025-04-16 09:22:44,944 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.ijlp.2018.04.007.pdf
+2025-04-16 09:22:44,944 - INFO - Added DOI to library: 10.1016/j.ijlp.2018.04.007
+2025-04-16 09:22:46,648 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_emo0000028.pdf
+2025-04-16 09:22:46,649 - INFO - Added DOI to library: 10.1037/emo0000028
+2025-04-16 09:22:47,706 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1002_brb3.2130.pdf
+2025-04-16 09:22:47,706 - INFO - Added DOI to library: 10.1002/brb3.2130
+2025-04-16 09:22:47,816 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s11065-018-9384-6.pdf
+2025-04-16 09:22:47,816 - INFO - Added DOI to library: 10.1007/s11065-018-9384-6
+2025-04-16 09:22:47,936 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_0096-3445.136.1.23.pdf
+2025-04-16 09:22:47,937 - INFO - Added DOI to library: 10.1037/0096-3445.136.1.23
+2025-04-16 09:22:49,707 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s10936-017-9518-7.pdf
+2025-04-16 09:22:49,708 - INFO - Added DOI to library: 10.1007/s10936-017-9518-7
+2025-04-16 09:22:50,738 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.schres.2005.08.007.pdf
+2025-04-16 09:22:50,739 - INFO - Added DOI to library: 10.1016/j.schres.2005.08.007
+2025-04-16 09:22:51,366 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3390_ijerph13010119.pdf
+2025-04-16 09:22:51,381 - INFO - Added DOI to library: 10.3390/ijerph13010119
+2025-04-16 09:22:51,657 - WARNING - No PDF link found for DOI: 10.21307/ane-2017-018
+2025-04-16 09:22:51,658 - INFO - DOI already logged as failed: 10.21307/ane-2017-018
+2025-04-16 09:22:52,457 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1017_S1355617718000383.pdf
+2025-04-16 09:22:52,457 - INFO - Added DOI to library: 10.1017/S1355617718000383
+2025-04-16 09:22:53,638 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1093_scan_nst004.pdf
+2025-04-16 09:22:53,639 - INFO - Added DOI to library: 10.1093/scan/nst004
+2025-04-16 09:22:54,588 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_20445911.2014.982127.pdf
+2025-04-16 09:22:54,589 - INFO - Added DOI to library: 10.1080/20445911.2014.982127
+2025-04-16 09:22:56,610 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s11065-020-09472-2.pdf
+2025-04-16 09:22:56,610 - INFO - Added DOI to library: 10.1007/s11065-020-09472-2
+2025-04-16 09:22:56,697 - WARNING - No PDF link found for DOI: 10.1146/annurev-vision-100419-104831
+2025-04-16 09:22:56,698 - INFO - DOI already logged as failed: 10.1146/annurev-vision-100419-104831
+2025-04-16 09:22:57,773 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3758_s13415-013-0219-x.pdf
+2025-04-16 09:22:57,774 - INFO - Added DOI to library: 10.3758/s13415-013-0219-x
+2025-04-16 09:22:58,079 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_B978-0-12-815298-0.00016-2.pdf
+2025-04-16 09:22:58,080 - INFO - Added DOI to library: 10.1016/B978-0-12-815298-0.00016-2
+2025-04-16 09:22:59,285 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_a0020031.pdf
+2025-04-16 09:22:59,285 - INFO - Added DOI to library: 10.1037/a0020031
+2025-04-16 09:23:01,736 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.jecp.2017.11.004.pdf
+2025-04-16 09:23:01,737 - INFO - Added DOI to library: 10.1016/j.jecp.2017.11.004
+2025-04-16 09:23:01,769 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2017.01040.pdf
+2025-04-16 09:23:01,769 - INFO - Added DOI to library: 10.3389/fpsyg.2017.01040
+2025-04-16 09:23:02,630 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1111_desc.12538.pdf
+2025-04-16 09:23:02,630 - INFO - Added DOI to library: 10.1111/desc.12538
+2025-04-16 09:23:02,894 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.psychsport.2021.101925.pdf
+2025-04-16 09:23:02,894 - INFO - Added DOI to library: 10.1016/j.psychsport.2021.101925
+2025-04-16 09:23:03,902 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_B978-0-12-803676-1.00016-7.pdf
+2025-04-16 09:23:03,903 - INFO - Added DOI to library: 10.1016/B978-0-12-803676-1.00016-7
+2025-04-16 09:23:07,050 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1038_s41398-019-0634-z.pdf
+2025-04-16 09:23:07,051 - INFO - Added DOI to library: 10.1038/s41398-019-0634-z
+2025-04-16 09:23:07,161 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1038_s41593-017-0020-1.pdf
+2025-04-16 09:23:07,161 - INFO - Added DOI to library: 10.1038/s41593-017-0020-1
+2025-04-16 09:23:07,340 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1177_0956797614548725.pdf
+2025-04-16 09:23:07,341 - INFO - Added DOI to library: 10.1177/0956797614548725
+2025-04-16 09:23:07,784 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1523_JNEUROSCI.4572-15.2016.pdf
+2025-04-16 09:23:07,784 - INFO - Added DOI to library: 10.1523/JNEUROSCI.4572-15.2016
+2025-04-16 09:23:09,351 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_B978-0-12-815298-0.00018-6.pdf
+2025-04-16 09:23:09,353 - INFO - Added DOI to library: 10.1016/B978-0-12-815298-0.00018-6
+2025-04-16 09:23:10,776 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s00426-013-0537-1.pdf
+2025-04-16 09:23:10,778 - INFO - Added DOI to library: 10.1007/s00426-013-0537-1
+2025-04-16 09:23:12,394 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neubiorev.2019.01.021.pdf
+2025-04-16 09:23:12,395 - INFO - Added DOI to library: 10.1016/j.neubiorev.2019.01.021
+2025-04-16 09:23:12,984 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fpsyg.2020.00657.pdf
+2025-04-16 09:23:12,985 - INFO - Added DOI to library: 10.3389/fpsyg.2020.00657
+2025-04-16 09:23:13,628 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuroimage.2005.02.004.pdf
+2025-04-16 09:23:13,629 - INFO - Added DOI to library: 10.1016/j.neuroimage.2005.02.004
+2025-04-16 09:23:13,882 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.3389_fnins.2017.00040.pdf
+2025-04-16 09:23:13,883 - INFO - Added DOI to library: 10.3389/fnins.2017.00040
+2025-04-16 09:23:15,048 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1017_S135561770396005X.pdf
+2025-04-16 09:23:15,049 - INFO - Added DOI to library: 10.1017/S135561770396005X
+2025-04-16 09:23:16,573 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_a0021324.pdf
+2025-04-16 09:23:16,574 - INFO - Added DOI to library: 10.1037/a0021324
+2025-04-16 09:23:18,491 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1177_1754073919892069.pdf
+2025-04-16 09:23:18,492 - INFO - Added DOI to library: 10.1177/1754073919892069
+2025-04-16 09:23:18,876 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neuropsychologia.2015.01.022.pdf
+2025-04-16 09:23:18,876 - INFO - Added DOI to library: 10.1016/j.neuropsychologia.2015.01.022
+2025-04-16 09:23:19,076 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1093_cercor_bhl057.pdf
+2025-04-16 09:23:19,077 - INFO - Added DOI to library: 10.1093/cercor/bhl057
+2025-04-16 09:23:19,194 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1093_schbul_sbn123.pdf
+2025-04-16 09:23:19,194 - INFO - Added DOI to library: 10.1093/schbul/sbn123
+2025-04-16 09:23:21,349 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.intell.2013.01.002.pdf
+2025-04-16 09:23:21,350 - INFO - Added DOI to library: 10.1016/j.intell.2013.01.002
+2025-04-16 09:23:22,697 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1037_a0014104.pdf
+2025-04-16 09:23:22,698 - INFO - Added DOI to library: 10.1037/a0014104
+2025-04-16 09:23:23,733 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1007_s00787-020-01688-0.pdf
+2025-04-16 09:23:23,734 - INFO - Added DOI to library: 10.1007/s00787-020-01688-0
+2025-04-16 09:23:23,994 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.actpsy.2020.103212.pdf
+2025-04-16 09:23:23,994 - INFO - Added DOI to library: 10.1016/j.actpsy.2020.103212
+2025-04-16 09:23:24,517 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1055_s-2004-828484.pdf
+2025-04-16 09:23:24,517 - INFO - Added DOI to library: 10.1055/s-2004-828484
+2025-04-16 09:23:26,304 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1080_09658211.2015.1117640.pdf
+2025-04-16 09:23:26,304 - INFO - Added DOI to library: 10.1080/09658211.2015.1117640
+2025-04-16 09:23:27,553 - ERROR - Error fetching page for DOI 10.1097/JCP.0000000000000076: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1097/JCP.0000000000000076
+2025-04-16 09:23:27,553 - INFO - DOI already logged as failed: 10.1097/JCP.0000000000000076
+2025-04-16 09:23:27,597 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.ajp.2018.05.006.pdf
+2025-04-16 09:23:27,598 - INFO - Added DOI to library: 10.1016/j.ajp.2018.05.006
+2025-04-16 09:23:27,846 - ERROR - Error fetching page for DOI 10.1016/j.intell.2012.02.010: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.intell.2012.02.010
+2025-04-16 09:23:27,847 - INFO - DOI already logged as failed: 10.1016/j.intell.2012.02.010
+2025-04-16 09:23:27,863 - INFO - Downloaded: /home/matias/Documents/scihub-downloader/data/downloads/10.1016_j.neunet.2007.04.015.pdf
+2025-04-16 09:23:27,863 - INFO - Added DOI to library: 10.1016/j.neunet.2007.04.015
+2025-04-16 09:23:30,600 - ERROR - Error fetching page for DOI 10.1093/brain/awf049: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1093/brain/awf049
+2025-04-16 09:23:30,601 - INFO - DOI already logged as failed: 10.1093/brain/awf049
+2025-04-16 09:23:31,011 - ERROR - Error fetching page for DOI 10.1037/neu0000754: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/neu0000754
+2025-04-16 09:23:31,011 - INFO - DOI already logged as failed: 10.1037/neu0000754
+2025-04-16 09:23:31,217 - ERROR - Error fetching page for DOI 10.1146/annurev.clinpsy.1.102803.143959: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1146/annurev.clinpsy.1.102803.143959
+2025-04-16 09:23:31,218 - INFO - DOI already logged as failed: 10.1146/annurev.clinpsy.1.102803.143959
+2025-04-16 09:23:32,137 - ERROR - Error fetching page for DOI 10.1080/13607863.2018.1548566: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/13607863.2018.1548566
+2025-04-16 09:23:32,138 - INFO - DOI already logged as failed: 10.1080/13607863.2018.1548566
+2025-04-16 09:23:33,059 - ERROR - Error fetching page for DOI 10.1523/JNEUROSCI.2767-06.2006: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1523/JNEUROSCI.2767-06.2006
+2025-04-16 09:23:33,060 - INFO - DOI already logged as failed: 10.1523/JNEUROSCI.2767-06.2006
+2025-04-16 09:23:33,268 - ERROR - Error fetching page for DOI 10.1016/j.cognition.2009.06.014: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.cognition.2009.06.014
+2025-04-16 09:23:33,269 - INFO - DOI already logged as failed: 10.1016/j.cognition.2009.06.014
+2025-04-16 09:23:35,002 - ERROR - Error fetching page for DOI 10.1016/j.jecp.2015.03.013: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.jecp.2015.03.013
+2025-04-16 09:23:35,003 - INFO - DOI already logged as failed: 10.1016/j.jecp.2015.03.013
+2025-04-16 09:23:35,109 - ERROR - Error fetching page for DOI 10.1007/s10339-013-0584-y: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s10339-013-0584-y
+2025-04-16 09:23:35,109 - INFO - DOI already logged as failed: 10.1007/s10339-013-0584-y
+2025-04-16 09:23:35,722 - ERROR - Error fetching page for DOI 10.1016/j.ntt.2020.106888: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.ntt.2020.106888
+2025-04-16 09:23:35,723 - INFO - DOI already logged as failed: 10.1016/j.ntt.2020.106888
+2025-04-16 09:23:36,990 - ERROR - Error fetching page for DOI 10.1515/revneuro-2016-0073: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1515/revneuro-2016-0073
+2025-04-16 09:23:36,991 - INFO - DOI already logged as failed: 10.1515/revneuro-2016-0073
+2025-04-16 09:23:37,463 - ERROR - Error fetching page for DOI 10.3389/fpsyt.2017.00219: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fpsyt.2017.00219
+2025-04-16 09:23:37,464 - INFO - DOI already logged as failed: 10.3389/fpsyt.2017.00219
+2025-04-16 09:23:38,590 - ERROR - Error fetching page for DOI 10.1007/s00213-006-0404-5: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s00213-006-0404-5
+2025-04-16 09:23:38,591 - INFO - DOI already logged as failed: 10.1007/s00213-006-0404-5
+2025-04-16 09:23:39,047 - ERROR - Error fetching page for DOI 10.1016/j.biopsych.2020.06.022: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.biopsych.2020.06.022
+2025-04-16 09:23:39,047 - INFO - DOI already logged as failed: 10.1016/j.biopsych.2020.06.022
+2025-04-16 09:23:39,124 - ERROR - Error fetching page for DOI 10.1016/j.neuroimage.2019.02.071: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuroimage.2019.02.071
+2025-04-16 09:23:39,125 - INFO - DOI already logged as failed: 10.1016/j.neuroimage.2019.02.071
+2025-04-16 09:23:39,830 - ERROR - Error fetching page for DOI 10.1016/B978-0-12-373644-4.00005-0: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/B978-0-12-373644-4.00005-0
+2025-04-16 09:23:39,831 - INFO - DOI already logged as failed: 10.1016/B978-0-12-373644-4.00005-0
+2025-04-16 09:23:40,433 - ERROR - Error fetching page for DOI 10.1016/j.jecp.2007.08.003: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.jecp.2007.08.003
+2025-04-16 09:23:40,434 - INFO - DOI already logged as failed: 10.1016/j.jecp.2007.08.003
+2025-04-16 09:23:42,069 - ERROR - Error fetching page for DOI 10.1152/jn.00041.2021: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1152/jn.00041.2021
+2025-04-16 09:23:42,069 - INFO - DOI already logged as failed: 10.1152/jn.00041.2021
+2025-04-16 09:23:42,378 - ERROR - Error fetching page for DOI 10.3389/fnbeh.2019.00024: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fnbeh.2019.00024
+2025-04-16 09:23:42,378 - INFO - DOI already logged as failed: 10.3389/fnbeh.2019.00024
+2025-04-16 09:23:42,980 - ERROR - Error fetching page for DOI 10.1007/s00213-011-2286-4: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s00213-011-2286-4
+2025-04-16 09:23:42,981 - INFO - DOI already logged as failed: 10.1007/s00213-011-2286-4
+2025-04-16 09:23:43,097 - ERROR - Error fetching page for DOI 10.1016/S0920-9964(01)00152-9: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/S0920-9964(01)00152-9
+2025-04-16 09:23:43,098 - INFO - DOI already logged as failed: 10.1016/S0920-9964(01)00152-9
+2025-04-16 09:23:43,299 - ERROR - Error fetching page for DOI 10.5334/pb-45-2-101: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.5334/pb-45-2-101
+2025-04-16 09:23:43,300 - INFO - DOI already logged as failed: 10.5334/pb-45-2-101
+2025-04-16 09:23:46,065 - ERROR - Error fetching page for DOI 10.3389/fnbeh.2019.00247: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fnbeh.2019.00247
+2025-04-16 09:23:46,065 - INFO - DOI already logged as failed: 10.3389/fnbeh.2019.00247
+2025-04-16 09:23:46,598 - ERROR - Error fetching page for DOI 10.1016/B978-0-12-803676-1.00014-3: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/B978-0-12-803676-1.00014-3
+2025-04-16 09:23:46,599 - INFO - DOI already logged as failed: 10.1016/B978-0-12-803676-1.00014-3
+2025-04-16 09:23:46,884 - ERROR - Error fetching page for DOI 10.1111/ejn.15107: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/ejn.15107
+2025-04-16 09:23:46,885 - INFO - DOI already logged as failed: 10.1111/ejn.15107
+2025-04-16 09:23:47,805 - ERROR - Error fetching page for DOI 10.1177/0269881113480988: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1177/0269881113480988
+2025-04-16 09:23:47,807 - ERROR - Error fetching page for DOI 10.1007/s40519-016-0331-3: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s40519-016-0331-3
+2025-04-16 09:23:47,808 - INFO - DOI already logged as failed: 10.1177/0269881113480988
+2025-04-16 09:23:47,808 - INFO - DOI already logged as failed: 10.1007/s40519-016-0331-3
+2025-04-16 09:23:49,855 - ERROR - Error fetching page for DOI 10.3390/brainsci9010015: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3390/brainsci9010015
+2025-04-16 09:23:49,856 - INFO - DOI already logged as failed: 10.3390/brainsci9010015
+2025-04-16 09:23:50,672 - ERROR - Error fetching page for DOI 10.1016/j.pneurobio.2021.102180: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.pneurobio.2021.102180
+2025-04-16 09:23:50,674 - ERROR - Error fetching page for DOI 10.1037/cns0000180: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/cns0000180
+2025-04-16 09:23:50,675 - INFO - DOI already logged as failed: 10.1016/j.pneurobio.2021.102180
+2025-04-16 09:23:50,676 - INFO - DOI already logged as failed: 10.1037/cns0000180
+2025-04-16 09:23:51,006 - ERROR - Error fetching page for DOI 10.3389/fnmol.2018.00475: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3389/fnmol.2018.00475
+2025-04-16 09:23:51,007 - INFO - DOI already logged as failed: 10.3389/fnmol.2018.00475
+2025-04-16 09:23:51,389 - ERROR - Error fetching page for DOI 10.1080/00221325.2014.1002749: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/00221325.2014.1002749
+2025-04-16 09:23:51,390 - INFO - DOI already logged as failed: 10.1080/00221325.2014.1002749
+2025-04-16 09:23:53,642 - ERROR - Error fetching page for DOI 10.1037/bul0000180: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/bul0000180
+2025-04-16 09:23:53,642 - INFO - DOI already logged as failed: 10.1037/bul0000180
+2025-04-16 09:23:53,745 - ERROR - Error fetching page for DOI 10.1111/pcn.12954: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/pcn.12954
+2025-04-16 09:23:53,745 - INFO - DOI already logged as failed: 10.1111/pcn.12954
+2025-04-16 09:23:54,564 - ERROR - Error fetching page for DOI 10.1080/13607863.2020.1749832: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/13607863.2020.1749832
+2025-04-16 09:23:54,565 - INFO - DOI already logged as failed: 10.1080/13607863.2020.1749832
+2025-04-16 09:23:55,280 - ERROR - Error fetching page for DOI 10.1016/j.nlm.2019.02.006: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.nlm.2019.02.006
+2025-04-16 09:23:55,280 - INFO - DOI already logged as failed: 10.1016/j.nlm.2019.02.006
+2025-04-16 09:23:56,188 - ERROR - Error fetching page for DOI 10.1080/13803395.2016.1201050: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/13803395.2016.1201050
+2025-04-16 09:23:56,189 - INFO - DOI already logged as failed: 10.1080/13803395.2016.1201050
+2025-04-16 09:23:57,022 - ERROR - Error fetching page for DOI 10.3390/su13116210: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3390/su13116210
+2025-04-16 09:23:57,023 - INFO - DOI already logged as failed: 10.3390/su13116210
+2025-04-16 09:23:58,135 - ERROR - Error fetching page for DOI 10.1017/S1355617709090808: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/S1355617709090808
+2025-04-16 09:23:58,136 - INFO - DOI already logged as failed: 10.1017/S1355617709090808
+2025-04-16 09:23:58,557 - ERROR - Error fetching page for DOI 10.1002/acp.3837: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1002/acp.3837
+2025-04-16 09:23:58,557 - INFO - DOI already logged as failed: 10.1002/acp.3837
+2025-04-16 09:23:59,173 - ERROR - Error fetching page for DOI 10.1002/eat.22399: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1002/eat.22399
+2025-04-16 09:23:59,173 - INFO - DOI already logged as failed: 10.1002/eat.22399
+2025-04-16 09:24:00,502 - ERROR - Error fetching page for DOI 10.1037/a0031252: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1037/a0031252
+2025-04-16 09:24:00,503 - INFO - DOI already logged as failed: 10.1037/a0031252
+2025-04-16 09:24:01,324 - ERROR - Error fetching page for DOI 10.1016/j.neurobiolaging.2013.03.019: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neurobiolaging.2013.03.019
+2025-04-16 09:24:01,325 - INFO - DOI already logged as failed: 10.1016/j.neurobiolaging.2013.03.019
+2025-04-16 09:24:01,733 - ERROR - Error fetching page for DOI 10.1016/j.neuropsychologia.2010.11.032: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuropsychologia.2010.11.032
+2025-04-16 09:24:01,733 - INFO - DOI already logged as failed: 10.1016/j.neuropsychologia.2010.11.032
+2025-04-16 09:24:01,936 - ERROR - Error fetching page for DOI 10.1017/CBO9780511546396.006: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/CBO9780511546396.006
+2025-04-16 09:24:01,937 - INFO - DOI already logged as failed: 10.1017/CBO9780511546396.006
+2025-04-16 09:24:02,061 - ERROR - Error fetching page for DOI 10.1016/B978-0-12-803676-1.00005-2: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/B978-0-12-803676-1.00005-2
+2025-04-16 09:24:02,062 - INFO - DOI already logged as failed: 10.1016/B978-0-12-803676-1.00005-2
+2025-04-16 09:24:04,201 - ERROR - Error fetching page for DOI 10.1016/j.neuron.2015.12.029: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.neuron.2015.12.029
+2025-04-16 09:24:04,201 - INFO - DOI already logged as failed: 10.1016/j.neuron.2015.12.029
+2025-04-16 09:24:04,598 - ERROR - Error fetching page for DOI 10.3928/00485713-20100924-01: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3928/00485713-20100924-01
+2025-04-16 09:24:04,599 - INFO - DOI already logged as failed: 10.3928/00485713-20100924-01
+2025-04-16 09:24:05,656 - ERROR - Error fetching page for DOI 10.1007/s12559-017-9511-3: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s12559-017-9511-3
+2025-04-16 09:24:05,657 - INFO - DOI already logged as failed: 10.1007/s12559-017-9511-3
+2025-04-16 09:24:06,032 - ERROR - Error fetching page for DOI 10.1007/s41465-020-00203-2: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s41465-020-00203-2
+2025-04-16 09:24:06,033 - ERROR - Error fetching page for DOI 10.1111/ejn.14349: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/ejn.14349
+2025-04-16 09:24:06,034 - INFO - DOI already logged as failed: 10.1111/ejn.14349
+2025-04-16 09:24:06,034 - INFO - DOI already logged as failed: 10.1007/s41465-020-00203-2
+2025-04-16 09:24:08,285 - ERROR - Error fetching page for DOI 10.1523/JNEUROSCI.4623-10.2010: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1523/JNEUROSCI.4623-10.2010
+2025-04-16 09:24:08,286 - INFO - DOI already logged as failed: 10.1523/JNEUROSCI.4623-10.2010
+2025-04-16 09:24:08,697 - ERROR - Error fetching page for DOI 10.1111/j.1467-7687.2011.01093.x: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1111/j.1467-7687.2011.01093.x
+2025-04-16 09:24:08,697 - INFO - DOI already logged as failed: 10.1111/j.1467-7687.2011.01093.x
+2025-04-16 09:24:08,900 - ERROR - Error fetching page for DOI 10.1007/s00221-013-3808-6: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1007/s00221-013-3808-6
+2025-04-16 09:24:08,901 - INFO - DOI already logged as failed: 10.1007/s00221-013-3808-6
+2025-04-16 09:24:10,743 - ERROR - Error fetching page for DOI 10.1017/CBO9780511551963.008: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/CBO9780511551963.008
+2025-04-16 09:24:10,744 - INFO - DOI already logged as failed: 10.1017/CBO9780511551963.008
+2025-04-16 09:24:11,154 - ERROR - Error fetching page for DOI 10.1523/JNEUROSCI.1356-13.2013: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1523/JNEUROSCI.1356-13.2013
+2025-04-16 09:24:11,154 - INFO - DOI already logged as failed: 10.1523/JNEUROSCI.1356-13.2013
+2025-04-16 09:24:12,688 - ERROR - Error fetching page for DOI 10.1038/npp.2015.13: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1038/npp.2015.13
+2025-04-16 09:24:12,689 - INFO - DOI already logged as failed: 10.1038/npp.2015.13
+2025-04-16 09:24:12,697 - ERROR - Error fetching page for DOI 10.1017/S0033291713002730: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1017/S0033291713002730
+2025-04-16 09:24:12,698 - INFO - DOI already logged as failed: 10.1017/S0033291713002730
+2025-04-16 09:24:13,303 - ERROR - Error fetching page for DOI 10.1097/WNN.0b013e31815e6244: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1097/WNN.0b013e31815e6244
+2025-04-16 09:24:13,303 - INFO - DOI already logged as failed: 10.1097/WNN.0b013e31815e6244
+2025-04-16 09:24:14,373 - ERROR - Error fetching page for DOI 10.1016/j.appet.2017.05.018: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.appet.2017.05.018
+2025-04-16 09:24:14,374 - INFO - DOI already logged as failed: 10.1016/j.appet.2017.05.018
+2025-04-16 09:24:15,146 - ERROR - Error fetching page for DOI 10.1002/hbm.20842: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1002/hbm.20842
+2025-04-16 09:24:15,146 - INFO - DOI already logged as failed: 10.1002/hbm.20842
+2025-04-16 09:24:15,757 - ERROR - Error fetching page for DOI 10.3390/bs9050058: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.3390/bs9050058
+2025-04-16 09:24:15,758 - INFO - DOI already logged as failed: 10.3390/bs9050058
+2025-04-16 09:24:15,965 - ERROR - Error fetching page for DOI 10.1016/j.cognition.2013.02.012: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.cognition.2013.02.012
+2025-04-16 09:24:15,965 - INFO - DOI already logged as failed: 10.1016/j.cognition.2013.02.012
+2025-04-16 09:24:16,785 - ERROR - Error fetching page for DOI 10.1080/13854046.2012.740077: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/13854046.2012.740077
+2025-04-16 09:24:16,786 - INFO - DOI already logged as failed: 10.1080/13854046.2012.740077
+2025-04-16 09:24:17,354 - ERROR - Error fetching page for DOI 10.1016/j.ijpsycho.2015.11.010: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.ijpsycho.2015.11.010
+2025-04-16 09:24:17,354 - INFO - DOI already logged as failed: 10.1016/j.ijpsycho.2015.11.010
+2025-04-16 09:24:18,341 - ERROR - Error fetching page for DOI 10.1080/09084280802644086: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1080/09084280802644086
+2025-04-16 09:24:18,342 - INFO - DOI already logged as failed: 10.1080/09084280802644086
+2025-04-16 09:24:18,862 - ERROR - Error fetching page for DOI 10.1016/j.intell.2014.07.010: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.intell.2014.07.010
+2025-04-16 09:24:18,862 - INFO - DOI already logged as failed: 10.1016/j.intell.2014.07.010
+2025-04-16 09:24:20,062 - ERROR - Error fetching page for DOI 10.1016/j.jecp.2019.104666: 500 Server Error: Internal Server Error for url: https://sci-hub.se/10.1016/j.jecp.2019.104666
+2025-04-16 09:24:20,063 - INFO - DOI already logged as failed: 10.1016/j.jecp.2019.104666
+2025-04-16 12:07:49,707 [INFO] 📄 Starting DOI extraction from: /home/matias/Documents/scihub-downloader/data/meta-data-sample.bib
+2025-04-16 12:07:49,967 [INFO] ✓ Summary written to /home/matias/Documents/scihub-downloader/data/extraction_summary.json
+2025-04-16 12:07:49,967 [INFO] Extracted 466 DOIs to /home/matias/Documents/scihub-downloader/data/extracted_dois.txt
+2025-04-16 12:07:49,972 [INFO] ✅ Extraction complete. DOIs extracted: 466
+2025-04-16 12:07:58,438 [INFO] 📥 Starting PDF download using DOI file: /home/matias/Documents/scihub-downloader/data/extracted_dois.txt
+2025-04-16 12:07:58,447 [INFO] 🔄 PROCESSING: 10.1080/13803390802484797 (1/466)
+2025-04-16 12:07:58,447 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/13803390802484797
+2025-04-16 12:07:59,076 [WARNING] No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.se
+2025-04-16 12:07:59,077 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1080/13803390802484797
+2025-04-16 12:08:00,100 [WARNING] No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.ru
+2025-04-16 12:08:00,100 [INFO] TRYING MIRROR: https://sci-hub.st/10.1080/13803390802484797
+2025-04-16 12:08:01,226 [WARNING] No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.st
+2025-04-16 12:08:01,227 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1080/13803390802484797
+2025-04-16 12:08:01,878 [WARNING] No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.tf
+2025-04-16 12:08:01,878 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1080/13803390802484797
+2025-04-16 12:08:02,946 [WARNING] Failed to access https://sci-hub.wf/10.1080/13803390802484797: 500
+2025-04-16 12:08:02,946 [ERROR] FINAL FAILURE: 10.1080/13803390802484797
+2025-04-16 12:08:02,947 [INFO] DOWNLOADED: 1/466
+2025-04-16 12:08:04,948 [INFO] 🔄 PROCESSING: 10.1017/S0033291719002393 (2/466)
+2025-04-16 12:08:04,948 [INFO] TRYING MIRROR: https://sci-hub.se/10.1017/S0033291719002393
+2025-04-16 12:08:05,606 [WARNING] No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.se
+2025-04-16 12:08:05,606 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1017/S0033291719002393
+2025-04-16 12:08:06,347 [WARNING] No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.ru
+2025-04-16 12:08:06,347 [INFO] TRYING MIRROR: https://sci-hub.st/10.1017/S0033291719002393
+2025-04-16 12:08:07,250 [WARNING] No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.st
+2025-04-16 12:08:07,250 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1017/S0033291719002393
+2025-04-16 12:08:07,533 [WARNING] No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.tf
+2025-04-16 12:08:07,533 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1017/S0033291719002393
+2025-04-16 12:08:08,061 [WARNING] Failed to access https://sci-hub.wf/10.1017/S0033291719002393: 500
+2025-04-16 12:08:08,061 [ERROR] FINAL FAILURE: 10.1017/S0033291719002393
+2025-04-16 12:08:08,062 [INFO] DOWNLOADED: 2/466
+2025-04-16 12:08:10,062 [INFO] 🔄 PROCESSING: 10.1007/s00221-011-2605-3 (3/466)
+2025-04-16 12:08:10,062 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s00221-011-2605-3
+2025-04-16 12:08:10,519 [WARNING] No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.se
+2025-04-16 12:08:10,519 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1007/s00221-011-2605-3
+2025-04-16 12:08:11,056 [WARNING] No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.ru
+2025-04-16 12:08:11,056 [INFO] TRYING MIRROR: https://sci-hub.st/10.1007/s00221-011-2605-3
+2025-04-16 12:08:11,525 [WARNING] No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.st
+2025-04-16 12:08:11,525 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1007/s00221-011-2605-3
+2025-04-16 12:08:11,854 [WARNING] No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.tf
+2025-04-16 12:08:11,854 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1007/s00221-011-2605-3
+2025-04-16 12:08:12,690 [WARNING] Failed to access https://sci-hub.wf/10.1007/s00221-011-2605-3: 500
+2025-04-16 12:08:12,690 [ERROR] FINAL FAILURE: 10.1007/s00221-011-2605-3
+2025-04-16 12:08:12,692 [INFO] DOWNLOADED: 3/466
+2025-04-16 12:08:14,692 [INFO] 🔄 PROCESSING: 10.1007/s00213-017-4538-4 (4/466)
+2025-04-16 12:08:14,693 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s00213-017-4538-4
+2025-04-16 12:08:15,151 [WARNING] No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.se
+2025-04-16 12:08:15,151 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1007/s00213-017-4538-4
+2025-04-16 12:08:15,969 [WARNING] No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.ru
+2025-04-16 12:08:15,969 [INFO] TRYING MIRROR: https://sci-hub.st/10.1007/s00213-017-4538-4
+2025-04-16 12:08:16,793 [WARNING] No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.st
+2025-04-16 12:08:16,793 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1007/s00213-017-4538-4
+2025-04-16 12:08:17,518 [WARNING] No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.tf
+2025-04-16 12:08:17,518 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1007/s00213-017-4538-4
+2025-04-16 12:08:18,423 [WARNING] Failed to access https://sci-hub.wf/10.1007/s00213-017-4538-4: 500
+2025-04-16 12:08:18,423 [ERROR] FINAL FAILURE: 10.1007/s00213-017-4538-4
+2025-04-16 12:08:18,431 [INFO] DOWNLOADED: 4/466
+2025-04-16 12:08:20,432 [INFO] 🔄 PROCESSING: 10.3390/brainsci11020267 (5/466)
+2025-04-16 12:08:20,432 [INFO] TRYING MIRROR: https://sci-hub.se/10.3390/brainsci11020267
+2025-04-16 12:08:20,988 [WARNING] No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.se
+2025-04-16 12:08:20,988 [INFO] TRYING MIRROR: https://sci-hub.ru/10.3390/brainsci11020267
+2025-04-16 12:08:21,857 [WARNING] No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.ru
+2025-04-16 12:08:21,857 [INFO] TRYING MIRROR: https://sci-hub.st/10.3390/brainsci11020267
+2025-04-16 12:08:22,728 [WARNING] No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.st
+2025-04-16 12:08:22,728 [INFO] TRYING MIRROR: https://sci-hub.tf/10.3390/brainsci11020267
+2025-04-16 12:08:23,503 [WARNING] No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.tf
+2025-04-16 12:08:23,503 [INFO] TRYING MIRROR: https://sci-hub.wf/10.3390/brainsci11020267
+2025-04-16 12:08:24,157 [WARNING] Failed to access https://sci-hub.wf/10.3390/brainsci11020267: 500
+2025-04-16 12:08:24,157 [ERROR] FINAL FAILURE: 10.3390/brainsci11020267
+2025-04-16 12:08:24,157 [INFO] DOWNLOADED: 5/466
+2025-04-16 12:08:26,158 [INFO] 🔄 PROCESSING: 10.1007/s12671-019-01279-4 (6/466)
+2025-04-16 12:08:26,158 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s12671-019-01279-4
+2025-04-16 12:08:26,882 [WARNING] No PDF iframe found for 10.1007/s12671-019-01279-4 on https://sci-hub.se
+2025-04-16 12:08:26,882 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1007/s12671-019-01279-4
+2025-04-16 12:08:27,542 [WARNING] No PDF iframe found for 10.1007/s12671-019-01279-4 on https://sci-hub.ru
+2025-04-16 12:08:27,542 [INFO] TRYING MIRROR: https://sci-hub.st/10.1007/s12671-019-01279-4
+2025-04-16 12:08:28,259 [WARNING] No PDF iframe found for 10.1007/s12671-019-01279-4 on https://sci-hub.st
+2025-04-16 12:08:28,259 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1007/s12671-019-01279-4
+2025-04-16 12:08:28,723 [WARNING] No PDF iframe found for 10.1007/s12671-019-01279-4 on https://sci-hub.tf
+2025-04-16 12:08:28,723 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1007/s12671-019-01279-4
+2025-04-16 12:08:29,300 [WARNING] Failed to access https://sci-hub.wf/10.1007/s12671-019-01279-4: 500
+2025-04-16 12:08:29,300 [ERROR] FINAL FAILURE: 10.1007/s12671-019-01279-4
+2025-04-16 12:08:29,301 [INFO] DOWNLOADED: 6/466
+2025-04-16 12:08:31,301 [INFO] 🔄 PROCESSING: 10.1037/xlm0000516 (7/466)
+2025-04-16 12:08:31,302 [INFO] TRYING MIRROR: https://sci-hub.se/10.1037/xlm0000516
+2025-04-16 12:08:31,841 [WARNING] No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.se
+2025-04-16 12:08:31,842 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1037/xlm0000516
+2025-04-16 12:08:32,559 [WARNING] No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.ru
+2025-04-16 12:08:32,559 [INFO] TRYING MIRROR: https://sci-hub.st/10.1037/xlm0000516
+2025-04-16 12:08:33,379 [WARNING] No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.st
+2025-04-16 12:08:33,379 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1037/xlm0000516
+2025-04-16 12:08:34,201 [WARNING] No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.tf
+2025-04-16 12:08:34,202 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1037/xlm0000516
+2025-04-16 12:08:34,908 [WARNING] Failed to access https://sci-hub.wf/10.1037/xlm0000516: 500
+2025-04-16 12:08:34,908 [ERROR] FINAL FAILURE: 10.1037/xlm0000516
+2025-04-16 12:08:34,909 [INFO] DOWNLOADED: 7/466
+2025-04-16 12:08:36,910 [INFO] 🔄 PROCESSING: 10.1080/13218719.2013.873974 (8/466)
+2025-04-16 12:08:36,910 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/13218719.2013.873974
+2025-04-16 12:08:37,577 [WARNING] No PDF iframe found for 10.1080/13218719.2013.873974 on https://sci-hub.se
+2025-04-16 12:08:37,577 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1080/13218719.2013.873974
+2025-04-16 12:08:38,088 [WARNING] No PDF iframe found for 10.1080/13218719.2013.873974 on https://sci-hub.ru
+2025-04-16 12:08:38,088 [INFO] TRYING MIRROR: https://sci-hub.st/10.1080/13218719.2013.873974
+2025-04-16 12:08:38,803 [WARNING] No PDF iframe found for 10.1080/13218719.2013.873974 on https://sci-hub.st
+2025-04-16 12:08:38,804 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1080/13218719.2013.873974
+2025-04-16 12:08:39,101 [WARNING] No PDF iframe found for 10.1080/13218719.2013.873974 on https://sci-hub.tf
+2025-04-16 12:08:39,102 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1080/13218719.2013.873974
+2025-04-16 12:08:39,596 [WARNING] Failed to access https://sci-hub.wf/10.1080/13218719.2013.873974: 500
+2025-04-16 12:08:39,596 [ERROR] FINAL FAILURE: 10.1080/13218719.2013.873974
+2025-04-16 12:08:39,598 [INFO] DOWNLOADED: 8/466
+2025-04-16 12:08:41,598 [INFO] 🔄 PROCESSING: 10.1016/j.concog.2011.12.007 (9/466)
+2025-04-16 12:08:41,599 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.concog.2011.12.007
+2025-04-16 12:08:42,190 [WARNING] No PDF iframe found for 10.1016/j.concog.2011.12.007 on https://sci-hub.se
+2025-04-16 12:08:42,190 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1016/j.concog.2011.12.007
+2025-04-16 12:08:43,004 [WARNING] No PDF iframe found for 10.1016/j.concog.2011.12.007 on https://sci-hub.ru
+2025-04-16 12:08:43,004 [INFO] TRYING MIRROR: https://sci-hub.st/10.1016/j.concog.2011.12.007
+2025-04-16 12:08:43,821 [WARNING] No PDF iframe found for 10.1016/j.concog.2011.12.007 on https://sci-hub.st
+2025-04-16 12:08:43,822 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1016/j.concog.2011.12.007
+2025-04-16 12:08:44,650 [WARNING] No PDF iframe found for 10.1016/j.concog.2011.12.007 on https://sci-hub.tf
+2025-04-16 12:08:44,650 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1016/j.concog.2011.12.007
+2025-04-16 12:08:45,252 [WARNING] Failed to access https://sci-hub.wf/10.1016/j.concog.2011.12.007: 500
+2025-04-16 12:08:45,252 [ERROR] FINAL FAILURE: 10.1016/j.concog.2011.12.007
+2025-04-16 12:08:45,253 [INFO] DOWNLOADED: 9/466
+2025-04-16 12:08:47,253 [INFO] 🔄 PROCESSING: 10.1080/02699931.2016.1263601 (10/466)
+2025-04-16 12:08:47,254 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/02699931.2016.1263601
+2025-04-16 12:08:47,917 [WARNING] No PDF iframe found for 10.1080/02699931.2016.1263601 on https://sci-hub.se
+2025-04-16 12:08:47,917 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1080/02699931.2016.1263601
+2025-04-16 12:08:48,671 [WARNING] No PDF iframe found for 10.1080/02699931.2016.1263601 on https://sci-hub.ru
+2025-04-16 12:08:48,671 [INFO] TRYING MIRROR: https://sci-hub.st/10.1080/02699931.2016.1263601
+2025-04-16 12:08:49,369 [WARNING] No PDF iframe found for 10.1080/02699931.2016.1263601 on https://sci-hub.st
+2025-04-16 12:08:49,369 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1080/02699931.2016.1263601
+2025-04-16 12:08:49,873 [WARNING] No PDF iframe found for 10.1080/02699931.2016.1263601 on https://sci-hub.tf
+2025-04-16 12:08:49,873 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1080/02699931.2016.1263601
+2025-04-16 12:08:50,678 [WARNING] Failed to access https://sci-hub.wf/10.1080/02699931.2016.1263601: 500
+2025-04-16 12:08:50,679 [ERROR] FINAL FAILURE: 10.1080/02699931.2016.1263601
+2025-04-16 12:08:50,680 [INFO] DOWNLOADED: 10/466
+2025-04-16 12:08:52,680 [INFO] 🔄 PROCESSING: 10.1080/15622975.2017.1296973 (11/466)
+2025-04-16 12:08:52,680 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/15622975.2017.1296973
+2025-04-16 12:08:53,122 [WARNING] No PDF iframe found for 10.1080/15622975.2017.1296973 on https://sci-hub.se
+2025-04-16 12:08:53,122 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1080/15622975.2017.1296973
+2025-04-16 12:08:53,752 [WARNING] No PDF iframe found for 10.1080/15622975.2017.1296973 on https://sci-hub.ru
+2025-04-16 12:08:53,752 [INFO] TRYING MIRROR: https://sci-hub.st/10.1080/15622975.2017.1296973
+2025-04-16 12:08:54,941 [WARNING] No PDF iframe found for 10.1080/15622975.2017.1296973 on https://sci-hub.st
+2025-04-16 12:08:54,941 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1080/15622975.2017.1296973
+2025-04-16 12:08:55,219 [WARNING] No PDF iframe found for 10.1080/15622975.2017.1296973 on https://sci-hub.tf
+2025-04-16 12:08:55,220 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1080/15622975.2017.1296973
+2025-04-16 12:08:55,738 [WARNING] Failed to access https://sci-hub.wf/10.1080/15622975.2017.1296973: 500
+2025-04-16 12:08:55,738 [ERROR] FINAL FAILURE: 10.1080/15622975.2017.1296973
+2025-04-16 12:08:55,739 [INFO] DOWNLOADED: 11/466
+2025-04-16 12:08:57,740 [INFO] 🔄 PROCESSING: 10.1111/ejn.14946 (12/466)
+2025-04-16 12:08:57,740 [INFO] TRYING MIRROR: https://sci-hub.se/10.1111/ejn.14946
+2025-04-16 12:08:58,179 [WARNING] No PDF iframe found for 10.1111/ejn.14946 on https://sci-hub.se
+2025-04-16 12:08:58,179 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1111/ejn.14946
+2025-04-16 12:08:58,662 [WARNING] No PDF iframe found for 10.1111/ejn.14946 on https://sci-hub.ru
+2025-04-16 12:08:58,663 [INFO] TRYING MIRROR: https://sci-hub.st/10.1111/ejn.14946
+2025-04-16 12:08:59,110 [WARNING] No PDF iframe found for 10.1111/ejn.14946 on https://sci-hub.st
+2025-04-16 12:08:59,110 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1111/ejn.14946
+2025-04-16 12:08:59,391 [WARNING] No PDF iframe found for 10.1111/ejn.14946 on https://sci-hub.tf
+2025-04-16 12:08:59,391 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1111/ejn.14946
+2025-04-16 12:08:59,875 [WARNING] Failed to access https://sci-hub.wf/10.1111/ejn.14946: 500
+2025-04-16 12:08:59,875 [ERROR] FINAL FAILURE: 10.1111/ejn.14946
+2025-04-16 12:08:59,876 [INFO] DOWNLOADED: 12/466
+2025-04-16 12:09:01,876 [INFO] 🔄 PROCESSING: 10.3389/fpsyg.2016.01197 (13/466)
+2025-04-16 12:09:01,877 [INFO] TRYING MIRROR: https://sci-hub.se/10.3389/fpsyg.2016.01197
+2025-04-16 12:09:02,324 [WARNING] No PDF iframe found for 10.3389/fpsyg.2016.01197 on https://sci-hub.se
+2025-04-16 12:09:02,324 [INFO] TRYING MIRROR: https://sci-hub.ru/10.3389/fpsyg.2016.01197
+2025-04-16 12:09:02,773 [WARNING] No PDF iframe found for 10.3389/fpsyg.2016.01197 on https://sci-hub.ru
+2025-04-16 12:09:02,773 [INFO] TRYING MIRROR: https://sci-hub.st/10.3389/fpsyg.2016.01197
+2025-04-16 12:09:03,279 [WARNING] No PDF iframe found for 10.3389/fpsyg.2016.01197 on https://sci-hub.st
+2025-04-16 12:09:03,279 [INFO] TRYING MIRROR: https://sci-hub.tf/10.3389/fpsyg.2016.01197
+2025-04-16 12:09:04,042 [WARNING] No PDF iframe found for 10.3389/fpsyg.2016.01197 on https://sci-hub.tf
+2025-04-16 12:09:04,042 [INFO] TRYING MIRROR: https://sci-hub.wf/10.3389/fpsyg.2016.01197
+2025-04-16 12:09:04,640 [WARNING] Failed to access https://sci-hub.wf/10.3389/fpsyg.2016.01197: 500
+2025-04-16 12:09:04,640 [ERROR] FINAL FAILURE: 10.3389/fpsyg.2016.01197
+2025-04-16 12:09:04,641 [INFO] DOWNLOADED: 13/466
+2025-04-16 12:09:06,641 [INFO] 🔄 PROCESSING: 10.1007/978-1-4419-1210-7\_6 (14/466)
+2025-04-16 12:09:06,642 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/978-1-4419-1210-7\_6
+2025-04-16 12:09:07,369 [WARNING] Failed to access https://sci-hub.se/10.1007/978-1-4419-1210-7\_6: 404
+2025-04-16 12:09:07,370 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1007/978-1-4419-1210-7\_6
+2025-04-16 12:09:08,755 [WARNING] Failed to access https://sci-hub.ru/10.1007/978-1-4419-1210-7\_6: 404
+2025-04-16 12:09:08,755 [INFO] TRYING MIRROR: https://sci-hub.st/10.1007/978-1-4419-1210-7\_6
+2025-04-16 12:09:09,715 [WARNING] Failed to access https://sci-hub.st/10.1007/978-1-4419-1210-7\_6: 404
+2025-04-16 12:09:09,715 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1007/978-1-4419-1210-7\_6
+2025-04-16 12:16:45,928 [INFO] 📄 Starting DOI extraction from: /home/matias/Documents/scihub-downloader/data/meta-data-sample.bib
+2025-04-16 12:16:45,976 [INFO] ✓ Summary written to /home/matias/Documents/scihub-downloader/data/extraction_summary.json
+2025-04-16 12:16:45,977 [INFO] Extracted 221 DOIs to /home/matias/Documents/scihub-downloader/data/extracted_dois.txt
+2025-04-16 12:16:45,977 [INFO] ✅ Extraction complete. DOIs extracted: 221
+2025-04-16 12:18:59,722 [INFO] 📥 Starting PDF download using DOI file: /home/matias/Documents/scihub-downloader/data/extracted_dois.txt
+2025-04-16 12:18:59,741 [INFO] 🔄 PROCESSING: 10.1080/13803390802484797 (1/221)
+2025-04-16 12:18:59,741 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/13803390802484797
+2025-04-16 12:19:00,201 [WARNING] No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.se
+2025-04-16 12:19:00,201 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1080/13803390802484797
+2025-04-16 12:19:00,885 [WARNING] No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.ru
+2025-04-16 12:19:00,886 [INFO] TRYING MIRROR: https://sci-hub.st/10.1080/13803390802484797
+2025-04-16 12:19:01,332 [WARNING] No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.st
+2025-04-16 12:19:01,332 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1080/13803390802484797
+2025-04-16 12:19:01,623 [WARNING] No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.tf
+2025-04-16 12:19:01,623 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1080/13803390802484797
+2025-04-16 12:19:02,243 [WARNING] Failed to access https://sci-hub.wf/10.1080/13803390802484797: 500
+2025-04-16 12:19:02,244 [ERROR] FINAL FAILURE: 10.1080/13803390802484797
+2025-04-16 12:19:02,245 [INFO] DOWNLOADED: 1/221
+2025-04-16 12:19:04,245 [INFO] 🔄 PROCESSING: 10.1017/S0033291719002393 (2/221)
+2025-04-16 12:19:04,246 [INFO] TRYING MIRROR: https://sci-hub.se/10.1017/S0033291719002393
+2025-04-16 12:19:04,983 [WARNING] No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.se
+2025-04-16 12:19:04,983 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1017/S0033291719002393
+2025-04-16 12:19:05,588 [WARNING] No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.ru
+2025-04-16 12:19:05,588 [INFO] TRYING MIRROR: https://sci-hub.st/10.1017/S0033291719002393
+2025-04-16 12:19:06,317 [WARNING] No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.st
+2025-04-16 12:19:06,318 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1017/S0033291719002393
+2025-04-16 12:19:06,972 [WARNING] No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.tf
+2025-04-16 12:19:06,972 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1017/S0033291719002393
+2025-04-16 12:19:07,548 [WARNING] Failed to access https://sci-hub.wf/10.1017/S0033291719002393: 500
+2025-04-16 12:19:07,548 [ERROR] FINAL FAILURE: 10.1017/S0033291719002393
+2025-04-16 12:19:07,549 [INFO] DOWNLOADED: 2/221
+2025-04-16 12:22:44,299 [INFO] 📥 Starting PDF download using DOI file: /home/matias/Documents/scihub-downloader/data/extracted_dois.txt
+2025-04-16 12:22:44,301 [INFO] 🔄 PROCESSING: 10.1080/13803390802484797 (1/221)
+2025-04-16 12:22:44,301 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/13803390802484797
+2025-04-16 12:22:44,938 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/6517a72e1f4d980bfadd446fe9e68bf2/vanderplas2009.pdf#navpanes=0&view=FitH
+2025-04-16 12:22:48,002 [INFO] ✅ SUCCESS: 10.1080/13803390802484797
+2025-04-16 12:22:48,003 [INFO] DOWNLOADED: 1/221
+2025-04-16 12:22:50,004 [INFO] 🔄 PROCESSING: 10.1017/S0033291719002393 (2/221)
+2025-04-16 12:22:50,004 [INFO] TRYING MIRROR: https://sci-hub.se/10.1017/S0033291719002393
+2025-04-16 12:22:50,568 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2019-09-12/51/10.1017@S0033291719002393.pdf#navpanes=0&view=FitH
+2025-04-16 12:22:51,482 [INFO] ✅ SUCCESS: 10.1017/S0033291719002393
+2025-04-16 12:22:51,483 [INFO] DOWNLOADED: 2/221
+2025-04-16 12:22:53,483 [INFO] 🔄 PROCESSING: 10.1007/s00221-011-2605-3 (3/221)
+2025-04-16 12:22:53,484 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s00221-011-2605-3
+2025-04-16 12:22:53,967 [INFO] 📄 PDF URL: https://moscow.sci-hub.se/729/c4042ff4bcef8e5e965f911fb9899da2/martella2011.pdf#navpanes=0&view=FitH
+2025-04-16 12:22:54,491 [INFO] ✅ SUCCESS: 10.1007/s00221-011-2605-3
+2025-04-16 12:22:54,492 [INFO] DOWNLOADED: 3/221
+2025-04-16 12:22:56,492 [INFO] 🔄 PROCESSING: 10.1007/s00213-017-4538-4 (4/221)
+2025-04-16 12:22:56,492 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s00213-017-4538-4
+2025-04-16 12:22:56,985 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/a1e623d6a1a223668dc51b603a5fdcab/lannoy2017.pdf#navpanes=0&view=FitH
+2025-04-16 12:22:58,753 [INFO] ✅ SUCCESS: 10.1007/s00213-017-4538-4
+2025-04-16 12:22:58,754 [INFO] DOWNLOADED: 4/221
+2025-04-16 12:23:00,754 [INFO] 🔄 PROCESSING: 10.3390/brainsci11020267 (5/221)
+2025-04-16 12:23:00,754 [INFO] TRYING MIRROR: https://sci-hub.se/10.3390/brainsci11020267
+2025-04-16 12:23:01,214 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2021-08-11/3a/10.3390@brainsci11020267.pdf#navpanes=0&view=FitH
+2025-04-16 12:23:03,842 [INFO] ✅ SUCCESS: 10.3390/brainsci11020267
+2025-04-16 12:23:03,843 [INFO] DOWNLOADED: 5/221
+2025-04-16 12:23:05,843 [INFO] 🔄 PROCESSING: 10.1007/s12671-019-01279-4 (6/221)
+2025-04-16 12:23:05,843 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s12671-019-01279-4
+2025-04-16 12:23:06,306 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2019-12-17/0e/10.1007@s12671-019-01279-4.pdf#navpanes=0&view=FitH
+2025-04-16 12:23:06,955 [INFO] ✅ SUCCESS: 10.1007/s12671-019-01279-4
+2025-04-16 12:23:06,956 [INFO] DOWNLOADED: 6/221
+2025-04-16 12:23:08,957 [INFO] 🔄 PROCESSING: 10.1037/xlm0000516 (7/221)
+2025-04-16 12:23:08,957 [INFO] TRYING MIRROR: https://sci-hub.se/10.1037/xlm0000516
+2025-04-16 12:23:09,410 [WARNING] ⚠️ No valid PDF URL found for 10.1037/xlm0000516 on https://sci-hub.se
+2025-04-16 12:23:09,410 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1037/xlm0000516
+2025-04-16 12:23:09,912 [WARNING] ⚠️ No valid PDF URL found for 10.1037/xlm0000516 on https://sci-hub.ru
+2025-04-16 12:23:09,912 [INFO] TRYING MIRROR: https://sci-hub.st/10.1037/xlm0000516
+2025-04-16 12:23:10,371 [WARNING] ⚠️ No valid PDF URL found for 10.1037/xlm0000516 on https://sci-hub.st
+2025-04-16 12:23:10,371 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1037/xlm0000516
+2025-04-16 12:23:10,678 [WARNING] ⚠️ No valid PDF URL found for 10.1037/xlm0000516 on https://sci-hub.tf
+2025-04-16 12:23:10,678 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1037/xlm0000516
+2025-04-16 12:23:11,202 [WARNING] ❌ Failed to access https://sci-hub.wf/10.1037/xlm0000516: 500
+2025-04-16 12:23:11,202 [ERROR] ❌ FINAL FAILURE: 10.1037/xlm0000516
+2025-04-16 12:23:11,203 [INFO] DOWNLOADED: 7/221
+2025-04-16 12:23:13,203 [INFO] 🔄 PROCESSING: 10.1080/13218719.2013.873974 (8/221)
+2025-04-16 12:23:13,204 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/13218719.2013.873974
+2025-04-16 12:23:14,013 [INFO] 📄 PDF URL: https://2024.sci-hub.se/3225/a2edb7918fad2907ed946111163612db/10.1080@13218719.2013.873974.pdf#navpanes=0&view=FitH
+2025-04-16 12:23:15,340 [INFO] ✅ SUCCESS: 10.1080/13218719.2013.873974
+2025-04-16 12:23:15,341 [INFO] DOWNLOADED: 8/221
+2025-04-16 12:23:17,342 [INFO] 🔄 PROCESSING: 10.1016/j.concog.2011.12.007 (9/221)
+2025-04-16 12:23:17,342 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.concog.2011.12.007
+2025-04-16 12:23:18,113 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/38d55728a0f9f1368c423b3023075c44/hu2012.pdf#navpanes=0&view=FitH
+2025-04-16 12:23:20,665 [INFO] ✅ SUCCESS: 10.1016/j.concog.2011.12.007
+2025-04-16 12:23:20,666 [INFO] DOWNLOADED: 9/221
+2025-04-16 12:23:22,666 [INFO] 🔄 PROCESSING: 10.1080/02699931.2016.1263601 (10/221)
+2025-04-16 12:23:22,666 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/02699931.2016.1263601
+2025-04-16 12:23:23,232 [INFO] 📄 PDF URL: https://2024.sci-hub.se/6185/8b5e3be87846cfd3d352cbdc453aceb6/moriya2016.pdf#navpanes=0&view=FitH
+2025-04-16 12:23:24,559 [INFO] ✅ SUCCESS: 10.1080/02699931.2016.1263601
+2025-04-16 12:23:24,560 [INFO] DOWNLOADED: 10/221
+2025-04-16 12:23:26,560 [INFO] 🔄 PROCESSING: 10.1080/15622975.2017.1296973 (11/221)
+2025-04-16 12:23:26,561 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/15622975.2017.1296973
+2025-04-16 12:23:27,075 [INFO] 📄 PDF URL: https://2024.sci-hub.se/6285/a155811f34cf0ba258f33da12e2d5ee1/wolff2017.pdf#navpanes=0&view=FitH
+2025-04-16 12:23:28,864 [INFO] ✅ SUCCESS: 10.1080/15622975.2017.1296973
+2025-04-16 12:23:28,865 [INFO] DOWNLOADED: 11/221
+2025-04-16 12:23:30,865 [INFO] 🔄 PROCESSING: 10.1111/ejn.14946 (12/221)
+2025-04-16 12:23:30,865 [INFO] TRYING MIRROR: https://sci-hub.se/10.1111/ejn.14946
+2025-04-16 12:23:31,467 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2020-10-05/81/gaillard2020.pdf#navpanes=0&view=FitH
+2025-04-16 12:23:32,107 [INFO] ✅ SUCCESS: 10.1111/ejn.14946
+2025-04-16 12:23:32,108 [INFO] DOWNLOADED: 12/221
+2025-04-16 12:23:34,109 [INFO] 🔄 PROCESSING: 10.3389/fpsyg.2016.01197 (13/221)
+2025-04-16 12:23:34,109 [INFO] TRYING MIRROR: https://sci-hub.se/10.3389/fpsyg.2016.01197
+2025-04-16 12:23:34,578 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/8f00eb71029105eaf2e1486a40628778/medeiros2016.pdf#navpanes=0&view=FitH
+2025-04-16 12:23:35,721 [INFO] ✅ SUCCESS: 10.3389/fpsyg.2016.01197
+2025-04-16 12:23:35,722 [INFO] DOWNLOADED: 13/221
+2025-04-16 12:23:37,723 [INFO] 🔄 PROCESSING: 10.1007/978-1-4419-1210-7\_6 (14/221)
+2025-04-16 12:23:37,723 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/978-1-4419-1210-7\_6
+2025-04-16 12:23:38,385 [WARNING] ❌ Failed to access https://sci-hub.se/10.1007/978-1-4419-1210-7\_6: 404
+2025-04-16 12:23:38,386 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1007/978-1-4419-1210-7\_6
+2025-04-16 12:23:39,249 [WARNING] ❌ Failed to access https://sci-hub.ru/10.1007/978-1-4419-1210-7\_6: 404
+2025-04-16 12:23:39,250 [INFO] TRYING MIRROR: https://sci-hub.st/10.1007/978-1-4419-1210-7\_6
+2025-04-16 12:23:40,420 [WARNING] ❌ Failed to access https://sci-hub.st/10.1007/978-1-4419-1210-7\_6: 404
+2025-04-16 12:23:40,420 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1007/978-1-4419-1210-7\_6
+2025-04-16 12:23:41,491 [WARNING] ⚠️ No valid PDF URL found for 10.1007/978-1-4419-1210-7\_6 on https://sci-hub.tf
+2025-04-16 12:23:41,491 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1007/978-1-4419-1210-7\_6
+2025-04-16 12:23:42,107 [WARNING] ❌ Failed to access https://sci-hub.wf/10.1007/978-1-4419-1210-7\_6: 500
+2025-04-16 12:23:42,107 [ERROR] ❌ FINAL FAILURE: 10.1007/978-1-4419-1210-7\_6
+2025-04-16 12:23:42,108 [INFO] DOWNLOADED: 14/221
+2025-04-16 12:23:44,108 [INFO] 🔄 PROCESSING: 10.1523/JNEUROSCI.2486-17.2018 (15/221)
+2025-04-16 12:23:44,108 [INFO] TRYING MIRROR: https://sci-hub.se/10.1523/JNEUROSCI.2486-17.2018
+2025-04-16 12:23:44,732 [INFO] 📄 PDF URL: https://2024.sci-hub.se/7049/78bdea14ba2e115bd81e4ccf267deeb9/constantinidis2018.pdf#navpanes=0&view=FitH
+2025-04-16 12:23:46,575 [INFO] ✅ SUCCESS: 10.1523/JNEUROSCI.2486-17.2018
+2025-04-16 12:23:46,576 [INFO] DOWNLOADED: 15/221
+2025-04-16 12:23:48,576 [INFO] 🔄 PROCESSING: 10.1016/j.psfr.2013.08.001 (16/221)
+2025-04-16 12:23:48,576 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.psfr.2013.08.001
+2025-04-16 12:23:49,135 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/c17eeb80c8c02a25785c827ab724c2e9/minier2014.pdf#navpanes=0&view=FitH
+2025-04-16 12:23:52,183 [INFO] ✅ SUCCESS: 10.1016/j.psfr.2013.08.001
+2025-04-16 12:23:52,184 [INFO] DOWNLOADED: 16/221
+2025-04-16 12:23:54,185 [INFO] 🔄 PROCESSING: 10.1016/j.bbr.2020.113079 (17/221)
+2025-04-16 12:23:54,185 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.bbr.2020.113079
+2025-04-16 12:23:54,630 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2021-06-22/e7/luna2021.pdf#navpanes=0&view=FitH
+2025-04-16 12:23:58,083 [INFO] ✅ SUCCESS: 10.1016/j.bbr.2020.113079
+2025-04-16 12:23:58,084 [INFO] DOWNLOADED: 17/221
+2025-04-16 12:24:00,084 [INFO] 🔄 PROCESSING: 10.1016/j.jad.2013.06.052 (18/221)
+2025-04-16 12:24:00,084 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.jad.2013.06.052
+2025-04-16 12:24:00,571 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/1cff5e8367285815a0ca18dc7832944b/richard-devantoy2013.pdf#navpanes=0&view=FitH
+2025-04-16 12:24:02,447 [INFO] ✅ SUCCESS: 10.1016/j.jad.2013.06.052
+2025-04-16 12:24:02,448 [INFO] DOWNLOADED: 18/221
+2025-04-16 12:24:04,448 [INFO] 🔄 PROCESSING: 10.1016/j.jecp.2020.104809 (19/221)
+2025-04-16 12:24:04,448 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.jecp.2020.104809
+2025-04-16 12:24:05,010 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2020-02-19/48/vanbers2020.pdf#navpanes=0&view=FitH
+2025-04-16 12:24:06,543 [INFO] ✅ SUCCESS: 10.1016/j.jecp.2020.104809
+2025-04-16 12:24:06,544 [INFO] DOWNLOADED: 19/221
+2025-04-16 12:24:08,544 [INFO] 🔄 PROCESSING: 10.1016/bs.pbr.2016.03.009 (20/221)
+2025-04-16 12:24:08,545 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/bs.pbr.2016.03.009
+2025-04-16 12:24:09,102 [INFO] 📄 PDF URL: https://2024.sci-hub.se/6077/87ac66f1f5722e52e5dd76852b3bbd47/hinault2016.pdf#navpanes=0&view=FitH
+2025-04-16 12:32:04,984 [INFO] 📥 Starting PDF download using DOI file: /home/matias/Documents/scihub-downloader/data/extracted_dois.txt
+2025-04-16 12:32:04,986 [INFO] 🔄 PROCESSING: 10.1080/13803390802484797 (1/221)
+2025-04-16 12:32:04,986 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/13803390802484797
+2025-04-16 12:32:05,670 [INFO] 📄 PDF URL: https://moscow.sci-hub.se/3183/6517a72e1f4d980bfadd446fe9e68bf2/vanderplas2009.pdf#navpanes=0&view=FitH
+2025-04-16 12:32:06,969 [INFO] ✅ SUCCESS: 10.1080/13803390802484797
+2025-04-16 12:32:06,970 [INFO] DOWNLOADED: 1/221
+2025-04-16 12:32:08,970 [INFO] 🔄 PROCESSING: 10.1017/S0033291719002393 (2/221)
+2025-04-16 12:32:08,970 [INFO] TRYING MIRROR: https://sci-hub.se/10.1017/S0033291719002393
+2025-04-16 12:32:09,441 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2019-09-12/51/10.1017@S0033291719002393.pdf#navpanes=0&view=FitH
+2025-04-16 12:32:09,985 [INFO] ✅ SUCCESS: 10.1017/S0033291719002393
+2025-04-16 12:32:09,986 [INFO] DOWNLOADED: 2/221
+2025-04-16 12:32:11,986 [INFO] 🔄 PROCESSING: 10.1007/s00221-011-2605-3 (3/221)
+2025-04-16 12:32:11,987 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s00221-011-2605-3
+2025-04-16 12:32:12,465 [INFO] 📄 PDF URL: https://moscow.sci-hub.se/729/c4042ff4bcef8e5e965f911fb9899da2/martella2011.pdf#navpanes=0&view=FitH
+2025-04-16 12:32:13,123 [INFO] ✅ SUCCESS: 10.1007/s00221-011-2605-3
+2025-04-16 12:32:13,124 [INFO] DOWNLOADED: 3/221
+2025-04-16 12:32:15,124 [INFO] 🔄 PROCESSING: 10.1007/s00213-017-4538-4 (4/221)
+2025-04-16 12:32:15,124 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s00213-017-4538-4
+2025-04-16 12:32:15,604 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/a1e623d6a1a223668dc51b603a5fdcab/lannoy2017.pdf#navpanes=0&view=FitH
+2025-04-16 12:32:16,225 [INFO] ✅ SUCCESS: 10.1007/s00213-017-4538-4
+2025-04-16 12:32:16,226 [INFO] DOWNLOADED: 4/221
+2025-04-16 12:32:18,227 [INFO] 🔄 PROCESSING: 10.3390/brainsci11020267 (5/221)
+2025-04-16 12:32:18,227 [INFO] TRYING MIRROR: https://sci-hub.se/10.3390/brainsci11020267
+2025-04-16 12:32:18,735 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2021-08-11/3a/10.3390@brainsci11020267.pdf#navpanes=0&view=FitH
+2025-04-16 12:32:19,999 [INFO] ✅ SUCCESS: 10.3390/brainsci11020267
+2025-04-16 12:32:19,999 [INFO] DOWNLOADED: 5/221
+2025-04-16 12:32:22,000 [INFO] 🔄 PROCESSING: 10.1007/s12671-019-01279-4 (6/221)
+2025-04-16 12:32:22,000 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s12671-019-01279-4
+2025-04-16 12:32:22,458 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2019-12-17/0e/10.1007@s12671-019-01279-4.pdf#navpanes=0&view=FitH
+2025-04-16 12:32:23,638 [INFO] ✅ SUCCESS: 10.1007/s12671-019-01279-4
+2025-04-16 12:32:23,638 [INFO] DOWNLOADED: 6/221
+2025-04-16 12:32:25,639 [INFO] 🔄 PROCESSING: 10.1037/xlm0000516 (7/221)
+2025-04-16 12:32:25,639 [INFO] TRYING MIRROR: https://sci-hub.se/10.1037/xlm0000516
+2025-04-16 12:32:26,166 [WARNING] ⚠️ No valid PDF URL found for 10.1037/xlm0000516 on https://sci-hub.se
+2025-04-16 12:32:26,166 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1037/xlm0000516
+2025-04-16 12:32:26,749 [WARNING] ⚠️ No valid PDF URL found for 10.1037/xlm0000516 on https://sci-hub.ru
+2025-04-16 12:32:26,750 [INFO] TRYING MIRROR: https://sci-hub.st/10.1037/xlm0000516
+2025-04-16 12:32:27,743 [WARNING] ⚠️ No valid PDF URL found for 10.1037/xlm0000516 on https://sci-hub.st
+2025-04-16 12:32:27,743 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1037/xlm0000516
+2025-04-16 12:32:28,737 [WARNING] ⚠️ No valid PDF URL found for 10.1037/xlm0000516 on https://sci-hub.tf
+2025-04-16 12:32:28,737 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1037/xlm0000516
+2025-04-16 12:32:29,829 [WARNING] ❌ Failed to access https://sci-hub.wf/10.1037/xlm0000516: 500
+2025-04-16 12:32:29,830 [ERROR] ❌ FINAL FAILURE: 10.1037/xlm0000516
+2025-04-16 12:32:29,830 [INFO] DOWNLOADED: 7/221
+2025-04-16 12:32:31,831 [INFO] 🔄 PROCESSING: 10.1080/13218719.2013.873974 (8/221)
+2025-04-16 12:32:31,831 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/13218719.2013.873974
+2025-04-16 12:32:32,394 [INFO] 📄 PDF URL: https://moscow.sci-hub.se/3225/a2edb7918fad2907ed946111163612db/10.1080@13218719.2013.873974.pdf#navpanes=0&view=FitH
+2025-04-16 12:32:33,851 [INFO] ✅ SUCCESS: 10.1080/13218719.2013.873974
+2025-04-16 12:32:33,852 [INFO] DOWNLOADED: 8/221
+2025-04-16 12:32:35,853 [INFO] 🔄 PROCESSING: 10.1016/j.concog.2011.12.007 (9/221)
+2025-04-16 12:32:35,853 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.concog.2011.12.007
+2025-04-16 12:36:32,115 [INFO] 📥 Starting PDF download using DOI file: /home/matias/Documents/scihub-downloader/data/extracted_dois.txt
+2025-04-16 12:36:32,117 [INFO] 🔄 PROCESSING: 10.1080/13803390802484797 (1/221)
+2025-04-16 12:36:32,117 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/13803390802484797
+2025-04-16 12:36:32,728 [INFO] 📄 PDF URL: https://moscow.sci-hub.se/3183/6517a72e1f4d980bfadd446fe9e68bf2/vanderplas2009.pdf#navpanes=0&view=FitH
+2025-04-16 12:36:33,746 [INFO] ✅ SUCCESS: 10.1080/13803390802484797
+2025-04-16 12:36:33,746 [INFO] DOWNLOADED: 1/221
+2025-04-16 12:36:35,747 [INFO] 🔄 PROCESSING: 10.1017/S0033291719002393 (2/221)
+2025-04-16 12:36:35,747 [INFO] TRYING MIRROR: https://sci-hub.se/10.1017/S0033291719002393
+2025-04-16 12:36:36,308 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2019-09-12/51/10.1017@S0033291719002393.pdf#navpanes=0&view=FitH
+2025-04-16 12:36:37,018 [INFO] ✅ SUCCESS: 10.1017/S0033291719002393
+2025-04-16 12:36:37,019 [INFO] DOWNLOADED: 2/221
+2025-04-16 12:36:39,019 [INFO] 🔄 PROCESSING: 10.1007/s00221-011-2605-3 (3/221)
+2025-04-16 12:36:39,020 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s00221-011-2605-3
+2025-04-16 12:36:39,541 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/c4042ff4bcef8e5e965f911fb9899da2/martella2011.pdf#navpanes=0&view=FitH
+2025-04-16 12:36:41,241 [INFO] ✅ SUCCESS: 10.1007/s00221-011-2605-3
+2025-04-16 12:36:41,241 [INFO] DOWNLOADED: 3/221
+2025-04-16 12:36:43,241 [INFO] 🔄 PROCESSING: 10.1007/s00213-017-4538-4 (4/221)
+2025-04-16 12:36:43,241 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s00213-017-4538-4
+2025-04-16 12:36:43,821 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/a1e623d6a1a223668dc51b603a5fdcab/lannoy2017.pdf#navpanes=0&view=FitH
+2025-04-16 12:36:44,375 [INFO] ✅ SUCCESS: 10.1007/s00213-017-4538-4
+2025-04-16 12:36:44,375 [INFO] DOWNLOADED: 4/221
+2025-04-16 12:36:46,376 [INFO] 🔄 PROCESSING: 10.3390/brainsci11020267 (5/221)
+2025-04-16 12:36:46,376 [INFO] TRYING MIRROR: https://sci-hub.se/10.3390/brainsci11020267
+2025-04-16 12:36:46,962 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2021-08-11/3a/10.3390@brainsci11020267.pdf#navpanes=0&view=FitH
+2025-04-16 12:36:48,971 [INFO] ✅ SUCCESS: 10.3390/brainsci11020267
+2025-04-16 12:36:48,972 [INFO] DOWNLOADED: 5/221
+2025-04-16 12:36:50,972 [INFO] 🔄 PROCESSING: 10.1007/s12671-019-01279-4 (6/221)
+2025-04-16 12:36:50,973 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s12671-019-01279-4
+2025-04-16 12:36:51,508 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2019-12-17/0e/10.1007@s12671-019-01279-4.pdf#navpanes=0&view=FitH
+2025-04-16 12:36:52,519 [INFO] ✅ SUCCESS: 10.1007/s12671-019-01279-4
+2025-04-16 12:36:52,520 [INFO] DOWNLOADED: 6/221
+2025-04-16 12:36:54,520 [INFO] 🔄 PROCESSING: 10.1037/xlm0000516 (7/221)
+2025-04-16 12:36:54,520 [INFO] TRYING MIRROR: https://sci-hub.se/10.1037/xlm0000516
+2025-04-16 12:36:55,198 [WARNING] ⚠️ No valid PDF URL found for 10.1037/xlm0000516 on https://sci-hub.se
+2025-04-16 12:36:55,198 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1037/xlm0000516
+2025-04-16 12:36:55,940 [WARNING] ⚠️ No valid PDF URL found for 10.1037/xlm0000516 on https://sci-hub.ru
+2025-04-16 12:36:55,940 [INFO] TRYING MIRROR: https://sci-hub.st/10.1037/xlm0000516
+2025-04-16 12:36:56,714 [WARNING] ⚠️ No valid PDF URL found for 10.1037/xlm0000516 on https://sci-hub.st
+2025-04-16 12:36:56,714 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1037/xlm0000516
+2025-04-16 12:36:58,084 [WARNING] ⚠️ No valid PDF URL found for 10.1037/xlm0000516 on https://sci-hub.tf
+2025-04-16 12:36:58,085 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1037/xlm0000516
+2025-04-16 12:36:58,589 [WARNING] ❌ Failed to access https://sci-hub.wf/10.1037/xlm0000516: 500
+2025-04-16 12:36:58,590 [ERROR] ❌ FINAL FAILURE: 10.1037/xlm0000516
+2025-04-16 12:36:58,590 [INFO] DOWNLOADED: 7/221
+2025-04-16 12:37:00,590 [INFO] 🔄 PROCESSING: 10.1080/13218719.2013.873974 (8/221)
+2025-04-16 12:37:00,591 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/13218719.2013.873974
+2025-04-16 12:37:01,602 [INFO] 📄 PDF URL: https://2024.sci-hub.se/3225/a2edb7918fad2907ed946111163612db/10.1080@13218719.2013.873974.pdf#navpanes=0&view=FitH
+2025-04-16 12:37:02,622 [INFO] ✅ SUCCESS: 10.1080/13218719.2013.873974
+2025-04-16 12:37:02,622 [INFO] DOWNLOADED: 8/221
+2025-04-16 12:37:04,622 [INFO] 🔄 PROCESSING: 10.1016/j.concog.2011.12.007 (9/221)
+2025-04-16 12:37:04,623 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.concog.2011.12.007
+2025-04-16 12:37:05,087 [INFO] 📄 PDF URL: https://moscow.sci-hub.se/1645/38d55728a0f9f1368c423b3023075c44/hu2012.pdf#navpanes=0&view=FitH
+2025-04-16 12:37:07,308 [INFO] ✅ SUCCESS: 10.1016/j.concog.2011.12.007
+2025-04-16 12:37:07,309 [INFO] DOWNLOADED: 9/221
+2025-04-16 12:37:09,309 [INFO] 🔄 PROCESSING: 10.1080/02699931.2016.1263601 (10/221)
+2025-04-16 12:37:09,310 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/02699931.2016.1263601
+2025-04-16 12:37:10,000 [INFO] 📄 PDF URL: https://2024.sci-hub.se/6185/8b5e3be87846cfd3d352cbdc453aceb6/moriya2016.pdf#navpanes=0&view=FitH
+2025-04-16 12:37:10,954 [INFO] ✅ SUCCESS: 10.1080/02699931.2016.1263601
+2025-04-16 12:37:10,954 [INFO] DOWNLOADED: 10/221
+2025-04-16 12:37:12,955 [INFO] 🔄 PROCESSING: 10.1080/15622975.2017.1296973 (11/221)
+2025-04-16 12:37:12,955 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/15622975.2017.1296973
+2025-04-16 12:37:13,435 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/a155811f34cf0ba258f33da12e2d5ee1/wolff2017.pdf#navpanes=0&view=FitH
+2025-04-16 12:37:14,082 [INFO] ✅ SUCCESS: 10.1080/15622975.2017.1296973
+2025-04-16 12:37:14,083 [INFO] DOWNLOADED: 11/221
+2025-04-16 12:37:16,083 [INFO] 🔄 PROCESSING: 10.1111/ejn.14946 (12/221)
+2025-04-16 12:37:16,083 [INFO] TRYING MIRROR: https://sci-hub.se/10.1111/ejn.14946
+2025-04-16 12:37:16,546 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2020-10-05/81/gaillard2020.pdf#navpanes=0&view=FitH
+2025-04-16 12:37:20,911 [INFO] ✅ SUCCESS: 10.1111/ejn.14946
+2025-04-16 12:37:20,912 [INFO] DOWNLOADED: 12/221
+2025-04-16 12:37:22,912 [INFO] 🔄 PROCESSING: 10.3389/fpsyg.2016.01197 (13/221)
+2025-04-16 12:37:22,913 [INFO] TRYING MIRROR: https://sci-hub.se/10.3389/fpsyg.2016.01197
+2025-04-16 12:37:23,723 [INFO] 📄 PDF URL: https://2024.sci-hub.se/7011/8f00eb71029105eaf2e1486a40628778/medeiros2016.pdf#navpanes=0&view=FitH
+2025-04-16 12:37:25,607 [INFO] ✅ SUCCESS: 10.3389/fpsyg.2016.01197
+2025-04-16 12:37:25,607 [INFO] DOWNLOADED: 13/221
+2025-04-16 12:37:27,611 [INFO] 🔄 PROCESSING: 10.1007/978-1-4419-1210-7\_6 (14/221)
+2025-04-16 12:37:27,612 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/978-1-4419-1210-7\_6
+2025-04-16 12:37:28,612 [WARNING] ❌ Failed to access https://sci-hub.se/10.1007/978-1-4419-1210-7\_6: 404
+2025-04-16 12:37:28,612 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1007/978-1-4419-1210-7\_6
+2025-04-16 12:37:30,067 [WARNING] ❌ Failed to access https://sci-hub.ru/10.1007/978-1-4419-1210-7\_6: 404
+2025-04-16 12:37:30,068 [INFO] TRYING MIRROR: https://sci-hub.st/10.1007/978-1-4419-1210-7\_6
+2025-04-16 12:37:31,602 [WARNING] ❌ Failed to access https://sci-hub.st/10.1007/978-1-4419-1210-7\_6: 404
+2025-04-16 12:37:31,602 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1007/978-1-4419-1210-7\_6
+2025-04-16 12:37:32,866 [WARNING] ⚠️ No valid PDF URL found for 10.1007/978-1-4419-1210-7\_6 on https://sci-hub.tf
+2025-04-16 12:37:32,866 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1007/978-1-4419-1210-7\_6
+2025-04-16 12:37:33,551 [WARNING] ❌ Failed to access https://sci-hub.wf/10.1007/978-1-4419-1210-7\_6: 500
+2025-04-16 12:37:33,551 [ERROR] ❌ FINAL FAILURE: 10.1007/978-1-4419-1210-7\_6
+2025-04-16 12:37:33,552 [INFO] DOWNLOADED: 14/221
+2025-04-16 12:37:35,552 [INFO] 🔄 PROCESSING: 10.1523/JNEUROSCI.2486-17.2018 (15/221)
+2025-04-16 12:37:35,552 [INFO] TRYING MIRROR: https://sci-hub.se/10.1523/JNEUROSCI.2486-17.2018
+2025-04-16 12:37:36,621 [INFO] 📄 PDF URL: https://2024.sci-hub.se/7049/78bdea14ba2e115bd81e4ccf267deeb9/constantinidis2018.pdf#navpanes=0&view=FitH
+2025-04-16 12:37:38,261 [INFO] ✅ SUCCESS: 10.1523/JNEUROSCI.2486-17.2018
+2025-04-16 12:37:38,261 [INFO] DOWNLOADED: 15/221
+2025-04-16 12:37:40,262 [INFO] 🔄 PROCESSING: 10.1016/j.psfr.2013.08.001 (16/221)
+2025-04-16 12:37:40,262 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.psfr.2013.08.001
+2025-04-16 12:37:40,823 [INFO] 📄 PDF URL: https://moscow.sci-hub.se/2455/c17eeb80c8c02a25785c827ab724c2e9/minier2014.pdf#navpanes=0&view=FitH
+2025-04-16 12:37:42,974 [INFO] ✅ SUCCESS: 10.1016/j.psfr.2013.08.001
+2025-04-16 12:37:42,975 [INFO] DOWNLOADED: 16/221
+2025-04-16 12:37:44,975 [INFO] 🔄 PROCESSING: 10.1016/j.bbr.2020.113079 (17/221)
+2025-04-16 12:37:44,976 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.bbr.2020.113079
+2025-04-16 12:37:45,459 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2021-06-22/e7/luna2021.pdf#navpanes=0&view=FitH
+2025-04-16 12:37:46,456 [INFO] ✅ SUCCESS: 10.1016/j.bbr.2020.113079
+2025-04-16 12:37:46,457 [INFO] DOWNLOADED: 17/221
+2025-04-16 12:37:48,457 [INFO] 🔄 PROCESSING: 10.1016/j.jad.2013.06.052 (18/221)
+2025-04-16 12:37:48,458 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.jad.2013.06.052
+2025-04-16 12:37:49,116 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/1cff5e8367285815a0ca18dc7832944b/richard-devantoy2013.pdf#navpanes=0&view=FitH
+2025-04-16 12:37:49,798 [INFO] ✅ SUCCESS: 10.1016/j.jad.2013.06.052
+2025-04-16 12:37:49,800 [INFO] DOWNLOADED: 18/221
+2025-04-16 12:37:51,800 [INFO] 🔄 PROCESSING: 10.1016/j.jecp.2020.104809 (19/221)
+2025-04-16 12:37:51,800 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.jecp.2020.104809
+2025-04-16 12:37:52,370 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2020-02-19/48/vanbers2020.pdf#navpanes=0&view=FitH
+2025-04-16 12:37:53,196 [INFO] ✅ SUCCESS: 10.1016/j.jecp.2020.104809
+2025-04-16 12:37:53,197 [INFO] DOWNLOADED: 19/221
+2025-04-16 12:37:55,197 [INFO] 🔄 PROCESSING: 10.1016/bs.pbr.2016.03.009 (20/221)
+2025-04-16 12:37:55,198 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/bs.pbr.2016.03.009
+2025-04-16 12:37:55,734 [INFO] 📄 PDF URL: https://2024.sci-hub.se/6077/87ac66f1f5722e52e5dd76852b3bbd47/hinault2016.pdf#navpanes=0&view=FitH
+2025-04-16 12:37:56,183 [INFO] ✅ SUCCESS: 10.1016/bs.pbr.2016.03.009
+2025-04-16 12:37:56,184 [INFO] DOWNLOADED: 20/221
+2025-04-16 12:37:58,184 [INFO] 🔄 PROCESSING: 10.1016/j.actpsy.2021.103358 (21/221)
+2025-04-16 12:37:58,185 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.actpsy.2021.103358
+2025-04-16 12:37:58,768 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2021-08-10/b7/aubry2021.pdf#navpanes=0&view=FitH
+2025-04-16 12:38:00,582 [INFO] ✅ SUCCESS: 10.1016/j.actpsy.2021.103358
+2025-04-16 12:38:00,583 [INFO] DOWNLOADED: 21/221
+2025-04-16 12:38:02,583 [INFO] 🔄 PROCESSING: 10.1016/j.neurobiolaging.2017.08.025 (22/221)
+2025-04-16 12:38:02,583 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.neurobiolaging.2017.08.025
+2025-04-16 12:38:03,348 [INFO] 📄 PDF URL: https://2024.sci-hub.se/6559/453107b599df9d8d40897ee4fbc8ce35/hernandez2017.pdf#navpanes=0&view=FitH
+2025-04-16 12:38:05,210 [INFO] ✅ SUCCESS: 10.1016/j.neurobiolaging.2017.08.025
+2025-04-16 12:38:05,210 [INFO] DOWNLOADED: 22/221
+2025-04-16 12:38:07,211 [INFO] 🔄 PROCESSING: 10.3758/PBR.16.4.660 (23/221)
+2025-04-16 12:38:07,211 [INFO] TRYING MIRROR: https://sci-hub.se/10.3758/PBR.16.4.660
+2025-04-16 12:38:07,808 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/32f4ee4bac05e97debb17c5b10632ffc/arrington2009.pdf#navpanes=0&view=FitH
+2025-04-16 12:38:09,178 [INFO] ✅ SUCCESS: 10.3758/PBR.16.4.660
+2025-04-16 12:38:09,179 [INFO] DOWNLOADED: 23/221
+2025-04-16 12:38:11,179 [INFO] 🔄 PROCESSING: 10.1016/j.physbeh.2021.113602 (24/221)
+2025-04-16 12:38:11,180 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.physbeh.2021.113602
+2025-04-16 12:38:11,848 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2022-11-06/82/stone2021.pdf#navpanes=0&view=FitH
+2025-04-16 12:38:12,696 [WARNING] ❌ PDF fetch failed: https://sci-hub.se/downloads/2022-11-06/82/stone2021.pdf#navpanes=0&view=FitH (404)
+2025-04-16 12:38:12,696 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1016/j.physbeh.2021.113602
+2025-04-16 12:38:13,387 [INFO] 📄 PDF URL: https://sci-hub.ru/downloads/2022-11-06/82/stone2021.pdf#navpanes=0&view=FitH
+2025-04-16 12:38:14,610 [WARNING] ❌ PDF fetch failed: https://sci-hub.ru/downloads/2022-11-06/82/stone2021.pdf#navpanes=0&view=FitH (404)
+2025-04-16 12:38:14,610 [INFO] TRYING MIRROR: https://sci-hub.st/10.1016/j.physbeh.2021.113602
+2025-04-16 12:38:15,638 [INFO] 📄 PDF URL: https://sci-hub.st/downloads/2022-11-06/82/stone2021.pdf#navpanes=0&view=FitH
+2025-04-16 12:38:16,555 [WARNING] ❌ PDF fetch failed: https://sci-hub.st/downloads/2022-11-06/82/stone2021.pdf#navpanes=0&view=FitH (404)
+2025-04-16 12:38:16,555 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1016/j.physbeh.2021.113602
+2025-04-16 12:38:17,088 [WARNING] ⚠️ No valid PDF URL found for 10.1016/j.physbeh.2021.113602 on https://sci-hub.tf
+2025-04-16 12:38:17,088 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1016/j.physbeh.2021.113602
+2025-04-16 12:38:17,750 [WARNING] ❌ Failed to access https://sci-hub.wf/10.1016/j.physbeh.2021.113602: 500
+2025-04-16 12:38:17,750 [ERROR] ❌ FINAL FAILURE: 10.1016/j.physbeh.2021.113602
+2025-04-16 12:38:17,752 [INFO] DOWNLOADED: 24/221
+2025-04-16 12:38:19,752 [INFO] 🔄 PROCESSING: 10.30773/pi.2020.0251 (25/221)
+2025-04-16 12:38:19,752 [INFO] TRYING MIRROR: https://sci-hub.se/10.30773/pi.2020.0251
+2025-04-16 12:38:20,565 [WARNING] ⚠️ No valid PDF URL found for 10.30773/pi.2020.0251 on https://sci-hub.se
+2025-04-16 12:38:20,565 [INFO] TRYING MIRROR: https://sci-hub.ru/10.30773/pi.2020.0251
+2025-04-16 12:38:21,241 [WARNING] ⚠️ No valid PDF URL found for 10.30773/pi.2020.0251 on https://sci-hub.ru
+2025-04-16 12:38:21,241 [INFO] TRYING MIRROR: https://sci-hub.st/10.30773/pi.2020.0251
+2025-04-16 12:38:22,204 [WARNING] ⚠️ No valid PDF URL found for 10.30773/pi.2020.0251 on https://sci-hub.st
+2025-04-16 12:38:22,204 [INFO] TRYING MIRROR: https://sci-hub.tf/10.30773/pi.2020.0251
+2025-04-16 12:38:22,718 [WARNING] ⚠️ No valid PDF URL found for 10.30773/pi.2020.0251 on https://sci-hub.tf
+2025-04-16 12:38:22,718 [INFO] TRYING MIRROR: https://sci-hub.wf/10.30773/pi.2020.0251
+2025-04-16 12:38:23,431 [WARNING] ❌ Failed to access https://sci-hub.wf/10.30773/pi.2020.0251: 500
+2025-04-16 12:38:23,431 [ERROR] ❌ FINAL FAILURE: 10.30773/pi.2020.0251
+2025-04-16 12:38:23,431 [INFO] DOWNLOADED: 25/221
+2025-04-16 12:38:25,432 [INFO] 🔄 PROCESSING: 10.1007/s00213-009-1650-0 (26/221)
+2025-04-16 12:38:25,432 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s00213-009-1650-0
+2025-04-16 12:38:25,980 [INFO] 📄 PDF URL: https://2024.sci-hub.se/727/47318f4d0598709782e11fd3daa90d52/colzato2009.pdf#navpanes=0&view=FitH
+2025-04-16 12:38:27,101 [INFO] ✅ SUCCESS: 10.1007/s00213-009-1650-0
+2025-04-16 12:38:27,102 [INFO] DOWNLOADED: 26/221
+2025-04-16 12:38:29,102 [INFO] 🔄 PROCESSING: 10.1177/1087054717730611 (27/221)
+2025-04-16 12:38:29,103 [INFO] TRYING MIRROR: https://sci-hub.se/10.1177/1087054717730611
+2025-04-16 12:38:29,606 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/5bc8a7503689d7bd594e35d743ab52ab/nejati2017.pdf#navpanes=0&view=FitH
+2025-04-16 12:38:30,444 [INFO] ✅ SUCCESS: 10.1177/1087054717730611
+2025-04-16 12:38:30,444 [INFO] DOWNLOADED: 27/221
+2025-04-16 12:38:32,445 [INFO] 🔄 PROCESSING: 10.1080/02699931.2010.491647 (28/221)
+2025-04-16 12:38:32,445 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/02699931.2010.491647
+2025-04-16 12:38:32,944 [INFO] 📄 PDF URL: https://moscow.sci-hub.se/3254/fc6fba896213cc2d18e8ab76abc2d9bc/genet2011.pdf#navpanes=0&view=FitH
+2025-04-16 12:38:34,167 [INFO] ✅ SUCCESS: 10.1080/02699931.2010.491647
+2025-04-16 12:38:34,168 [INFO] DOWNLOADED: 28/221
+2025-04-16 12:38:36,169 [INFO] 🔄 PROCESSING: 10.3389/fpsyg.2020.00180 (29/221)
+2025-04-16 12:38:36,169 [INFO] TRYING MIRROR: https://sci-hub.se/10.3389/fpsyg.2020.00180
+2025-04-16 12:38:36,609 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2020-03-27/bf/singh2020.pdf#navpanes=0&view=FitH
+2025-04-16 12:38:37,317 [INFO] ✅ SUCCESS: 10.3389/fpsyg.2020.00180
+2025-04-16 12:38:37,317 [INFO] DOWNLOADED: 29/221
+2025-04-16 12:38:39,318 [INFO] 🔄 PROCESSING: 10.1016/bs.irn.2021.07.004 (30/221)
+2025-04-16 12:38:39,318 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/bs.irn.2021.07.004
+2025-04-16 12:38:39,797 [WARNING] ⚠️ No valid PDF URL found for 10.1016/bs.irn.2021.07.004 on https://sci-hub.se
+2025-04-16 12:38:39,797 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1016/bs.irn.2021.07.004
+2025-04-16 12:38:40,254 [WARNING] ⚠️ No valid PDF URL found for 10.1016/bs.irn.2021.07.004 on https://sci-hub.ru
+2025-04-16 12:38:40,254 [INFO] TRYING MIRROR: https://sci-hub.st/10.1016/bs.irn.2021.07.004
+2025-04-16 12:38:40,709 [WARNING] ⚠️ No valid PDF URL found for 10.1016/bs.irn.2021.07.004 on https://sci-hub.st
+2025-04-16 12:38:40,710 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1016/bs.irn.2021.07.004
+2025-04-16 12:38:40,986 [WARNING] ⚠️ No valid PDF URL found for 10.1016/bs.irn.2021.07.004 on https://sci-hub.tf
+2025-04-16 12:38:40,987 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1016/bs.irn.2021.07.004
+2025-04-16 12:38:41,448 [WARNING] ❌ Failed to access https://sci-hub.wf/10.1016/bs.irn.2021.07.004: 500
+2025-04-16 12:38:41,449 [ERROR] ❌ FINAL FAILURE: 10.1016/bs.irn.2021.07.004
+2025-04-16 12:38:41,449 [INFO] DOWNLOADED: 30/221
+2025-04-16 12:38:43,449 [INFO] 🔄 PROCESSING: 10.1080/87565641.2011.632458 (31/221)
+2025-04-16 12:38:43,450 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/87565641.2011.632458
+2025-04-16 12:38:44,210 [INFO] 📄 PDF URL: https://2024.sci-hub.se/2251/2c7e5fb0f0c5f159b9c1b250e912c37d/chevalier2012.pdf#navpanes=0&view=FitH
+2025-04-16 12:38:45,538 [INFO] ✅ SUCCESS: 10.1080/87565641.2011.632458
+2025-04-16 12:38:45,538 [INFO] DOWNLOADED: 31/221
+2025-04-16 12:38:47,539 [INFO] 🔄 PROCESSING: 10.1055/s-2004-830233 (32/221)
+2025-04-16 12:38:47,539 [INFO] TRYING MIRROR: https://sci-hub.se/10.1055/s-2004-830233
+2025-04-16 12:38:47,980 [INFO] 📄 PDF URL: https://2024.sci-hub.se/4515/2cf27192ff2257979e872b6b7a6f0b46/thoma2005.pdf#navpanes=0&view=FitH
+2025-04-16 12:38:49,630 [INFO] ✅ SUCCESS: 10.1055/s-2004-830233
+2025-04-16 12:38:49,631 [INFO] DOWNLOADED: 32/221
+2025-04-16 12:38:51,632 [INFO] 🔄 PROCESSING: 10.3389/fpsyt.2020.00288 (33/221)
+2025-04-16 12:38:51,632 [INFO] TRYING MIRROR: https://sci-hub.se/10.3389/fpsyt.2020.00288
+2025-04-16 12:38:52,075 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2020-04-18/53/10.3389@fpsyt.2020.00288.pdf#navpanes=0&view=FitH
+2025-04-16 12:38:52,646 [INFO] ✅ SUCCESS: 10.3389/fpsyt.2020.00288
+2025-04-16 12:38:52,646 [INFO] DOWNLOADED: 33/221
+2025-04-16 12:38:54,647 [INFO] 🔄 PROCESSING: 10.1348/000711010X492366 (34/221)
+2025-04-16 12:38:54,647 [INFO] TRYING MIRROR: https://sci-hub.se/10.1348/000711010X492366
+2025-04-16 12:38:55,166 [INFO] 📄 PDF URL: https://moscow.sci-hub.se/1130/2ff1d72b584cd0ba8f855ff16366b053/10.1348@000711010X492366.pdf#navpanes=0&view=FitH
+2025-04-16 12:38:57,043 [INFO] ✅ SUCCESS: 10.1348/000711010X492366
+2025-04-16 12:38:57,043 [INFO] DOWNLOADED: 34/221
+2025-04-16 12:38:59,044 [INFO] 🔄 PROCESSING: 10.1016/j.neubiorev.2017.11.020 (35/221)
+2025-04-16 12:38:59,044 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.neubiorev.2017.11.020
+2025-04-16 12:38:59,512 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/a0980d7be4f679ede969798d4f6e3cf1/yang2018.pdf#navpanes=0&view=FitH
+2025-04-16 12:39:00,625 [INFO] ✅ SUCCESS: 10.1016/j.neubiorev.2017.11.020
+2025-04-16 12:39:00,626 [INFO] DOWNLOADED: 35/221
+2025-04-16 12:39:02,626 [INFO] 🔄 PROCESSING: 10.1017/S1366728912000569 (36/221)
+2025-04-16 12:39:02,627 [INFO] TRYING MIRROR: https://sci-hub.se/10.1017/S1366728912000569
+2025-04-16 12:39:03,149 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/5fea2ea0b34d7547481cc098698611b6/10.1017@S1366728912000569.pdf#navpanes=0&view=FitH
+2025-04-16 12:39:04,761 [INFO] ✅ SUCCESS: 10.1017/S1366728912000569
+2025-04-16 12:39:04,762 [INFO] DOWNLOADED: 36/221
+2025-04-16 12:39:06,762 [INFO] 🔄 PROCESSING: 10.1080/02699931.2015.1034091 (37/221)
+2025-04-16 12:39:06,762 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/02699931.2015.1034091
+2025-04-16 12:39:07,282 [INFO] 📄 PDF URL: https://moscow.sci-hub.se/3919/3e6c8db803eb701958e27d0192f45ca7/storbeck2015.pdf#navpanes=0&view=FitH
+2025-04-16 12:39:08,867 [INFO] ✅ SUCCESS: 10.1080/02699931.2015.1034091
+2025-04-16 12:39:08,868 [INFO] DOWNLOADED: 37/221
+2025-04-16 12:39:10,868 [INFO] 🔄 PROCESSING: 10.3758/s13414-016-1140-5 (38/221)
+2025-04-16 12:39:10,869 [INFO] TRYING MIRROR: https://sci-hub.se/10.3758/s13414-016-1140-5
+2025-04-16 12:39:11,447 [INFO] 📄 PDF URL: https://moscow.sci-hub.se/5279/af8e7c80d0d1ec32ef1af75296f16142/pailian2016.pdf#navpanes=0&view=FitH
+2025-04-16 12:39:15,569 [INFO] ✅ SUCCESS: 10.3758/s13414-016-1140-5
+2025-04-16 12:39:15,570 [INFO] DOWNLOADED: 38/221
+2025-04-16 12:39:17,570 [INFO] 🔄 PROCESSING: 10.1016/j.neuroscience.2016.06.013 (39/221)
+2025-04-16 12:39:17,570 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.neuroscience.2016.06.013
+2025-04-16 12:39:18,058 [INFO] 📄 PDF URL: https://2024.sci-hub.se/5460/f2585d01c927de15e51cc3b089bc25bf/park2016.pdf#navpanes=0&view=FitH
+2025-04-16 12:39:18,754 [INFO] ✅ SUCCESS: 10.1016/j.neuroscience.2016.06.013
+2025-04-16 12:39:18,755 [INFO] DOWNLOADED: 39/221
+2025-04-16 12:39:20,756 [INFO] 🔄 PROCESSING: 10.1080/10253890.2016.1192603 (40/221)
+2025-04-16 12:39:20,756 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/10253890.2016.1192603
+2025-04-16 12:39:21,279 [INFO] 📄 PDF URL: https://moscow.sci-hub.se/5266/20643149fa1634927f13a7001bd34ae1/shields2016.pdf#navpanes=0&view=FitH
+2025-04-16 12:39:22,607 [INFO] ✅ SUCCESS: 10.1080/10253890.2016.1192603
+2025-04-16 12:39:22,608 [INFO] DOWNLOADED: 40/221
+2025-04-16 12:39:24,608 [INFO] 🔄 PROCESSING: 10.1016/j.neucom.2004.10.095 (41/221)
+2025-04-16 12:39:24,608 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.neucom.2004.10.095
+2025-04-16 12:39:25,163 [INFO] 📄 PDF URL: https://moscow.sci-hub.se/1351/d446de4928933a9637950a39bcbc6d11/wendelken2005.pdf#navpanes=0&view=FitH
+2025-04-16 12:39:26,600 [INFO] ✅ SUCCESS: 10.1016/j.neucom.2004.10.095
+2025-04-16 12:39:26,601 [INFO] DOWNLOADED: 41/221
+2025-04-16 12:39:28,602 [INFO] 🔄 PROCESSING: 10.1007/s10578-017-0749-5 (42/221)
+2025-04-16 12:39:28,602 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s10578-017-0749-5
+2025-04-16 12:39:29,262 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/a7a737375e2b87b91ef4b7cba0511996/schoorl2017.pdf#navpanes=0&view=FitH
+2025-04-16 12:39:30,921 [INFO] ✅ SUCCESS: 10.1007/s10578-017-0749-5
+2025-04-16 12:39:30,922 [INFO] DOWNLOADED: 42/221
+2025-04-16 12:39:32,922 [INFO] 🔄 PROCESSING: 10.1111/desc.12024 (43/221)
+2025-04-16 12:39:32,922 [INFO] TRYING MIRROR: https://sci-hub.se/10.1111/desc.12024
+2025-04-16 12:39:33,375 [INFO] 📄 PDF URL: https://moscow.sci-hub.se/2249/8e401b246b88249666d14f0d180308c5/cepeda2013.pdf#navpanes=0&view=FitH
+2025-04-16 12:39:33,829 [INFO] ✅ SUCCESS: 10.1111/desc.12024
+2025-04-16 12:39:33,830 [INFO] DOWNLOADED: 43/221
+2025-04-16 12:39:35,830 [INFO] 🔄 PROCESSING: 10.1523/ENEURO.0136-17.2017 (44/221)
+2025-04-16 12:39:35,830 [INFO] TRYING MIRROR: https://sci-hub.se/10.1523/ENEURO.0136-17.2017
+2025-04-16 12:39:36,279 [WARNING] ⚠️ No valid PDF URL found for 10.1523/ENEURO.0136-17.2017 on https://sci-hub.se
+2025-04-16 12:39:36,280 [INFO] TRYING MIRROR: https://sci-hub.ru/10.1523/ENEURO.0136-17.2017
+2025-04-16 12:39:36,724 [WARNING] ⚠️ No valid PDF URL found for 10.1523/ENEURO.0136-17.2017 on https://sci-hub.ru
+2025-04-16 12:39:36,725 [INFO] TRYING MIRROR: https://sci-hub.st/10.1523/ENEURO.0136-17.2017
+2025-04-16 12:39:37,823 [WARNING] ⚠️ No valid PDF URL found for 10.1523/ENEURO.0136-17.2017 on https://sci-hub.st
+2025-04-16 12:39:37,824 [INFO] TRYING MIRROR: https://sci-hub.tf/10.1523/ENEURO.0136-17.2017
+2025-04-16 12:39:38,506 [WARNING] ⚠️ No valid PDF URL found for 10.1523/ENEURO.0136-17.2017 on https://sci-hub.tf
+2025-04-16 12:39:38,506 [INFO] TRYING MIRROR: https://sci-hub.wf/10.1523/ENEURO.0136-17.2017
+2025-04-16 12:39:39,190 [WARNING] ❌ Failed to access https://sci-hub.wf/10.1523/ENEURO.0136-17.2017: 500
+2025-04-16 12:39:39,191 [ERROR] ❌ FINAL FAILURE: 10.1523/ENEURO.0136-17.2017
+2025-04-16 12:39:39,192 [INFO] DOWNLOADED: 44/221
+2025-04-16 12:39:41,193 [INFO] 🔄 PROCESSING: 10.3389/fpsyg.2015.00142 (45/221)
+2025-04-16 12:39:41,193 [INFO] TRYING MIRROR: https://sci-hub.se/10.3389/fpsyg.2015.00142
+2025-04-16 12:39:41,860 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/1c0572494584b71c8fe6096e61328617/gathmann2015.pdf#navpanes=0&view=FitH
+2025-04-16 12:39:44,953 [INFO] ✅ SUCCESS: 10.3389/fpsyg.2015.00142
+2025-04-16 12:39:44,953 [INFO] DOWNLOADED: 45/221
+2025-04-16 12:39:46,954 [INFO] 🔄 PROCESSING: 10.1016/j.neuroscience.2016.06.005 (46/221)
+2025-04-16 12:39:46,954 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.neuroscience.2016.06.005
+2025-04-16 12:39:47,441 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/5aec9cfc4eabf1efb7155a2a06652219/waltz2016.pdf#navpanes=0&view=FitH
+2025-04-16 12:39:48,024 [INFO] ✅ SUCCESS: 10.1016/j.neuroscience.2016.06.005
+2025-04-16 12:39:48,024 [INFO] DOWNLOADED: 46/221
+2025-04-16 12:39:50,025 [INFO] 🔄 PROCESSING: 10.5093/psed2021a20 (47/221)
+2025-04-16 12:39:50,025 [INFO] TRYING MIRROR: https://sci-hub.se/10.5093/psed2021a20
+2025-04-16 12:39:50,528 [WARNING] ⚠️ No valid PDF URL found for 10.5093/psed2021a20 on https://sci-hub.se
+2025-04-16 12:39:50,529 [INFO] TRYING MIRROR: https://sci-hub.ru/10.5093/psed2021a20
+2025-04-16 12:39:51,079 [WARNING] ⚠️ No valid PDF URL found for 10.5093/psed2021a20 on https://sci-hub.ru
+2025-04-16 12:39:51,079 [INFO] TRYING MIRROR: https://sci-hub.st/10.5093/psed2021a20
+2025-04-16 12:39:51,798 [WARNING] ⚠️ No valid PDF URL found for 10.5093/psed2021a20 on https://sci-hub.st
+2025-04-16 12:39:51,798 [INFO] TRYING MIRROR: https://sci-hub.tf/10.5093/psed2021a20
+2025-04-16 12:39:52,321 [WARNING] ⚠️ No valid PDF URL found for 10.5093/psed2021a20 on https://sci-hub.tf
+2025-04-16 12:39:52,322 [INFO] TRYING MIRROR: https://sci-hub.wf/10.5093/psed2021a20
+2025-04-16 12:39:53,125 [WARNING] ❌ Failed to access https://sci-hub.wf/10.5093/psed2021a20: 500
+2025-04-16 12:39:53,126 [ERROR] ❌ FINAL FAILURE: 10.5093/psed2021a20
+2025-04-16 12:39:53,127 [INFO] DOWNLOADED: 47/221
+2025-04-16 12:39:55,127 [INFO] 🔄 PROCESSING: 10.1002/cne.24804 (48/221)
+2025-04-16 12:39:55,128 [INFO] TRYING MIRROR: https://sci-hub.se/10.1002/cne.24804
+2025-04-16 12:39:55,586 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2020-07-12/0c/wu2019.pdf#navpanes=0&view=FitH
+2025-04-16 12:39:56,612 [INFO] ✅ SUCCESS: 10.1002/cne.24804
+2025-04-16 12:39:56,613 [INFO] DOWNLOADED: 48/221
+2025-04-16 12:39:58,613 [INFO] 🔄 PROCESSING: 10.1016/j.bandc.2009.02.002 (49/221)
+2025-04-16 12:39:58,613 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.bandc.2009.02.002
+2025-04-16 12:39:59,270 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/5166d7bbcab1ba54d6596cdb5f0a6637/fan2009.pdf#navpanes=0&view=FitH
+2025-04-16 12:40:01,389 [INFO] ✅ SUCCESS: 10.1016/j.bandc.2009.02.002
+2025-04-16 12:40:01,389 [INFO] DOWNLOADED: 49/221
+2025-04-16 12:40:03,390 [INFO] 🔄 PROCESSING: 10.3389/fpsyg.2015.01110 (50/221)
+2025-04-16 12:40:03,390 [INFO] TRYING MIRROR: https://sci-hub.se/10.3389/fpsyg.2015.01110
+2025-04-16 12:40:03,842 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/3897bcf61be10f54029af8baf65b8935/wu2015.pdf#navpanes=0&view=FitH
+2025-04-16 12:40:05,801 [INFO] ✅ SUCCESS: 10.3389/fpsyg.2015.01110
+2025-04-16 12:40:05,802 [INFO] DOWNLOADED: 50/221
+2025-04-16 12:40:07,803 [INFO] 🔄 PROCESSING: 10.1037/0894-4105.19.3.267 (51/221)
+2025-04-16 12:40:07,803 [INFO] TRYING MIRROR: https://sci-hub.se/10.1037/0894-4105.19.3.267
+2025-04-16 12:40:08,249 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/5744da8c33a6a05703227b09c839f557/brand2005.pdf#navpanes=0&view=FitH
+2025-04-16 12:40:10,630 [INFO] ✅ SUCCESS: 10.1037/0894-4105.19.3.267
+2025-04-16 12:40:10,631 [INFO] DOWNLOADED: 51/221
+2025-04-16 12:40:12,631 [INFO] 🔄 PROCESSING: 10.1016/j.neures.2021.05.004 (52/221)
+2025-04-16 12:40:12,632 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.neures.2021.05.004
+2025-04-16 12:40:13,192 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2021-06-22/b7/ren2021.pdf#navpanes=0&view=FitH
+2025-04-16 12:40:14,574 [INFO] ✅ SUCCESS: 10.1016/j.neures.2021.05.004
+2025-04-16 12:40:14,575 [INFO] DOWNLOADED: 52/221
+2025-04-16 12:40:16,576 [INFO] 🔄 PROCESSING: 10.1007/s10899-010-9237-6 (53/221)
+2025-04-16 12:40:16,576 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s10899-010-9237-6
+2025-04-16 12:40:17,391 [INFO] 📄 PDF URL: https://2024.sci-hub.se/1265/1409d41bfea2246d083a089f681f66e9/ledgerwood2011.pdf#navpanes=0&view=FitH
+2025-04-16 12:40:19,481 [INFO] ✅ SUCCESS: 10.1007/s10899-010-9237-6
+2025-04-16 12:40:19,482 [INFO] DOWNLOADED: 53/221
+2025-04-16 12:40:21,482 [INFO] 🔄 PROCESSING: 10.1080/87565641.2018.1510500 (54/221)
+2025-04-16 12:40:21,483 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/87565641.2018.1510500
+2025-04-16 12:40:21,980 [INFO] 📄 PDF URL: https://2024.sci-hub.se/7090/f5acbab765b4a6a9a4497073584fbd2f/blair2018.pdf#navpanes=0&view=FitH
+2025-04-16 12:40:22,597 [INFO] ✅ SUCCESS: 10.1080/87565641.2018.1510500
+2025-04-16 12:40:22,598 [INFO] DOWNLOADED: 54/221
+2025-04-16 12:40:24,599 [INFO] 🔄 PROCESSING: 10.1016/j.neunet.2021.07.013 (55/221)
+2025-04-16 12:40:24,599 [INFO] TRYING MIRROR: https://sci-hub.se/10.1016/j.neunet.2021.07.013
+2025-04-16 12:40:25,175 [INFO] 📄 PDF URL: https://sci-hub.se/uptodate/S0893608021002768.pdf#navpanes=0&view=FitH
+2025-04-16 12:41:08,809 [INFO] 📥 Starting PDF download using DOI file: /home/matias/Documents/scihub-downloader/data/extracted_dois.txt
+2025-04-16 12:41:08,810 [INFO] 🔄 PROCESSING: 10.1080/13803390802484797 (1/221)
+2025-04-16 12:41:08,811 [INFO] TRYING MIRROR: https://sci-hub.se/10.1080/13803390802484797
+2025-04-16 12:41:09,616 [INFO] 📄 PDF URL: https://moscow.sci-hub.se/3183/6517a72e1f4d980bfadd446fe9e68bf2/vanderplas2009.pdf#navpanes=0&view=FitH
+2025-04-16 12:41:11,892 [INFO] ✅ SUCCESS: 10.1080/13803390802484797
+2025-04-16 12:41:11,893 [INFO] DOWNLOADED: 1/221
+2025-04-16 12:41:13,893 [INFO] 🔄 PROCESSING: 10.1017/S0033291719002393 (2/221)
+2025-04-16 12:41:13,894 [INFO] TRYING MIRROR: https://sci-hub.se/10.1017/S0033291719002393
+2025-04-16 12:41:14,424 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2019-09-12/51/10.1017@S0033291719002393.pdf#navpanes=0&view=FitH
+2025-04-16 12:41:15,188 [INFO] ✅ SUCCESS: 10.1017/S0033291719002393
+2025-04-16 12:41:15,188 [INFO] DOWNLOADED: 2/221
+2025-04-16 12:41:17,189 [INFO] 🔄 PROCESSING: 10.1007/s00221-011-2605-3 (3/221)
+2025-04-16 12:41:17,189 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s00221-011-2605-3
+2025-04-16 12:41:17,700 [INFO] 📄 PDF URL: https://moscow.sci-hub.se/729/c4042ff4bcef8e5e965f911fb9899da2/martella2011.pdf#navpanes=0&view=FitH
+2025-04-16 12:41:18,482 [INFO] ✅ SUCCESS: 10.1007/s00221-011-2605-3
+2025-04-16 12:41:18,483 [INFO] DOWNLOADED: 3/221
+2025-04-16 12:41:20,483 [INFO] 🔄 PROCESSING: 10.1007/s00213-017-4538-4 (4/221)
+2025-04-16 12:41:20,484 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s00213-017-4538-4
+2025-04-16 12:41:21,143 [INFO] 📄 PDF URL: https://dacemirror.sci-hub.se/journal-article/a1e623d6a1a223668dc51b603a5fdcab/lannoy2017.pdf#navpanes=0&view=FitH
+2025-04-16 12:41:22,515 [INFO] ✅ SUCCESS: 10.1007/s00213-017-4538-4
+2025-04-16 12:41:22,516 [INFO] DOWNLOADED: 4/221
+2025-04-16 12:41:24,516 [INFO] 🔄 PROCESSING: 10.3390/brainsci11020267 (5/221)
+2025-04-16 12:41:24,516 [INFO] TRYING MIRROR: https://sci-hub.se/10.3390/brainsci11020267
+2025-04-16 12:41:25,795 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2021-08-11/3a/10.3390@brainsci11020267.pdf#navpanes=0&view=FitH
+2025-04-16 12:41:32,323 [INFO] ✅ SUCCESS: 10.3390/brainsci11020267
+2025-04-16 12:41:32,323 [INFO] DOWNLOADED: 5/221
+2025-04-16 12:41:34,324 [INFO] 🔄 PROCESSING: 10.1007/s12671-019-01279-4 (6/221)
+2025-04-16 12:41:34,324 [INFO] TRYING MIRROR: https://sci-hub.se/10.1007/s12671-019-01279-4
+2025-04-16 12:41:34,814 [INFO] 📄 PDF URL: https://sci-hub.se/downloads/2019-12-17/0e/10.1007@s12671-019-01279-4.pdf#navpanes=0&view=FitH
+2025-04-16 12:41:36,553 [INFO] ✅ SUCCESS: 10.1007/s12671-019-01279-4
+2025-04-16 12:41:36,554 [INFO] DOWNLOADED: 6/221

@@ -3,14 +3,13 @@
 <form id="downloadForm">
   <label for="doi_file">DOI File:</label>
   <input type="text" id="doi_file" name="doi_file" value="{{ default_doi }}" />
-  <button type="submit">Start Download</button>
+  <button type="submit" id="startButton">Start Download</button>
 </form>
 
-<!-- Progress Bar -->
-<div class="progress-container">
-  <div class="progress-bar" id="progressBar"></div>
-</div>
-<p id="progressCount">0/100</p>
+<!-- Download message -->
+<p id="downloadMessage" style="display: none; color: #555; margin-top: 10px">
+  ⏳ Download in progress...
+</p>
 
 <!-- Back Button -->
 <div class="button-container" style="justify-content: center; margin-top: 20px">
@@ -18,38 +17,19 @@
 </div>
 
 <script>
-  var currentLogFile = ""; // Store the unique log file name for this download
-
-  function fetchProgress() {
-    if (!currentLogFile) return;
-    fetch("{{ url_for('progress') }}?log=" + currentLogFile)
-      .then((response) => response.json())
-      .then((data) => {
-        document.getElementById("progressBar").style.width =
-          data.progress + "%";
-        document.getElementById("progressCount").textContent =
-          data.count + "/" + data.total;
-      });
-  }
-
-  // Poll progress every 2 seconds
-  setInterval(fetchProgress, 2000);
-
-  // Handle form submission using AJAX without pop-up
   document
     .getElementById("downloadForm")
     .addEventListener("submit", function (e) {
       e.preventDefault();
       let formData = new FormData(e.target);
+
+      document.getElementById("startButton").style.display = "none";
+      document.getElementById("downloadMessage").style.display = "block";
+
       fetch("{{ url_for('start_download') }}", {
         method: "POST",
         body: formData,
-      })
-        .then((response) => response.json())
-        .then((data) => {
-          console.log(data.status);
-          currentLogFile = data.log_file;
-        });
+      }).then((response) => response.json());
     });
 </script>
 {% endblock %}
