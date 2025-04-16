@@ -1,33 +1,59 @@
 # main.py
 
-import argparse
+import sys
+from colorama import init, Fore, Style
 from src import doi_extractor, downloader
 from config import BIBTEX_FILE, EXTRACTED_DOIS_FILE
 
+# Initialize Colorama for cross-platform colored output
+init(autoreset=True)
+
+def interactive_menu():
+    print(Fore.CYAN + "\nWelcome to Sci-Hub Downloader CLI (Interactive Mode)" + Style.RESET_ALL)
+    print("Select an option:")
+    print("  1. Extract DOIs from a BibTeX file")
+    print("  2. Download PDFs from Sci-Hub")
+    
+    choice = input("Enter choice (1 or 2): ").strip()
+
+    if choice == "1":
+        print("\n[Extraction Mode]")
+        # Prompt text updated to ask for confirmation with Enter
+        bibtex_input = input(
+            f"Confirm with Enter that your BibTeX file is at the default location [{BIBTEX_FILE}],\n"
+            "or type a new path: "
+        ).strip()
+        bibtex = bibtex_input if bibtex_input else BIBTEX_FILE
+
+        output_input = input(
+            f"Confirm with Enter that the output file for the extracted DOIs will be [{EXTRACTED_DOIS_FILE}],\n"
+            "or type a new path: "
+        ).strip()
+        output = output_input if output_input else EXTRACTED_DOIS_FILE
+
+        try:
+            doi_extractor.extract_dois_from_bibtex(bibtex, output)
+            print(Fore.GREEN + f"\n✅ DOI extraction successful! Output saved to {output}" + Style.RESET_ALL)
+        except Exception as e:
+            print(Fore.RED + f"\n❌ Extraction failed: {e}" + Style.RESET_ALL)
+    elif choice == "2":
+        print("\n[Download Mode]")
+        doi_file_input = input(
+            f"Confirm with Enter that your DOI file is located at the default path [{EXTRACTED_DOIS_FILE}],\n"
+            "or type a new path: "
+        ).strip()
+        doi_file = doi_file_input if doi_file_input else EXTRACTED_DOIS_FILE
+
+        try:
+            downloader.download_all_papers(doi_file)
+            print(Fore.GREEN + "\n✅ Download process finished!" + Style.RESET_ALL)
+        except Exception as e:
+            print(Fore.RED + f"\n❌ Download failed: {e}" + Style.RESET_ALL)
+    else:
+        print(Fore.YELLOW + "\n⚠️  Invalid choice. Please restart the application and select a valid option.\n" + Style.RESET_ALL)
+
 def main():
-    parser = argparse.ArgumentParser(
-        description="Tool for extracting DOIs from BibTeX and downloading PDFs from Sci-Hub."
-    )
-    subparsers = parser.add_subparsers(dest="command", required=True, help="Subcommands")
-
-    # Subparser for DOI extraction
-    extract_parser = subparsers.add_parser("extract", help="Extract DOIs from a BibTeX file")
-    extract_parser.add_argument("--bibtex", type=str, default=BIBTEX_FILE,
-                                help="Path to the BibTeX file")
-    extract_parser.add_argument("--output", type=str, default=EXTRACTED_DOIS_FILE,
-                                help="Output path for extracted DOIs")
-
-    # Subparser for downloading papers
-    download_parser = subparsers.add_parser("download", help="Download PDFs from Sci-Hub")
-    download_parser.add_argument("--doi_file", type=str, default=EXTRACTED_DOIS_FILE,
-                                 help="File containing DOIs to download")
-
-    args = parser.parse_args()
-
-    if args.command == "extract":
-        doi_extractor.extract_dois_from_bibtex(args.bibtex, args.output)
-    elif args.command == "download":
-        downloader.download_all_papers(args.doi_file)
+    interactive_menu()
 
 if __name__ == "__main__":
     main()
