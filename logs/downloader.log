@@ -2487,3 +2487,862 @@
 2025-04-16 12:41:36,554 [INFO] DOWNLOADED: 6/221
 2025-04-18 13:07:34,707 [INFO] ✓ Summary written to /Users/matiasrodlo/Documents/GitHub/scihub-downloader/data/extraction_summary.json
 2025-04-18 13:07:34,707 [INFO] Extracted 221 DOIs to /Users/matiasrodlo/Documents/GitHub/scihub-downloader/data/extracted_dois.txt
+2025-04-18 14:48:09,370 [INFO] ✓ Summary written to /Users/matiasrodlo/Documents/GitHub/scihub-downloader/data/extraction_summary.json
+2025-04-18 14:48:09,370 [INFO] Extracted 221 DOIs to /Users/matiasrodlo/Documents/GitHub/scihub-downloader/data/extracted_dois.txt
+📦 TOTAL: 221
+🔄 PROCESSING: 10.1080/13803390802484797 (1/221)
+TRYING MIRROR: https://sci-hub.se/10.1080/13803390802484797
+⚠️ No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1080/13803390802484797
+⚠️ No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1080/13803390802484797
+⚠️ No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1080/13803390802484797
+⚠️ No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1080/13803390802484797
+❌ Failed to access https://sci-hub.wf/10.1080/13803390802484797: 500
+❌ FINAL FAILURE: 10.1080/13803390802484797
+🔄 PROCESSING: 10.1017/S0033291719002393 (2/221)
+TRYING MIRROR: https://sci-hub.se/10.1017/S0033291719002393
+⚠️ No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1017/S0033291719002393
+⚠️ No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1017/S0033291719002393
+⚠️ No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1017/S0033291719002393
+⚠️ No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1017/S0033291719002393
+❌ Failed to access https://sci-hub.wf/10.1017/S0033291719002393: 500
+❌ FINAL FAILURE: 10.1017/S0033291719002393
+🔄 PROCESSING: 10.1007/s00221-011-2605-3 (3/221)
+TRYING MIRROR: https://sci-hub.se/10.1007/s00221-011-2605-3
+⚠️ No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1007/s00221-011-2605-3
+⚠️ No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1007/s00221-011-2605-3
+⚠️ No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1007/s00221-011-2605-3
+⚠️ No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1007/s00221-011-2605-3
+❌ Failed to access https://sci-hub.wf/10.1007/s00221-011-2605-3: 500
+❌ FINAL FAILURE: 10.1007/s00221-011-2605-3
+🔄 PROCESSING: 10.1007/s00213-017-4538-4 (4/221)
+TRYING MIRROR: https://sci-hub.se/10.1007/s00213-017-4538-4
+⚠️ No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1007/s00213-017-4538-4
+⚠️ No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1007/s00213-017-4538-4
+⚠️ No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1007/s00213-017-4538-4
+⚠️ No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1007/s00213-017-4538-4
+❌ Failed to access https://sci-hub.wf/10.1007/s00213-017-4538-4: 500
+❌ FINAL FAILURE: 10.1007/s00213-017-4538-4
+🔄 PROCESSING: 10.3390/brainsci11020267 (5/221)
+TRYING MIRROR: https://sci-hub.se/10.3390/brainsci11020267
+⚠️ No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.3390/brainsci11020267
+⚠️ No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.3390/brainsci11020267
+⚠️ No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.3390/brainsci11020267
+⚠️ No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.3390/brainsci11020267
+❌ Failed to access https://sci-hub.wf/10.3390/brainsci11020267: 500
+❌ FINAL FAILURE: 10.3390/brainsci11020267
+🔄 PROCESSING: 10.1007/s12671-019-01279-4 (6/221)
+TRYING MIRROR: https://sci-hub.se/10.1007/s12671-019-01279-4
+⚠️ No PDF iframe found for 10.1007/s12671-019-01279-4 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1007/s12671-019-01279-4
+⚠️ No PDF iframe found for 10.1007/s12671-019-01279-4 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1007/s12671-019-01279-4
+⚠️ No PDF iframe found for 10.1007/s12671-019-01279-4 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1007/s12671-019-01279-4
+⚠️ No PDF iframe found for 10.1007/s12671-019-01279-4 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1007/s12671-019-01279-4
+❌ Failed to access https://sci-hub.wf/10.1007/s12671-019-01279-4: 500
+❌ FINAL FAILURE: 10.1007/s12671-019-01279-4
+🔄 PROCESSING: 10.1037/xlm0000516 (7/221)
+TRYING MIRROR: https://sci-hub.se/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1037/xlm0000516
+❌ Failed to access https://sci-hub.wf/10.1037/xlm0000516: 500
+❌ FINAL FAILURE: 10.1037/xlm0000516
+🔄 PROCESSING: 10.1080/13218719.2013.873974 (8/221)
+TRYING MIRROR: https://sci-hub.se/10.1080/13218719.2013.873974
+⚠️ No PDF iframe found for 10.1080/13218719.2013.873974 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1080/13218719.2013.873974
+⚠️ No PDF iframe found for 10.1080/13218719.2013.873974 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1080/13218719.2013.873974
+⚠️ No PDF iframe found for 10.1080/13218719.2013.873974 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1080/13218719.2013.873974
+⚠️ No PDF iframe found for 10.1080/13218719.2013.873974 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1080/13218719.2013.873974
+❌ Failed to access https://sci-hub.wf/10.1080/13218719.2013.873974: 500
+❌ FINAL FAILURE: 10.1080/13218719.2013.873974
+🔄 PROCESSING: 10.1016/j.concog.2011.12.007 (9/221)
+TRYING MIRROR: https://sci-hub.se/10.1016/j.concog.2011.12.007
+⚠️ No PDF iframe found for 10.1016/j.concog.2011.12.007 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1016/j.concog.2011.12.007
+⚠️ No PDF iframe found for 10.1016/j.concog.2011.12.007 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1016/j.concog.2011.12.007
+⚠️ No PDF iframe found for 10.1016/j.concog.2011.12.007 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1016/j.concog.2011.12.007
+⚠️ No PDF iframe found for 10.1016/j.concog.2011.12.007 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1016/j.concog.2011.12.007
+❌ Failed to access https://sci-hub.wf/10.1016/j.concog.2011.12.007: 500
+❌ FINAL FAILURE: 10.1016/j.concog.2011.12.007
+🔄 PROCESSING: 10.1080/02699931.2016.1263601 (10/221)
+TRYING MIRROR: https://sci-hub.se/10.1080/02699931.2016.1263601
+⚠️ No PDF iframe found for 10.1080/02699931.2016.1263601 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1080/02699931.2016.1263601
+⚠️ No PDF iframe found for 10.1080/02699931.2016.1263601 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1080/02699931.2016.1263601
+⚠️ No PDF iframe found for 10.1080/02699931.2016.1263601 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1080/02699931.2016.1263601
+⚠️ No PDF iframe found for 10.1080/02699931.2016.1263601 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1080/02699931.2016.1263601
+❌ Failed to access https://sci-hub.wf/10.1080/02699931.2016.1263601: 500
+❌ FINAL FAILURE: 10.1080/02699931.2016.1263601
+🔄 PROCESSING: 10.1080/15622975.2017.1296973 (11/221)
+TRYING MIRROR: https://sci-hub.se/10.1080/15622975.2017.1296973
+⚠️ No PDF iframe found for 10.1080/15622975.2017.1296973 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1080/15622975.2017.1296973
+⚠️ No PDF iframe found for 10.1080/15622975.2017.1296973 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1080/15622975.2017.1296973
+⚠️ No PDF iframe found for 10.1080/15622975.2017.1296973 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1080/15622975.2017.1296973
+⚠️ No PDF iframe found for 10.1080/15622975.2017.1296973 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1080/15622975.2017.1296973
+❌ Failed to access https://sci-hub.wf/10.1080/15622975.2017.1296973: 500
+❌ FINAL FAILURE: 10.1080/15622975.2017.1296973
+🔄 PROCESSING: 10.1111/ejn.14946 (12/221)
+TRYING MIRROR: https://sci-hub.se/10.1111/ejn.14946
+⚠️ No PDF iframe found for 10.1111/ejn.14946 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1111/ejn.14946
+⚠️ No PDF iframe found for 10.1111/ejn.14946 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1111/ejn.14946
+⚠️ No PDF iframe found for 10.1111/ejn.14946 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1111/ejn.14946
+⚠️ No PDF iframe found for 10.1111/ejn.14946 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1111/ejn.14946
+❌ Failed to access https://sci-hub.wf/10.1111/ejn.14946: 500
+❌ FINAL FAILURE: 10.1111/ejn.14946
+🔄 PROCESSING: 10.3389/fpsyg.2016.01197 (13/221)
+TRYING MIRROR: https://sci-hub.se/10.3389/fpsyg.2016.01197
+⚠️ No PDF iframe found for 10.3389/fpsyg.2016.01197 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.3389/fpsyg.2016.01197
+⚠️ No PDF iframe found for 10.3389/fpsyg.2016.01197 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.3389/fpsyg.2016.01197
+⚠️ No PDF iframe found for 10.3389/fpsyg.2016.01197 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.3389/fpsyg.2016.01197
+⚠️ No PDF iframe found for 10.3389/fpsyg.2016.01197 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.3389/fpsyg.2016.01197
+❌ Failed to access https://sci-hub.wf/10.3389/fpsyg.2016.01197: 500
+❌ FINAL FAILURE: 10.3389/fpsyg.2016.01197
+🔄 PROCESSING: 10.1007/978-1-4419-1210-7\_6 (14/221)
+TRYING MIRROR: https://sci-hub.se/10.1007/978-1-4419-1210-7\_6
+❌ Failed to access https://sci-hub.se/10.1007/978-1-4419-1210-7\_6: 404
+TRYING MIRROR: https://sci-hub.ru/10.1007/978-1-4419-1210-7\_6
+❌ Failed to access https://sci-hub.ru/10.1007/978-1-4419-1210-7\_6: 404
+TRYING MIRROR: https://sci-hub.st/10.1007/978-1-4419-1210-7\_6
+❌ Failed to access https://sci-hub.st/10.1007/978-1-4419-1210-7\_6: 404
+TRYING MIRROR: https://sci-hub.tf/10.1007/978-1-4419-1210-7\_6
+⚠️ No PDF iframe found for 10.1007/978-1-4419-1210-7\_6 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1007/978-1-4419-1210-7\_6
+❌ Failed to access https://sci-hub.wf/10.1007/978-1-4419-1210-7\_6: 500
+❌ FINAL FAILURE: 10.1007/978-1-4419-1210-7\_6
+🔄 PROCESSING: 10.1523/JNEUROSCI.2486-17.2018 (15/221)
+TRYING MIRROR: https://sci-hub.se/10.1523/JNEUROSCI.2486-17.2018
+⚠️ No PDF iframe found for 10.1523/JNEUROSCI.2486-17.2018 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1523/JNEUROSCI.2486-17.2018
+⚠️ No PDF iframe found for 10.1523/JNEUROSCI.2486-17.2018 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1523/JNEUROSCI.2486-17.2018
+⚠️ No PDF iframe found for 10.1523/JNEUROSCI.2486-17.2018 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1523/JNEUROSCI.2486-17.2018
+⚠️ No PDF iframe found for 10.1523/JNEUROSCI.2486-17.2018 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1523/JNEUROSCI.2486-17.2018
+❌ Failed to access https://sci-hub.wf/10.1523/JNEUROSCI.2486-17.2018: 500
+❌ FINAL FAILURE: 10.1523/JNEUROSCI.2486-17.2018
+🔄 PROCESSING: 10.1016/j.psfr.2013.08.001 (16/221)
+TRYING MIRROR: https://sci-hub.se/10.1016/j.psfr.2013.08.001
+⚠️ No PDF iframe found for 10.1016/j.psfr.2013.08.001 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1016/j.psfr.2013.08.001
+⚠️ No PDF iframe found for 10.1016/j.psfr.2013.08.001 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1016/j.psfr.2013.08.001
+⚠️ No PDF iframe found for 10.1016/j.psfr.2013.08.001 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1016/j.psfr.2013.08.001
+⚠️ No PDF iframe found for 10.1016/j.psfr.2013.08.001 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1016/j.psfr.2013.08.001
+❌ Failed to access https://sci-hub.wf/10.1016/j.psfr.2013.08.001: 500
+❌ FINAL FAILURE: 10.1016/j.psfr.2013.08.001
+🔄 PROCESSING: 10.1016/j.bbr.2020.113079 (17/221)
+TRYING MIRROR: https://sci-hub.se/10.1016/j.bbr.2020.113079
+⚠️ No PDF iframe found for 10.1016/j.bbr.2020.113079 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1016/j.bbr.2020.113079
+⚠️ No PDF iframe found for 10.1016/j.bbr.2020.113079 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1016/j.bbr.2020.113079
+⚠️ No PDF iframe found for 10.1016/j.bbr.2020.113079 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1016/j.bbr.2020.113079
+⚠️ No PDF iframe found for 10.1016/j.bbr.2020.113079 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1016/j.bbr.2020.113079
+❌ Failed to access https://sci-hub.wf/10.1016/j.bbr.2020.113079: 500
+❌ FINAL FAILURE: 10.1016/j.bbr.2020.113079
+🔄 PROCESSING: 10.1016/j.jad.2013.06.052 (18/221)
+TRYING MIRROR: https://sci-hub.se/10.1016/j.jad.2013.06.052
+⚠️ No PDF iframe found for 10.1016/j.jad.2013.06.052 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1016/j.jad.2013.06.052
+⚠️ No PDF iframe found for 10.1016/j.jad.2013.06.052 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1016/j.jad.2013.06.052
+⚠️ No PDF iframe found for 10.1016/j.jad.2013.06.052 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1016/j.jad.2013.06.052
+⚠️ No PDF iframe found for 10.1016/j.jad.2013.06.052 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1016/j.jad.2013.06.052
+❌ Failed to access https://sci-hub.wf/10.1016/j.jad.2013.06.052: 500
+❌ FINAL FAILURE: 10.1016/j.jad.2013.06.052
+🔄 PROCESSING: 10.1016/j.jecp.2020.104809 (19/221)
+TRYING MIRROR: https://sci-hub.se/10.1016/j.jecp.2020.104809
+⚠️ No PDF iframe found for 10.1016/j.jecp.2020.104809 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1016/j.jecp.2020.104809
+⚠️ No PDF iframe found for 10.1016/j.jecp.2020.104809 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1016/j.jecp.2020.104809
+⚠️ No PDF iframe found for 10.1016/j.jecp.2020.104809 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1016/j.jecp.2020.104809
+⚠️ No PDF iframe found for 10.1016/j.jecp.2020.104809 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1016/j.jecp.2020.104809
+❌ Failed to access https://sci-hub.wf/10.1016/j.jecp.2020.104809: 500
+❌ FINAL FAILURE: 10.1016/j.jecp.2020.104809
+🔄 PROCESSING: 10.1016/bs.pbr.2016.03.009 (20/221)
+TRYING MIRROR: https://sci-hub.se/10.1016/bs.pbr.2016.03.009
+⚠️ No PDF iframe found for 10.1016/bs.pbr.2016.03.009 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1016/bs.pbr.2016.03.009
+⚠️ No PDF iframe found for 10.1016/bs.pbr.2016.03.009 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1016/bs.pbr.2016.03.009
+⚠️ No PDF iframe found for 10.1016/bs.pbr.2016.03.009 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1016/bs.pbr.2016.03.009
+⚠️ No PDF iframe found for 10.1016/bs.pbr.2016.03.009 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1016/bs.pbr.2016.03.009
+❌ Failed to access https://sci-hub.wf/10.1016/bs.pbr.2016.03.009: 500
+❌ FINAL FAILURE: 10.1016/bs.pbr.2016.03.009
+🔄 PROCESSING: 10.1016/j.actpsy.2021.103358 (21/221)
+TRYING MIRROR: https://sci-hub.se/10.1016/j.actpsy.2021.103358
+⚠️ No PDF iframe found for 10.1016/j.actpsy.2021.103358 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1016/j.actpsy.2021.103358
+⚠️ No PDF iframe found for 10.1016/j.actpsy.2021.103358 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1016/j.actpsy.2021.103358
+⚠️ No PDF iframe found for 10.1016/j.actpsy.2021.103358 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1016/j.actpsy.2021.103358
+⚠️ No PDF iframe found for 10.1016/j.actpsy.2021.103358 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1016/j.actpsy.2021.103358
+❌ Failed to access https://sci-hub.wf/10.1016/j.actpsy.2021.103358: 500
+❌ FINAL FAILURE: 10.1016/j.actpsy.2021.103358
+🔄 PROCESSING: 10.1016/j.neurobiolaging.2017.08.025 (22/221)
+TRYING MIRROR: https://sci-hub.se/10.1016/j.neurobiolaging.2017.08.025
+⚠️ No PDF iframe found for 10.1016/j.neurobiolaging.2017.08.025 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1016/j.neurobiolaging.2017.08.025
+⚠️ No PDF iframe found for 10.1016/j.neurobiolaging.2017.08.025 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1016/j.neurobiolaging.2017.08.025
+⚠️ No PDF iframe found for 10.1016/j.neurobiolaging.2017.08.025 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1016/j.neurobiolaging.2017.08.025
+⚠️ No PDF iframe found for 10.1016/j.neurobiolaging.2017.08.025 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1016/j.neurobiolaging.2017.08.025
+❌ Failed to access https://sci-hub.wf/10.1016/j.neurobiolaging.2017.08.025: 500
+❌ FINAL FAILURE: 10.1016/j.neurobiolaging.2017.08.025
+🔄 PROCESSING: 10.3758/PBR.16.4.660 (23/221)
+TRYING MIRROR: https://sci-hub.se/10.3758/PBR.16.4.660
+⚠️ No PDF iframe found for 10.3758/PBR.16.4.660 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.3758/PBR.16.4.660
+⚠️ No PDF iframe found for 10.3758/PBR.16.4.660 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.3758/PBR.16.4.660
+⚠️ No PDF iframe found for 10.3758/PBR.16.4.660 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.3758/PBR.16.4.660
+⚠️ No PDF iframe found for 10.3758/PBR.16.4.660 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.3758/PBR.16.4.660
+❌ Failed to access https://sci-hub.wf/10.3758/PBR.16.4.660: 500
+❌ FINAL FAILURE: 10.3758/PBR.16.4.660
+🔄 PROCESSING: 10.1016/j.physbeh.2021.113602 (24/221)
+TRYING MIRROR: https://sci-hub.se/10.1016/j.physbeh.2021.113602
+⚠️ No PDF iframe found for 10.1016/j.physbeh.2021.113602 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1016/j.physbeh.2021.113602
+⚠️ No PDF iframe found for 10.1016/j.physbeh.2021.113602 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1016/j.physbeh.2021.113602
+⚠️ No PDF iframe found for 10.1016/j.physbeh.2021.113602 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1016/j.physbeh.2021.113602
+⚠️ No PDF iframe found for 10.1016/j.physbeh.2021.113602 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1016/j.physbeh.2021.113602
+❌ Failed to access https://sci-hub.wf/10.1016/j.physbeh.2021.113602: 500
+❌ FINAL FAILURE: 10.1016/j.physbeh.2021.113602
+🔄 PROCESSING: 10.30773/pi.2020.0251 (25/221)
+TRYING MIRROR: https://sci-hub.se/10.30773/pi.2020.0251
+⚠️ No PDF iframe found for 10.30773/pi.2020.0251 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.30773/pi.2020.0251
+⚠️ No PDF iframe found for 10.30773/pi.2020.0251 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.30773/pi.2020.0251
+⚠️ No PDF iframe found for 10.30773/pi.2020.0251 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.30773/pi.2020.0251
+⚠️ No PDF iframe found for 10.30773/pi.2020.0251 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.30773/pi.2020.0251
+❌ Failed to access https://sci-hub.wf/10.30773/pi.2020.0251: 500
+❌ FINAL FAILURE: 10.30773/pi.2020.0251
+🔄 PROCESSING: 10.1007/s00213-009-1650-0 (26/221)
+TRYING MIRROR: https://sci-hub.se/10.1007/s00213-009-1650-0
+⚠️ No PDF iframe found for 10.1007/s00213-009-1650-0 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1007/s00213-009-1650-0
+⚠️ No PDF iframe found for 10.1007/s00213-009-1650-0 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1007/s00213-009-1650-0
+⚠️ No PDF iframe found for 10.1007/s00213-009-1650-0 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1007/s00213-009-1650-0
+⚠️ No PDF iframe found for 10.1007/s00213-009-1650-0 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1007/s00213-009-1650-0
+❌ Failed to access https://sci-hub.wf/10.1007/s00213-009-1650-0: 500
+❌ FINAL FAILURE: 10.1007/s00213-009-1650-0
+🔄 PROCESSING: 10.1177/1087054717730611 (27/221)
+TRYING MIRROR: https://sci-hub.se/10.1177/1087054717730611
+⚠️ No PDF iframe found for 10.1177/1087054717730611 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1177/1087054717730611
+⚠️ No PDF iframe found for 10.1177/1087054717730611 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1177/1087054717730611
+⚠️ No PDF iframe found for 10.1177/1087054717730611 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1177/1087054717730611
+⚠️ No PDF iframe found for 10.1177/1087054717730611 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1177/1087054717730611
+❌ Failed to access https://sci-hub.wf/10.1177/1087054717730611: 500
+❌ FINAL FAILURE: 10.1177/1087054717730611
+🔄 PROCESSING: 10.1080/02699931.2010.491647 (28/221)
+TRYING MIRROR: https://sci-hub.se/10.1080/02699931.2010.491647
+⚠️ No PDF iframe found for 10.1080/02699931.2010.491647 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1080/02699931.2010.491647
+⚠️ No PDF iframe found for 10.1080/02699931.2010.491647 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1080/02699931.2010.491647
+⚠️ No PDF iframe found for 10.1080/02699931.2010.491647 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1080/02699931.2010.491647
+⚠️ No PDF iframe found for 10.1080/02699931.2010.491647 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1080/02699931.2010.491647
+❌ Failed to access https://sci-hub.wf/10.1080/02699931.2010.491647: 500
+❌ FINAL FAILURE: 10.1080/02699931.2010.491647
+🔄 PROCESSING: 10.3389/fpsyg.2020.00180 (29/221)
+TRYING MIRROR: https://sci-hub.se/10.3389/fpsyg.2020.00180
+⚠️ No PDF iframe found for 10.3389/fpsyg.2020.00180 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.3389/fpsyg.2020.00180
+⚠️ No PDF iframe found for 10.3389/fpsyg.2020.00180 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.3389/fpsyg.2020.00180
+⚠️ No PDF iframe found for 10.3389/fpsyg.2020.00180 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.3389/fpsyg.2020.00180
+⚠️ No PDF iframe found for 10.3389/fpsyg.2020.00180 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.3389/fpsyg.2020.00180
+❌ Failed to access https://sci-hub.wf/10.3389/fpsyg.2020.00180: 500
+❌ FINAL FAILURE: 10.3389/fpsyg.2020.00180
+🔄 PROCESSING: 10.1016/bs.irn.2021.07.004 (30/221)
+TRYING MIRROR: https://sci-hub.se/10.1016/bs.irn.2021.07.004
+⚠️ No PDF iframe found for 10.1016/bs.irn.2021.07.004 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1016/bs.irn.2021.07.004
+⚠️ No PDF iframe found for 10.1016/bs.irn.2021.07.004 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1016/bs.irn.2021.07.004
+⚠️ No PDF iframe found for 10.1016/bs.irn.2021.07.004 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1016/bs.irn.2021.07.004
+⚠️ No PDF iframe found for 10.1016/bs.irn.2021.07.004 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1016/bs.irn.2021.07.004
+❌ Failed to access https://sci-hub.wf/10.1016/bs.irn.2021.07.004: 500
+❌ FINAL FAILURE: 10.1016/bs.irn.2021.07.004
+🔄 PROCESSING: 10.1080/87565641.2011.632458 (31/221)
+TRYING MIRROR: https://sci-hub.se/10.1080/87565641.2011.632458
+⚠️ No PDF iframe found for 10.1080/87565641.2011.632458 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1080/87565641.2011.632458
+⚠️ No PDF iframe found for 10.1080/87565641.2011.632458 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1080/87565641.2011.632458
+⚠️ No PDF iframe found for 10.1080/87565641.2011.632458 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1080/87565641.2011.632458
+⚠️ No PDF iframe found for 10.1080/87565641.2011.632458 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1080/87565641.2011.632458
+❌ Failed to access https://sci-hub.wf/10.1080/87565641.2011.632458: 500
+❌ FINAL FAILURE: 10.1080/87565641.2011.632458
+🔄 PROCESSING: 10.1055/s-2004-830233 (32/221)
+TRYING MIRROR: https://sci-hub.se/10.1055/s-2004-830233
+⚠️ No PDF iframe found for 10.1055/s-2004-830233 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1055/s-2004-830233
+⚠️ No PDF iframe found for 10.1055/s-2004-830233 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1055/s-2004-830233
+⚠️ No PDF iframe found for 10.1055/s-2004-830233 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1055/s-2004-830233
+⚠️ No PDF iframe found for 10.1055/s-2004-830233 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1055/s-2004-830233
+❌ Failed to access https://sci-hub.wf/10.1055/s-2004-830233: 500
+❌ FINAL FAILURE: 10.1055/s-2004-830233
+🔄 PROCESSING: 10.3389/fpsyt.2020.00288 (33/221)
+TRYING MIRROR: https://sci-hub.se/10.3389/fpsyt.2020.00288
+⚠️ No PDF iframe found for 10.3389/fpsyt.2020.00288 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.3389/fpsyt.2020.00288
+⚠️ No PDF iframe found for 10.3389/fpsyt.2020.00288 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.3389/fpsyt.2020.00288
+⚠️ No PDF iframe found for 10.3389/fpsyt.2020.00288 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.3389/fpsyt.2020.00288
+⚠️ No PDF iframe found for 10.3389/fpsyt.2020.00288 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.3389/fpsyt.2020.00288
+❌ Failed to access https://sci-hub.wf/10.3389/fpsyt.2020.00288: 500
+❌ FINAL FAILURE: 10.3389/fpsyt.2020.00288
+🔄 PROCESSING: 10.1348/000711010X492366 (34/221)
+TRYING MIRROR: https://sci-hub.se/10.1348/000711010X492366
+⚠️ No PDF iframe found for 10.1348/000711010X492366 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1348/000711010X492366
+⚠️ No PDF iframe found for 10.1348/000711010X492366 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1348/000711010X492366
+⚠️ No PDF iframe found for 10.1348/000711010X492366 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1348/000711010X492366
+⚠️ No PDF iframe found for 10.1348/000711010X492366 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1348/000711010X492366
+❌ Failed to access https://sci-hub.wf/10.1348/000711010X492366: 500
+❌ FINAL FAILURE: 10.1348/000711010X492366
+🔄 PROCESSING: 10.1016/j.neubiorev.2017.11.020 (35/221)
+TRYING MIRROR: https://sci-hub.se/10.1016/j.neubiorev.2017.11.020
+⚠️ No PDF iframe found for 10.1016/j.neubiorev.2017.11.020 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1016/j.neubiorev.2017.11.020
+⚠️ No PDF iframe found for 10.1016/j.neubiorev.2017.11.020 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1016/j.neubiorev.2017.11.020
+⚠️ No PDF iframe found for 10.1016/j.neubiorev.2017.11.020 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1016/j.neubiorev.2017.11.020
+⚠️ No PDF iframe found for 10.1016/j.neubiorev.2017.11.020 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1016/j.neubiorev.2017.11.020
+❌ Failed to access https://sci-hub.wf/10.1016/j.neubiorev.2017.11.020: 500
+❌ FINAL FAILURE: 10.1016/j.neubiorev.2017.11.020
+🔄 PROCESSING: 10.1017/S1366728912000569 (36/221)
+TRYING MIRROR: https://sci-hub.se/10.1017/S1366728912000569
+⚠️ No PDF iframe found for 10.1017/S1366728912000569 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1017/S1366728912000569
+⚠️ No PDF iframe found for 10.1017/S1366728912000569 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1017/S1366728912000569
+⚠️ No PDF iframe found for 10.1017/S1366728912000569 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1017/S1366728912000569
+⚠️ No PDF iframe found for 10.1017/S1366728912000569 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1017/S1366728912000569
+❌ Failed to access https://sci-hub.wf/10.1017/S1366728912000569: 500
+❌ FINAL FAILURE: 10.1017/S1366728912000569
+🔄 PROCESSING: 10.1080/02699931.2015.1034091 (37/221)
+TRYING MIRROR: https://sci-hub.se/10.1080/02699931.2015.1034091
+⚠️ No PDF iframe found for 10.1080/02699931.2015.1034091 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1080/02699931.2015.1034091
+⚠️ No PDF iframe found for 10.1080/02699931.2015.1034091 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1080/02699931.2015.1034091
+⚠️ No PDF iframe found for 10.1080/02699931.2015.1034091 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1080/02699931.2015.1034091
+⚠️ No PDF iframe found for 10.1080/02699931.2015.1034091 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1080/02699931.2015.1034091
+❌ Failed to access https://sci-hub.wf/10.1080/02699931.2015.1034091: 500
+❌ FINAL FAILURE: 10.1080/02699931.2015.1034091
+🔄 PROCESSING: 10.3758/s13414-016-1140-5 (38/221)
+TRYING MIRROR: https://sci-hub.se/10.3758/s13414-016-1140-5
+⚠️ No PDF iframe found for 10.3758/s13414-016-1140-5 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.3758/s13414-016-1140-5
+⚠️ No PDF iframe found for 10.3758/s13414-016-1140-5 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.3758/s13414-016-1140-5
+⚠️ No PDF iframe found for 10.3758/s13414-016-1140-5 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.3758/s13414-016-1140-5
+⚠️ No PDF iframe found for 10.3758/s13414-016-1140-5 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.3758/s13414-016-1140-5
+❌ Failed to access https://sci-hub.wf/10.3758/s13414-016-1140-5: 500
+❌ FINAL FAILURE: 10.3758/s13414-016-1140-5
+🔄 PROCESSING: 10.1016/j.neuroscience.2016.06.013 (39/221)
+TRYING MIRROR: https://sci-hub.se/10.1016/j.neuroscience.2016.06.013
+⚠️ No PDF iframe found for 10.1016/j.neuroscience.2016.06.013 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1016/j.neuroscience.2016.06.013
+⚠️ No PDF iframe found for 10.1016/j.neuroscience.2016.06.013 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1016/j.neuroscience.2016.06.013
+⚠️ No PDF iframe found for 10.1016/j.neuroscience.2016.06.013 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1016/j.neuroscience.2016.06.013
+⚠️ No PDF iframe found for 10.1016/j.neuroscience.2016.06.013 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1016/j.neuroscience.2016.06.013
+❌ Failed to access https://sci-hub.wf/10.1016/j.neuroscience.2016.06.013: 500
+❌ FINAL FAILURE: 10.1016/j.neuroscience.2016.06.013
+🔄 PROCESSING: 10.1080/10253890.2016.1192603 (40/221)
+TRYING MIRROR: https://sci-hub.se/10.1080/10253890.2016.1192603
+⚠️ No PDF iframe found for 10.1080/10253890.2016.1192603 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1080/10253890.2016.1192603
+⚠️ No PDF iframe found for 10.1080/10253890.2016.1192603 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1080/10253890.2016.1192603
+⚠️ No PDF iframe found for 10.1080/10253890.2016.1192603 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1080/10253890.2016.1192603
+⚠️ No PDF iframe found for 10.1080/10253890.2016.1192603 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1080/10253890.2016.1192603
+❌ Failed to access https://sci-hub.wf/10.1080/10253890.2016.1192603: 500
+❌ FINAL FAILURE: 10.1080/10253890.2016.1192603
+🔄 PROCESSING: 10.1016/j.neucom.2004.10.095 (41/221)
+TRYING MIRROR: https://sci-hub.se/10.1016/j.neucom.2004.10.095
+⚠️ No PDF iframe found for 10.1016/j.neucom.2004.10.095 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1016/j.neucom.2004.10.095
+⚠️ No PDF iframe found for 10.1016/j.neucom.2004.10.095 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1016/j.neucom.2004.10.095
+⚠️ No PDF iframe found for 10.1016/j.neucom.2004.10.095 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1016/j.neucom.2004.10.095
+⚠️ No PDF iframe found for 10.1016/j.neucom.2004.10.095 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1016/j.neucom.2004.10.095
+❌ Failed to access https://sci-hub.wf/10.1016/j.neucom.2004.10.095: 500
+❌ FINAL FAILURE: 10.1016/j.neucom.2004.10.095
+🔄 PROCESSING: 10.1007/s10578-017-0749-5 (42/221)
+TRYING MIRROR: https://sci-hub.se/10.1007/s10578-017-0749-5
+⚠️ No PDF iframe found for 10.1007/s10578-017-0749-5 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1007/s10578-017-0749-5
+⚠️ No PDF iframe found for 10.1007/s10578-017-0749-5 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1007/s10578-017-0749-5
+⚠️ No PDF iframe found for 10.1007/s10578-017-0749-5 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1007/s10578-017-0749-5
+⚠️ No PDF iframe found for 10.1007/s10578-017-0749-5 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1007/s10578-017-0749-5
+❌ Failed to access https://sci-hub.wf/10.1007/s10578-017-0749-5: 500
+❌ FINAL FAILURE: 10.1007/s10578-017-0749-5
+🔄 PROCESSING: 10.1111/desc.12024 (43/221)
+TRYING MIRROR: https://sci-hub.se/10.1111/desc.12024
+⚠️ No PDF iframe found for 10.1111/desc.12024 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1111/desc.12024
+⚠️ No PDF iframe found for 10.1111/desc.12024 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1111/desc.12024
+❌ Failed to access https://sci-hub.st/10.1111/desc.12024: 500
+TRYING MIRROR: https://sci-hub.tf/10.1111/desc.12024
+⚠️ No PDF iframe found for 10.1111/desc.12024 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1111/desc.12024
+❌ Failed to access https://sci-hub.wf/10.1111/desc.12024: 500
+❌ FINAL FAILURE: 10.1111/desc.12024
+📦 TOTAL: 221
+🔄 PROCESSING: 10.1080/13803390802484797 (1/221)
+TRYING MIRROR: https://sci-hub.se/10.1080/13803390802484797
+⚠️ No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1080/13803390802484797
+⚠️ No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1080/13803390802484797
+⚠️ No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1080/13803390802484797
+⚠️ No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1080/13803390802484797
+❌ Failed to access https://sci-hub.wf/10.1080/13803390802484797: 500
+❌ FINAL FAILURE: 10.1080/13803390802484797
+🔄 PROCESSING: 10.1017/S0033291719002393 (2/221)
+TRYING MIRROR: https://sci-hub.se/10.1017/S0033291719002393
+⚠️ No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1017/S0033291719002393
+⚠️ No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1017/S0033291719002393
+⚠️ No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1017/S0033291719002393
+⚠️ No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1017/S0033291719002393
+❌ Failed to access https://sci-hub.wf/10.1017/S0033291719002393: 500
+❌ FINAL FAILURE: 10.1017/S0033291719002393
+🔄 PROCESSING: 10.1007/s00221-011-2605-3 (3/221)
+TRYING MIRROR: https://sci-hub.se/10.1007/s00221-011-2605-3
+⚠️ No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1007/s00221-011-2605-3
+⚠️ No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1007/s00221-011-2605-3
+⚠️ No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1007/s00221-011-2605-3
+⚠️ No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1007/s00221-011-2605-3
+❌ Failed to access https://sci-hub.wf/10.1007/s00221-011-2605-3: 500
+❌ FINAL FAILURE: 10.1007/s00221-011-2605-3
+🔄 PROCESSING: 10.1007/s00213-017-4538-4 (4/221)
+TRYING MIRROR: https://sci-hub.se/10.1007/s00213-017-4538-4
+⚠️ No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1007/s00213-017-4538-4
+⚠️ No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1007/s00213-017-4538-4
+⚠️ No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1007/s00213-017-4538-4
+⚠️ No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1007/s00213-017-4538-4
+❌ Failed to access https://sci-hub.wf/10.1007/s00213-017-4538-4: 500
+❌ FINAL FAILURE: 10.1007/s00213-017-4538-4
+🔄 PROCESSING: 10.3390/brainsci11020267 (5/221)
+TRYING MIRROR: https://sci-hub.se/10.3390/brainsci11020267
+⚠️ No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.3390/brainsci11020267
+⚠️ No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.3390/brainsci11020267
+⚠️ No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.3390/brainsci11020267
+⚠️ No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.3390/brainsci11020267
+❌ Failed to access https://sci-hub.wf/10.3390/brainsci11020267: 500
+❌ FINAL FAILURE: 10.3390/brainsci11020267
+📦 TOTAL: 221
+🔄 PROCESSING: 10.1080/13803390802484797 (1/221)
+TRYING MIRROR: https://sci-hub.se/10.1080/13803390802484797
+⚠️ No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1080/13803390802484797
+⚠️ No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1080/13803390802484797
+⚠️ No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1080/13803390802484797
+⚠️ No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1080/13803390802484797
+⚠️ No PDF iframe found for 10.1080/13803390802484797 on https://sci-hub.wf
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1080/13803390802484797
+PDF URL: https://sci.bban.top/pdf/10.1080/13803390802484797.pdf#view=FitH
+✅ SUCCESS: 10.1080/13803390802484797
+✅ DOWNLOADED: 10.1080/13803390802484797
+🔄 PROCESSING: 10.1017/S0033291719002393 (2/221)
+TRYING MIRROR: https://sci-hub.se/10.1017/S0033291719002393
+⚠️ No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1017/S0033291719002393
+⚠️ No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1017/S0033291719002393
+⚠️ No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1017/S0033291719002393
+⚠️ No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1017/S0033291719002393
+⚠️ No PDF iframe found for 10.1017/S0033291719002393 on https://sci-hub.wf
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1017/S0033291719002393
+PDF URL: https://sci.bban.top/pdf/10.1017/S0033291719002393.pdf#view=FitH
+✅ SUCCESS: 10.1017/S0033291719002393
+✅ DOWNLOADED: 10.1017/S0033291719002393
+🔄 PROCESSING: 10.1007/s00221-011-2605-3 (3/221)
+TRYING MIRROR: https://sci-hub.se/10.1007/s00221-011-2605-3
+⚠️ No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1007/s00221-011-2605-3
+⚠️ No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1007/s00221-011-2605-3
+⚠️ No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1007/s00221-011-2605-3
+⚠️ No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1007/s00221-011-2605-3
+⚠️ No PDF iframe found for 10.1007/s00221-011-2605-3 on https://sci-hub.wf
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1007/s00221-011-2605-3
+PDF URL: https://sci.bban.top/pdf/10.1007/s00221-011-2605-3.pdf#view=FitH
+✅ SUCCESS: 10.1007/s00221-011-2605-3
+✅ DOWNLOADED: 10.1007/s00221-011-2605-3
+🔄 PROCESSING: 10.1007/s00213-017-4538-4 (4/221)
+TRYING MIRROR: https://sci-hub.se/10.1007/s00213-017-4538-4
+⚠️ No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1007/s00213-017-4538-4
+⚠️ No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1007/s00213-017-4538-4
+⚠️ No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1007/s00213-017-4538-4
+⚠️ No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1007/s00213-017-4538-4
+⚠️ No PDF iframe found for 10.1007/s00213-017-4538-4 on https://sci-hub.wf
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1007/s00213-017-4538-4
+PDF URL: https://sci.bban.top/pdf/10.1007/s00213-017-4538-4.pdf#view=FitH
+✅ SUCCESS: 10.1007/s00213-017-4538-4
+✅ DOWNLOADED: 10.1007/s00213-017-4538-4
+🔄 PROCESSING: 10.3390/brainsci11020267 (5/221)
+TRYING MIRROR: https://sci-hub.se/10.3390/brainsci11020267
+⚠️ No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.3390/brainsci11020267
+⚠️ No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.3390/brainsci11020267
+⚠️ No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.3390/brainsci11020267
+⚠️ No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.3390/brainsci11020267
+⚠️ No PDF iframe found for 10.3390/brainsci11020267 on https://sci-hub.wf
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.3390/brainsci11020267
+PDF URL: https://sci.bban.top/pdf/10.3390/brainsci11020267.pdf#view=FitH
+✅ SUCCESS: 10.3390/brainsci11020267
+✅ DOWNLOADED: 10.3390/brainsci11020267
+🔄 PROCESSING: 10.1007/s12671-019-01279-4 (6/221)
+TRYING MIRROR: https://sci-hub.se/10.1007/s12671-019-01279-4
+⚠️ No PDF iframe found for 10.1007/s12671-019-01279-4 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1007/s12671-019-01279-4
+⚠️ No PDF iframe found for 10.1007/s12671-019-01279-4 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1007/s12671-019-01279-4
+⚠️ No PDF iframe found for 10.1007/s12671-019-01279-4 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1007/s12671-019-01279-4
+⚠️ No PDF iframe found for 10.1007/s12671-019-01279-4 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1007/s12671-019-01279-4
+⚠️ No PDF iframe found for 10.1007/s12671-019-01279-4 on https://sci-hub.wf
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1007/s12671-019-01279-4
+PDF URL: https://sci.bban.top/pdf/10.1007/s12671-019-01279-4.pdf#view=FitH
+✅ SUCCESS: 10.1007/s12671-019-01279-4
+✅ DOWNLOADED: 10.1007/s12671-019-01279-4
+🔄 PROCESSING: 10.1037/xlm0000516 (7/221)
+TRYING MIRROR: https://sci-hub.se/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1037/xlm0000516
+📦 TOTAL: 221
+SKIPPED: 10.1080/13803390802484797
+SKIPPED: 10.1017/S0033291719002393
+SKIPPED: 10.1007/s00221-011-2605-3
+SKIPPED: 10.1007/s00213-017-4538-4
+SKIPPED: 10.3390/brainsci11020267
+SKIPPED: 10.1007/s12671-019-01279-4
+🔄 PROCESSING: 10.1037/xlm0000516 (7/221)
+TRYING MIRROR: https://sci-hub.se/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.wf
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.hkvisa.net
+TRYING MIRROR: https://sci-hub.scihubtw.tw/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.scihubtw.tw
+TRYING MIRROR: https://sci-hub.ee/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.ee
+❌ FINAL FAILURE: 10.1037/xlm0000516
+🔄 PROCESSING: 10.1080/13218719.2013.873974 (8/221)
+TRYING MIRROR: https://sci-hub.se/10.1080/13218719.2013.873974
+⚠️ No PDF iframe found for 10.1080/13218719.2013.873974 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1080/13218719.2013.873974
+⚠️ No PDF iframe found for 10.1080/13218719.2013.873974 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1080/13218719.2013.873974
+⚠️ No PDF iframe found for 10.1080/13218719.2013.873974 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1080/13218719.2013.873974
+⚠️ No PDF iframe found for 10.1080/13218719.2013.873974 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1080/13218719.2013.873974
+⚠️ No PDF iframe found for 10.1080/13218719.2013.873974 on https://sci-hub.wf
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1080/13218719.2013.873974
+PDF URL: https://sci.bban.top/pdf/10.1080/13218719.2013.873974.pdf#view=FitH
+✅ SUCCESS: 10.1080/13218719.2013.873974
+✅ DOWNLOADED: 10.1080/13218719.2013.873974
+🔄 PROCESSING: 10.1016/j.concog.2011.12.007 (9/221)
+TRYING MIRROR: https://sci-hub.se/10.1016/j.concog.2011.12.007
+⚠️ No PDF iframe found for 10.1016/j.concog.2011.12.007 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1016/j.concog.2011.12.007
+⚠️ No PDF iframe found for 10.1016/j.concog.2011.12.007 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1016/j.concog.2011.12.007
+⚠️ No PDF iframe found for 10.1016/j.concog.2011.12.007 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1016/j.concog.2011.12.007
+⚠️ No PDF iframe found for 10.1016/j.concog.2011.12.007 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1016/j.concog.2011.12.007
+⚠️ No PDF iframe found for 10.1016/j.concog.2011.12.007 on https://sci-hub.wf
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1016/j.concog.2011.12.007
+PDF URL: https://sci.bban.top/pdf/10.1016/j.concog.2011.12.007.pdf#view=FitH
+✅ SUCCESS: 10.1016/j.concog.2011.12.007
+✅ DOWNLOADED: 10.1016/j.concog.2011.12.007
+🔄 PROCESSING: 10.1080/02699931.2016.1263601 (10/221)
+TRYING MIRROR: https://sci-hub.se/10.1080/02699931.2016.1263601
+⚠️ No PDF iframe found for 10.1080/02699931.2016.1263601 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1080/02699931.2016.1263601
+⚠️ No PDF iframe found for 10.1080/02699931.2016.1263601 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1080/02699931.2016.1263601
+⚠️ No PDF iframe found for 10.1080/02699931.2016.1263601 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1080/02699931.2016.1263601
+⚠️ No PDF iframe found for 10.1080/02699931.2016.1263601 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1080/02699931.2016.1263601
+⚠️ No PDF iframe found for 10.1080/02699931.2016.1263601 on https://sci-hub.wf
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1080/02699931.2016.1263601
+PDF URL: https://sci.bban.top/pdf/10.1080/02699931.2016.1263601.pdf#view=FitH
+✅ SUCCESS: 10.1080/02699931.2016.1263601
+✅ DOWNLOADED: 10.1080/02699931.2016.1263601
+🔄 PROCESSING: 10.1080/15622975.2017.1296973 (11/221)
+TRYING MIRROR: https://sci-hub.se/10.1080/15622975.2017.1296973
+⚠️ No PDF iframe found for 10.1080/15622975.2017.1296973 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1080/15622975.2017.1296973
+⚠️ No PDF iframe found for 10.1080/15622975.2017.1296973 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1080/15622975.2017.1296973
+⚠️ No PDF iframe found for 10.1080/15622975.2017.1296973 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1080/15622975.2017.1296973
+⚠️ No PDF iframe found for 10.1080/15622975.2017.1296973 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1080/15622975.2017.1296973
+⚠️ No PDF iframe found for 10.1080/15622975.2017.1296973 on https://sci-hub.wf
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1080/15622975.2017.1296973
+PDF URL: https://sci.bban.top/pdf/10.1080/15622975.2017.1296973.pdf#view=FitH
+✅ SUCCESS: 10.1080/15622975.2017.1296973
+✅ DOWNLOADED: 10.1080/15622975.2017.1296973
+🔄 PROCESSING: 10.1111/ejn.14946 (12/221)
+TRYING MIRROR: https://sci-hub.se/10.1111/ejn.14946
+📦 TOTAL: 221
+SKIPPED: 10.1080/13803390802484797
+SKIPPED: 10.1017/S0033291719002393
+SKIPPED: 10.1007/s00221-011-2605-3
+SKIPPED: 10.1007/s00213-017-4538-4
+SKIPPED: 10.3390/brainsci11020267
+SKIPPED: 10.1007/s12671-019-01279-4
+🔄 PROCESSING: 10.1037/xlm0000516 (7/221)
+TRYING MIRROR: https://sci-hub.se/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.wf
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.hkvisa.net
+TRYING MIRROR: https://sci-hub.scihubtw.tw/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.scihubtw.tw
+TRYING MIRROR: https://sci-hub.ee/10.1037/xlm0000516
+⚠️ No PDF iframe found for 10.1037/xlm0000516 on https://sci-hub.ee
+❌ FINAL FAILURE: 10.1037/xlm0000516
+SKIPPED: 10.1080/13218719.2013.873974
+SKIPPED: 10.1016/j.concog.2011.12.007
+SKIPPED: 10.1080/02699931.2016.1263601
+SKIPPED: 10.1080/15622975.2017.1296973
+🔄 PROCESSING: 10.1111/ejn.14946 (12/221)
+TRYING MIRROR: https://sci-hub.se/10.1111/ejn.14946
+⚠️ No PDF iframe found for 10.1111/ejn.14946 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1111/ejn.14946
+⚠️ No PDF iframe found for 10.1111/ejn.14946 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1111/ejn.14946
+⚠️ No PDF iframe found for 10.1111/ejn.14946 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1111/ejn.14946
+⚠️ No PDF iframe found for 10.1111/ejn.14946 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1111/ejn.14946
+⚠️ No PDF iframe found for 10.1111/ejn.14946 on https://sci-hub.wf
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1111/ejn.14946
+PDF URL: https://sci.bban.top/pdf/10.1111/ejn.14946.pdf#view=FitH
+✅ SUCCESS: 10.1111/ejn.14946
+✅ DOWNLOADED: 10.1111/ejn.14946
+🔄 PROCESSING: 10.3389/fpsyg.2016.01197 (13/221)
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.3389/fpsyg.2016.01197
+PDF URL: https://sci.bban.top/pdf/10.3389/fpsyg.2016.01197.pdf#view=FitH
+✅ SUCCESS: 10.3389/fpsyg.2016.01197
+✅ DOWNLOADED: 10.3389/fpsyg.2016.01197
+🔄 PROCESSING: 10.1007/978-1-4419-1210-7\_6 (14/221)
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1007/978-1-4419-1210-7\_6
+❌ Failed to access https://sci-hub.hkvisa.net/10.1007/978-1-4419-1210-7\_6: 404
+❌ FINAL FAILURE: 10.1007/978-1-4419-1210-7\_6
+🔄 PROCESSING: 10.1523/JNEUROSCI.2486-17.2018 (15/221)
+TRYING MIRROR: https://sci-hub.se/10.1523/JNEUROSCI.2486-17.2018
+⚠️ No PDF iframe found for 10.1523/JNEUROSCI.2486-17.2018 on https://sci-hub.se
+TRYING MIRROR: https://sci-hub.ru/10.1523/JNEUROSCI.2486-17.2018
+⚠️ No PDF iframe found for 10.1523/JNEUROSCI.2486-17.2018 on https://sci-hub.ru
+TRYING MIRROR: https://sci-hub.st/10.1523/JNEUROSCI.2486-17.2018
+⚠️ No PDF iframe found for 10.1523/JNEUROSCI.2486-17.2018 on https://sci-hub.st
+TRYING MIRROR: https://sci-hub.tf/10.1523/JNEUROSCI.2486-17.2018
+⚠️ No PDF iframe found for 10.1523/JNEUROSCI.2486-17.2018 on https://sci-hub.tf
+TRYING MIRROR: https://sci-hub.wf/10.1523/JNEUROSCI.2486-17.2018
+⚠️ No PDF iframe found for 10.1523/JNEUROSCI.2486-17.2018 on https://sci-hub.wf
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1523/JNEUROSCI.2486-17.2018
+PDF URL: https://sci.bban.top/pdf/10.1523/JNEUROSCI.2486-17.2018.pdf#view=FitH
+✅ SUCCESS: 10.1523/JNEUROSCI.2486-17.2018
+✅ DOWNLOADED: 10.1523/JNEUROSCI.2486-17.2018
+🔄 PROCESSING: 10.1016/j.psfr.2013.08.001 (16/221)
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1016/j.psfr.2013.08.001
+PDF URL: https://sci.bban.top/pdf/10.1016/j.psfr.2013.08.001.pdf#view=FitH
+✅ SUCCESS: 10.1016/j.psfr.2013.08.001
+✅ DOWNLOADED: 10.1016/j.psfr.2013.08.001
+🔄 PROCESSING: 10.1016/j.bbr.2020.113079 (17/221)
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1016/j.bbr.2020.113079
+PDF URL: https://sci.bban.top/pdf/10.1016/j.bbr.2020.113079.pdf#view=FitH
+✅ SUCCESS: 10.1016/j.bbr.2020.113079
+✅ DOWNLOADED: 10.1016/j.bbr.2020.113079
+🔄 PROCESSING: 10.1016/j.jad.2013.06.052 (18/221)
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1016/j.jad.2013.06.052
+PDF URL: https://sci.bban.top/pdf/10.1016/j.jad.2013.06.052.pdf#view=FitH
+✅ SUCCESS: 10.1016/j.jad.2013.06.052
+✅ DOWNLOADED: 10.1016/j.jad.2013.06.052
+🔄 PROCESSING: 10.1016/j.jecp.2020.104809 (19/221)
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1016/j.jecp.2020.104809
+PDF URL: https://sci.bban.top/pdf/10.1016/j.jecp.2020.104809.pdf#view=FitH
+✅ SUCCESS: 10.1016/j.jecp.2020.104809
+✅ DOWNLOADED: 10.1016/j.jecp.2020.104809
+🔄 PROCESSING: 10.1016/bs.pbr.2016.03.009 (20/221)
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1016/bs.pbr.2016.03.009
+PDF URL: https://sci.bban.top/pdf/10.1016/bs.pbr.2016.03.009.pdf#view=FitH
+✅ SUCCESS: 10.1016/bs.pbr.2016.03.009
+✅ DOWNLOADED: 10.1016/bs.pbr.2016.03.009
+🔄 PROCESSING: 10.1016/j.actpsy.2021.103358 (21/221)
+TRYING MIRROR: https://sci-hub.hkvisa.net/10.1016/j.actpsy.2021.103358

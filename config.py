@@ -2,18 +2,16 @@ import os
 import logging
 from logging.handlers import RotatingFileHandler
 
-# ---------------------- General Application Settings ----------------------
+# ---------------------- General Settings ----------------------
 APP_VERSION = "1.0"
 DEBUG_MODE = True
 USE_COLOR = True
-SECRET_KEY = "replace-this-with-a-secure-key"
 
 # ---------------------- Project Directories ----------------------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 LOGS_DIR = os.path.join(BASE_DIR, "logs")
 SRC_DIR = os.path.join(BASE_DIR, "src")
-TEMPLATES_DIR = os.path.join(BASE_DIR, "templates")
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs(LOGS_DIR, exist_ok=True)
@@ -33,19 +31,21 @@ SCI_HUB_URLS = [
     "https://sci-hub.st",
     "https://sci-hub.tf",
     "https://sci-hub.wf",
+    "https://sci-hub.hkvisa.net",     # ✅ Alternative mirror (HK)
+    "https://sci-hub.scihubtw.tw",    # ✅ TW mirror
+    "https://sci-hub.ee",             # ✅ EE mirror
 ]
 
-PAGE_TIMEOUT = 10
-DOWNLOAD_TIMEOUT = 10
-DELAY_MIN = 2
-DELAY_MAX = 5
-MAX_WORKERS = 5
+DOWNLOAD_TIMEOUT = 10     # Request timeout in seconds
+DELAY_MIN = 3             # Delay between downloads to avoid IP bans
+DELAY_MAX = 5             # (Reserved for future random delay support)
+MAX_WORKERS = 5           # (Reserved for future parallel downloads)
 
 # ---------------------- Logging Settings ----------------------
 LOG_MAX_BYTES = 1_000_000
 LOG_BACKUP_COUNT = 5
 
-# ---------------------- Regular Expressions ----------------------
+# ---------------------- DOI Pattern ----------------------
 DOI_REGEX = r'^10\.\d{4,9}/[-._;()/:A-Z0-9]+$'
 
 # ---------------------- Logger Initialization ----------------------
@@ -57,5 +57,5 @@ def get_logger(name="app"):
         handler.setFormatter(formatter)
         logger.setLevel(logging.INFO)
         logger.addHandler(handler)
-        logger.propagate = False  # Avoid duplicate logs from root
+        logger.propagate = False
     return logger
