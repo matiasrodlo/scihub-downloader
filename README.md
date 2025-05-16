@@ -2,6 +2,19 @@
 
 Command-line tool to extract DOIs from BibTeX files and download academic papers via Sci-Hub. Built for researchers, students, and developers who want faster, automated access to scientific literature.
 
+## Terminal Example
+
+```bash
+$ python main.py interactive
+
+📘 Welcome to Sci-Hub Downloader (Terminal Mode)
+
+1. 📄 Extract DOIs from a BibTeX file
+2. 📥 Download PDFs from Sci-Hub
+0. ❌ Exit
+Enter your choice: 
+```
+
 ## Features
 
 ### DOI Extraction:
